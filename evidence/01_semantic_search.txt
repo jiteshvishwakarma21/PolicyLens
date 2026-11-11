@@ -1,0 +1,126 @@
+W1111 20:44:40.848000 42590 .venv/lib/python3.12/site-packages/torch/distributed/elastic/multiprocessing/redirects.py:35] NOTE: Redirects are currently not supported in MacOs.
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading embedding model: intfloat/e5-base-v2
+Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]Loading weights: 100%|██████████| 199/199 [00:00<00:00, 13431.38it/s]
+Embedding model loaded successfully!
+Maximum sequence length: 512
+Connected to collection: policylens_final_30docs
+
+=================================================================
+                  POLICYLENS SEARCH
+=================================================================
+Query: What are the KYC requirements for bank customers?
+Results requested: 5
+Filters: None
+-----------------------------------------------------------------
+
+Rank: 1
+Similarity Score: 0.8671
+Title: Master Direction - Know Your Customer (KYC) Direction 2016
+Issuer: Reserve Bank of India
+Document ID: RBI_KYC_001
+Pages: 59 - 59
+Section: CERSAI.
+
+Extracted Text:
+ of establishing an account-based relationship, updation/
+periodic updation or for verification of identity of a customer, the RE shall seek
+the KYC Identifier from the customer or retrieve the KYC Identifier, if available,
+from the CKYCR and proceed to obtain KYC records online by using such KYC
+Identifier and shall not require a customer to submit the same KYC records or
+information or any other additional identification documents or details, unless–
+(i) there is a change in the information of
+-----------------------------------------------------------------
+
+Rank: 2
+Similarity Score: 0.8633
+Title: Report on Trend and Progress of Banking in India 2024-25
+Issuer: Reserve Bank of India
+Document ID: RBI_TREND_001
+Pages: 54 - 54
+Section: DOMESTIC POLICY ENVIRONMENT
+
+Extracted Text:
+ and 4 UCBs to provide needbased working capital finance to borrowers
+who use gold or silver as a raw material, or as
+an input in their manufacturing or industrial
+processing activity.
+3.8 Know Your Customer Amendments
+III.22 In order to further ease the process of
+know your customer (KYC) updation for the
+customers, the Reserve Bank amended the KYC
+Directions on June 12, 2025. In respect of an
+individual customer, who is categorised as low
+risk, the RE shall allow all transactions and
+ensure th
+-----------------------------------------------------------------
+
+Rank: 3
+Similarity Score: 0.8577
+Title: Financial Stability Report June 2026
+Issuer: Reserve Bank of India
+Document ID: RBI_FSR_001
+Pages: 146 - 147
+Section: (Q-SAFE).
+
+Extracted Text:
+  Technology-enabled
+KYC:
+Balancing
+Customer Convenience and Risk Management
+3.44
+The Know Your Customer (KYC) processes
+have undergone a sea change in the last decade and
+a half, with the introduction of technology-based
+solutions for identification such as Aadhaar e-KYC
+authentication and Aadhaar Offline verification,
+equivalent e-documents including the documents
+issued in DigiLocker, Video KYC and the Central KYC
+Records Registry (CKYCR).
+3.45
+While technology helps in making the KYC
+process
+-----------------------------------------------------------------
+
+Rank: 4
+Similarity Score: 0.8566
+Title: Master Direction - Know Your Customer (KYC) Direction 2016
+Issuer: Reserve Bank of India
+Document ID: RBI_KYC_001
+Pages: 41 - 41
+Section: CHAPTER IV
+
+Extracted Text:
+ Updation/
+Periodic Updation of KYC
+Self-declaration from the customer in case of no change in KYC
+information or change only in the address details may be obtained through
+an authorized BC of the bank. The bank shall enable its BC systems for
+recording these self-declarations and supporting documents thereof in
+electronic form in the bank’s systems.
+The bank shall obtain the self-declaration including the supporting
+documents, if required, in the electronic mode from the customer through
+the BC
+-----------------------------------------------------------------
+
+Rank: 5
+Similarity Score: 0.855
+Title: Master Direction - Know Your Customer (KYC) Direction 2016
+Issuer: Reserve Bank of India
+Document ID: RBI_KYC_001
+Pages: 15 - 16
+Section: CHAPTER II
+
+Extracted Text:
+General
+4. (a) There shall be a Know Your Customer (KYC) policy duly approved by the Board
+of Directors of REs or any committee of the Board to which power has been
+delegated.
+32(b) In terms of PML Rules, groups are required to implement group-wide policies
+for the purpose of discharging obligations under the provisions of Chapter IV of
+the PML Act, 2002. (15 of 2003). Accordingly, every RE which is part of a group,
+shall implement group-wide programmes against money laundering and terror
+financ
+-----------------------------------------------------------------
+
+Total results: 5

@@ -1,0 +1,116 @@
+W1111 21:22:43.591000 42930 .venv/lib/python3.12/site-packages/torch/distributed/elastic/multiprocessing/redirects.py:35] NOTE: Redirects are currently not supported in MacOs.
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading embedding model: intfloat/e5-base-v2
+Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]Loading weights: 100%|██████████| 199/199 [00:00<00:00, 11929.77it/s]
+Embedding model loaded successfully!
+Maximum sequence length: 512
+Connected to collection: policylens_final_30docs
+
+=================================================================
+                  POLICYLENS SEARCH
+=================================================================
+Query: What are the KYC requirements?
+Results requested: 5
+Filters: {'doc_id': 'RBI_KYC_001'}
+-----------------------------------------------------------------
+
+Rank: 1
+Similarity Score: 0.86
+Title: Master Direction - Know Your Customer (KYC) Direction 2016
+Issuer: Reserve Bank of India
+Document ID: RBI_KYC_001
+Pages: 59 - 59
+Section: CERSAI.
+
+Extracted Text:
+ of establishing an account-based relationship, updation/
+periodic updation or for verification of identity of a customer, the RE shall seek
+the KYC Identifier from the customer or retrieve the KYC Identifier, if available,
+from the CKYCR and proceed to obtain KYC records online by using such KYC
+Identifier and shall not require a customer to submit the same KYC records or
+information or any other additional identification documents or details, unless–
+(i) there is a change in the information of
+-----------------------------------------------------------------
+
+Rank: 2
+Similarity Score: 0.8491
+Title: Master Direction - Know Your Customer (KYC) Direction 2016
+Issuer: Reserve Bank of India
+Document ID: RBI_KYC_001
+Pages: 7 - 8
+Section: PRELIMINARY
+
+Extracted Text:
+“Digital KYC” means the capturing live photo of the customer and officially
+valid document or the proof of possession of Aadhaar, where offline verification
+cannot be carried out, along with the latitude and longitude of the location
+where such live photo is being taken by an authorised officer of the RE as per
+the provisions contained in the Act.
+ix. 12“Digital Signature” shall have the same meaning as assigned to it in clause
+(p) of sub-section (1) of section (2) of the Information Technology
+-----------------------------------------------------------------
+
+Rank: 3
+Similarity Score: 0.8427
+Title: Master Direction - Know Your Customer (KYC) Direction 2016
+Issuer: Reserve Bank of India
+Document ID: RBI_KYC_001
+Pages: 4 - 4
+Section: PRELIMINARY
+
+Extracted Text:
+(c) 2The Frequently Asked Questions (FAQs) on KYC may be accessed at the
+following link Reserve Bank of India - Frequently Asked Questions (rbi.org.in).
+2. Applicability
+(a) 3The provisions of these Directions shall apply to every entity regulated by
+Reserve Bank of India, more specifically as defined in 3 (b) (xiv) below, except
+where specifically mentioned otherwise.
+(b) These directions shall also apply to those branches and majority owned
+subsidiaries of the REs which are located abroad, to
+-----------------------------------------------------------------
+
+Rank: 4
+Similarity Score: 0.8424
+Title: Master Direction - Know Your Customer (KYC) Direction 2016
+Issuer: Reserve Bank of India
+Document ID: RBI_KYC_001
+Pages: 16 - 16
+Section: CHAPTER II
+
+Extracted Text:
+ of the legal/regulatory
+requirements as above, REs may also consider adoption of best international
+practices taking into account the FATF standards and FATF guidance notes, for
+managing risks better.
+5. The KYC policy shall include following four key elements:
+(a) Customer Acceptance Policy;
+(b) Risk Management;
+(c) Customer Identification Procedures (CIP); and
+(d) Monitoring of Transactions
+345A. Money Laundering and Terrorist Financing Risk Assessment by REs:
+(a) REs shall carry out ‘Money L
+-----------------------------------------------------------------
+
+Rank: 5
+Similarity Score: 0.84
+Title: Master Direction - Know Your Customer (KYC) Direction 2016
+Issuer: Reserve Bank of India
+Document ID: RBI_KYC_001
+Pages: 42 - 43
+Section: CHAPTER IV
+
+Extracted Text:
+
+applicable for on-boarding a new customer.
+ii.
+Customer’s PAN details, if available with the RE, is verified from the
+database of the issuing authority at the time of periodic updation of KYC.
+iii.
+Acknowledgment is provided to the customer mentioning the date of
+receipt of the relevant document(s), including self-declaration from the
+customer, for carrying out 120updation/ periodic updation. Further, it shall
+119 Amended vide circular DOR.AML.REC.111/14.01.001/2023-24 dated April 28, 2023.
+120
+-----------------------------------------------------------------
+
+Total results: 5

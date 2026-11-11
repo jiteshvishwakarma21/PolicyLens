@@ -1,0 +1,174 @@
+W1111 21:27:07.448000 43911 .venv/lib/python3.12/site-packages/torch/distributed/elastic/multiprocessing/redirects.py:35] NOTE: Redirects are currently not supported in MacOs.
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+
+Loading document manifest...
+Documents in manifest: 30
+PDF files discovered: 30
+Connected to collection: policylens_final_30docs
+Loading embedding model: intfloat/e5-base-v2
+Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]Loading weights: 100%|██████████| 199/199 [00:00<00:00, 12791.63it/s]
+Embedding model loaded successfully!
+Maximum sequence length: 512
+
+Chunking strategy: structure
+Collection: policylens_final_30docs
+
+============================================================
+Processing: RBI_Commercial_Banks_Credit_Facilities_2025.pdf
+============================================================
+Document unchanged. Skipping.
+
+============================================================
+Processing: RBI_KYC_Master_Direction.pdf
+============================================================
+Document unchanged. Skipping.
+
+============================================================
+Processing: RBI_Bulletin_1975.pdf
+============================================================
+Document unchanged. Skipping.
+
+============================================================
+Processing: RBI_Bulletin_February_1952.pdf
+============================================================
+Document unchanged. Skipping.
+
+============================================================
+Processing: RBI_Bulletin_January_1952.pdf
+============================================================
+Document unchanged. Skipping.
+
+============================================================
+Processing: RBI_Bulletin_March_1952.pdf
+============================================================
+Document unchanged. Skipping.
+
+============================================================
+Processing: RBI_Bulletin_November_1951.pdf
+============================================================
+Document unchanged. Skipping.
+
+============================================================
+Processing: RBI_Report_Currency_Finance_1959_60.pdf
+============================================================
+Document unchanged. Skipping.
+
+============================================================
+Processing: RBI_Statistical_Tables_Bank_CRAR_2024_25.pdf
+============================================================
+Document unchanged. Skipping.
+
+============================================================
+Processing: RBI_Statistical_Tables_Bank_Earnings_Expenses_2024_25.pdf
+============================================================
+Document unchanged. Skipping.
+
+============================================================
+Processing: RBI_Statistical_Tables_Bank_Liabilities_Assets_2024_25.pdf
+============================================================
+Document unchanged. Skipping.
+
+============================================================
+Processing: RBI_Statistical_Tables_Bank_NPA_Movement_2024_25.pdf
+============================================================
+Document unchanged. Skipping.
+
+============================================================
+Processing: RBI_Statistical_Tables_Bank_Provisions_Contingencies_2024_25.pdf
+============================================================
+Document unchanged. Skipping.
+
+============================================================
+Processing: RBI_Annual_Report_2025_26_Chapter_01.pdf
+============================================================
+Document unchanged. Skipping.
+
+============================================================
+Processing: RBI_Annual_Report_2025_26_Chapter_02.pdf
+============================================================
+Document unchanged. Skipping.
+
+============================================================
+Processing: RBI_Annual_Report_2025_26_Chapter_03.pdf
+============================================================
+Document unchanged. Skipping.
+
+============================================================
+Processing: RBI_Annual_Report_2025_26_Chapter_04.pdf
+============================================================
+Document unchanged. Skipping.
+
+============================================================
+Processing: RBI_Annual_Report_2025_26_Chapter_05.pdf
+============================================================
+Document unchanged. Skipping.
+
+============================================================
+Processing: RBI_Annual_Report_2025_26_Chapter_06.pdf
+============================================================
+Document unchanged. Skipping.
+
+============================================================
+Processing: RBI_Annual_Report_2025_26_Chapter_07.pdf
+============================================================
+Document unchanged. Skipping.
+
+============================================================
+Processing: RBI_Annual_Report_2025_26_Chapter_08.pdf
+============================================================
+Document unchanged. Skipping.
+
+============================================================
+Processing: RBI_Annual_Report_2025_26_Chapter_09.pdf
+============================================================
+Document unchanged. Skipping.
+
+============================================================
+Processing: RBI_Annual_Report_2025_26_Chapter_10.pdf
+============================================================
+Document unchanged. Skipping.
+
+============================================================
+Processing: RBI_Annual_Report_2025_26_Chapter_11.pdf
+============================================================
+Document unchanged. Skipping.
+
+============================================================
+Processing: RBI_Annual_Report_2025_26_Chapter_12.pdf
+============================================================
+Document unchanged. Skipping.
+
+============================================================
+Processing: RBI_Banking_Regulation_Act_1949.pdf
+============================================================
+Document unchanged. Skipping.
+
+============================================================
+Processing: RBI_Financial_Stability_Report_June_2026.pdf
+============================================================
+Document unchanged. Skipping.
+
+============================================================
+Processing: RBI_Handbook_Statistics_Indian_Economy_2025_26.pdf
+============================================================
+Document unchanged. Skipping.
+
+============================================================
+Processing: RBI_National_Strategy_Financial_Inclusion_2025_30.pdf
+============================================================
+Document unchanged. Skipping.
+
+============================================================
+Processing: RBI_Trend_Progress_Banking_2024_25.pdf
+============================================================
+Document unchanged. Skipping.
+
+============================================================
+INGESTION PROCESS COMPLETED
+============================================================
+Documents discovered: 30
+Documents successful: 30
+Documents failed: 0
+New chunks processed: 0
+Documents skipped: 30
+Total chunks in collection: 15374

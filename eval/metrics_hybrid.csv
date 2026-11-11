@@ -1,0 +1,2 @@
+retrieval_method,total_questions,Recall@3,Recall@5,Recall@10,MRR
+Hybrid BM25 + Semantic + RRF,25,0.96,1.0,1.0,0.9233333333333333

@@ -1,0 +1,1211 @@
+question_id,question,question_type,rank,rrf_score,retrieved_doc_id,title,page_start,page_end,section_title,is_relevant,retrieved_text
+Q01,What information must a bank obtain to assess a borrower's creditworthiness before granting a loan?,standard,1,0.032787,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,19,20,A. General Requirements for bank-LSP Arrangements | B. Conduct and Customer Protection Requirements,True,") The content displayed by the LSP shall be unbiased, objective and shall not
+directly / indirectly promote or push a product of a particular lender, including
+the use of dark patterns / deceptive pat"
+Q01,What information must a bank obtain to assess a borrower's creditworthiness before granting a loan?,standard,2,0.032002,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,42,43,B. Assessment of Household Income | C. Limit on Loan Repayment Obligations of a Household,False,", other references in the vicinity, etc.).
+43
+64. Self-regulatory organisations (SROs) and other associations / agencies may also
+develop a common framework based on the indicative methodology. The ba"
+Q01,What information must a bank obtain to assess a borrower's creditworthiness before granting a loan?,standard,3,0.028531,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,20,21,B. Conduct and Customer Protection Requirements,False,"achet Portal.
+(v) Privacy policies and other details as required under extant guidelines of the
+Reserve Bank.
+(5) A bank shall ensure that DLAs / LSPs have links to the above website of the
+bank.
+(6) "
+Q01,What information must a bank obtain to assess a borrower's creditworthiness before granting a loan?,standard,4,0.028372,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,33,33,B. Restrictions and Ceilings,False,"
+36. A bank shall not grant any advance or loan:
+(1) For purchase of gold in any form including primary gold, ornaments, jewellery,
+or coins, or for purchase of financial assets backed by gold, e.g., "
+Q01,What information must a bank obtain to assess a borrower's creditworthiness before granting a loan?,standard,5,0.028205,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,50,50,A. Loans and advances to Real Estate Sector | B. Housing Finance,False,". A bank shall put in place a comprehensive Board-approved policy relating to the
+ceiling on the total amount of real estate loans, single / group exposure limits for
+such loans, margins, security, re"
+Q01,What information must a bank obtain to assess a borrower's creditworthiness before granting a loan?,standard,6,0.028034,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,41,42,A. Definition of Microfinance | B. Assessment of Household Income,False," loans.
+Explanation: To ensure collateral-free nature of the microfinance loan, the loan
+shall not be linked with a lien on the deposit account of the borrower or backed by
+hypothecation of any securi"
+Q01,What information must a bank obtain to assess a borrower's creditworthiness before granting a loan?,standard,7,0.027212,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,32,33,A. General Provisions | B. Restrictions and Ceilings,False," to be taken in
+cases of breach of LTV ratio; valuation standards and norms; and standards of
+gold and silver purity. The policy shall also include appropriate documentation to
+be obtained and maintai"
+Q01,What information must a bank obtain to assess a borrower's creditworthiness before granting a loan?,standard,8,0.025053,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,40,41,D. Repayment of GML | E. Disclosures | Chapter VI - Microfinance | A. Definition of Microfinance,False," physical gold,
+provided:
+(1) repayment is made using locally sourced IGDS (India Good Delivery
+Standards) / LGDS (LBMA’s Good Delivery Standards) gold;
+(2) gold is delivered on behalf of the borrower"
+Q01,What information must a bank obtain to assess a borrower's creditworthiness before granting a loan?,standard,9,0.024828,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,57,57,(CRE-RH),False,"
+disbursals to various stages of construction of housing project, Interest / EMI on
+the housing loan availed of by the individual borrower being serviced by the
+builders during the construction period"
+Q01,What information must a bank obtain to assess a borrower's creditworthiness before granting a loan?,standard,10,0.024723,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,62,62,D. Simultaneous classification of CRE into other regulatory categories,False,". The bank shall apply the principles and examples
+to assess other cases and record a reasoned note justifying its classification. If in
+doubt, the bank may refer the matter to the Department of Regul"
+Q02,"Where should a bank disburse a digital loan, and what restriction applies to third-party accounts?",standard,1,0.032266,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,20,21,B. Conduct and Customer Protection Requirements,True,"achet Portal.
+(v) Privacy policies and other details as required under extant guidelines of the
+Reserve Bank.
+(5) A bank shall ensure that DLAs / LSPs have links to the above website of the
+bank.
+(6) "
+Q02,"Where should a bank disburse a digital loan, and what restriction applies to third-party accounts?",standard,2,0.032018,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,35,36,D. Loan to Value Ratio (LTV) | E. Other Provisions,False,", and the loan amount, shall take into account the total amount
+repayable at maturity.
+45. The prescribed LTV ratio shall be maintained on an ongoing basis throughout the
+tenor of the loan.
+E. Other P"
+Q02,"Where should a bank disburse a digital loan, and what restriction applies to third-party accounts?",standard,3,0.030622,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,21,22,B. Conduct and Customer Protection Requirements,True," the
+corporate employer by deducting the amount from the borrower’s salary.
+However, it must be ensured that LSPs do not have any control over the flow
+of funds directly or indirectly in such transact"
+Q02,"Where should a bank disburse a digital loan, and what restriction applies to third-party accounts?",standard,4,0.030214,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,9,9,C. Definitions,False,"
+latter guarantees to compensate the bank, for the loss due to default up to
+a certain percentage of the loan portfolio of the bank, specified upfront. Any
+other implicit guarantee of similar nature, "
+Q02,"Where should a bank disburse a digital loan, and what restriction applies to third-party accounts?",standard,5,0.029857,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,18,19,A. General Requirements for bank-LSP Arrangements,False,"(7) As an overarching principle, any outsourcing agreement entered into by a bank
+with an LSP shall in no manner dilute or absolve the bank of its obligations
+under any statutory or regulatory provisi"
+Q02,"Where should a bank disburse a digital loan, and what restriction applies to third-party accounts?",standard,6,0.028595,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,24,25,C. Technology and Data Requirement | D. Reporting of Credit Information and DLAs,False," LSPs engaged by the bank shall have a comprehensive privacy
+policy compliant with applicable laws, associated regulations and the Reserve
+Bank guidelines which shall be made available publicly on the"
+Q02,"Where should a bank disburse a digital loan, and what restriction applies to third-party accounts?",standard,7,0.028083,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,25,26,D. Reporting of Credit Information and DLAs,False," the bank’s website where further information about the
+loan products, the lender, the LSP, particulars of customer care, link to
+Sachet Portal, privacy policies, etc. can be accessed by the borrower."
+Q02,"Where should a bank disburse a digital loan, and what restriction applies to third-party accounts?",standard,8,0.027433,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,20,20,B. Conduct and Customer Protection Requirements,False,"
+Conduct), Directions, 2025.
+(2) As regards penal charges, a bank shall be guided by Reserve Bank of India
+(Commercial Banks - Responsible Business Conduct), Directions, 2025.
+(3) A bank shall ensure "
+Q02,"Where should a bank disburse a digital loan, and what restriction applies to third-party accounts?",standard,9,0.026515,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,17,18,Chapter II - Role of The Board | Chapter III - Digital Lending Guidelines | A. General Requirements for bank-LSP Arrangements,False," payment
+instrument and / or underlying technology used for its disbursement, the prudential
+treatment of an underlying credit facility, including pre-sanctioned credit lines meant
+for payment transac"
+Q02,"Where should a bank disburse a digital loan, and what restriction applies to third-party accounts?",standard,10,0.026121,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,18,18,A. General Requirements for bank-LSP Arrangements,False," defines
+the respective roles, rights, and obligations of each party thereto.
+(2) A bank shall conduct enhanced due diligence before they enter into an
+agreement with a LSP for digital lending, taking"
+Q03,What is the minimum cooling-off period that a bank must provide for a digital loan?,standard,1,0.032787,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,22,22,B. Conduct and Customer Protection Requirements,True," flexibility to
+the bank, such transactions are exempted from the requirement of direct
+repayment of loan in the bank’s account. However, any recovery by cash shall
+be duly reflected in full in the bo"
+Q03,What is the minimum cooling-off period that a bank must provide for a digital loan?,standard,2,0.031746,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,9,9,C. Definitions,False,"
+latter guarantees to compensate the bank, for the loss due to default up to
+a certain percentage of the loan portfolio of the bank, specified upfront. Any
+other implicit guarantee of similar nature, "
+Q03,What is the minimum cooling-off period that a bank must provide for a digital loan?,standard,3,0.030536,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,100,101,C. Permissible and Prohibited Credit Facilities | 219ZA. | D. Security Coverage | 219ZB.,False,"219Y. Such guarantees shall be secured by a minimum collateral of 50 per cent, out
+of which 25 percent shall be in cash.
+101
+219Z. Banks shall not provide credit facilities to a CMI for acquisition of"
+Q03,What is the minimum cooling-off period that a bank must provide for a digital loan?,standard,4,0.02773,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,19,20,A. General Requirements for bank-LSP Arrangements | B. Conduct and Customer Protection Requirements,False,") The content displayed by the LSP shall be unbiased, objective and shall not
+directly / indirectly promote or push a product of a particular lender, including
+the use of dark patterns / deceptive pat"
+Q03,What is the minimum cooling-off period that a bank must provide for a digital loan?,standard,5,0.026438,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,43,44,C. Limit on Loan Repayment Obligations of a Household | D. Other provisions,False," at 50 per cent of the
+monthly household income shall include repayments (including both principal as
+well as interest component) towards all existing loans as well as the loan under
+consideration.
+68"
+Q03,What is the minimum cooling-off period that a bank must provide for a digital loan?,standard,6,0.026389,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,17,18,Chapter II - Role of The Board | Chapter III - Digital Lending Guidelines | A. General Requirements for bank-LSP Arrangements,False," payment
+instrument and / or underlying technology used for its disbursement, the prudential
+treatment of an underlying credit facility, including pre-sanctioned credit lines meant
+for payment transac"
+Q03,What is the minimum cooling-off period that a bank must provide for a digital loan?,standard,7,0.025978,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,40,41,D. Repayment of GML | E. Disclosures | Chapter VI - Microfinance | A. Definition of Microfinance,False," physical gold,
+provided:
+(1) repayment is made using locally sourced IGDS (India Good Delivery
+Standards) / LGDS (LBMA’s Good Delivery Standards) gold;
+(2) gold is delivered on behalf of the borrower"
+Q03,What is the minimum cooling-off period that a bank must provide for a digital loan?,standard,8,0.025645,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,95,95,Q. Loans against Eligible Securities,False,"/margins and
+haircuts for different securities; and rules for ongoing valuation and margin calls.
+219B. Notwithstanding the above, following loans by a bank shall not be permitted:
+(1) Loans against i"
+Q03,What is the minimum cooling-off period that a bank must provide for a digital loan?,standard,9,0.024909,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,102,103,(SBLC). | 219ZC. | 219ZD. | 219ZE. | Chapter XIV - Finance to Non-Banking Financial Companies (NBFCs),False," of which a minimum 50 per cent shall be cash.
+(3) A bank shall apply suitable haircuts to various types of primary securities
+and collateral securities, including eligible securities, subject to a mi"
+Q03,What is the minimum cooling-off period that a bank must provide for a digital loan?,standard,10,0.024877,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,11,12,C. Definitions,False,", while entities offering only Payment Aggregator (PA)
+services in terms of the extant instructions issued by the Reserve Bank
+shall remain out of the ambit of these Directions, any PA also performing"
+Q04,What conditions apply to the collection of borrower data by a digital lending app?,standard,1,0.032258,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,23,23,CEPD. | C. Technology and Data Requirement,True,", Central Vista, Chandigarh - 160017” as per the
+grievance redressal mechanism prescribed by the Reserve Bank. This
+information shall be suitably conveyed to the borrower.
+C. Technology and Data Requi"
+Q04,What conditions apply to the collection of borrower data by a digital lending app?,standard,2,0.031778,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,25,26,D. Reporting of Credit Information and DLAs,False," the bank’s website where further information about the
+loan products, the lender, the LSP, particulars of customer care, link to
+Sachet Portal, privacy policies, etc. can be accessed by the borrower."
+Q04,What conditions apply to the collection of borrower data by a digital lending app?,standard,3,0.031545,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,9,9,C. Definitions,False,"
+latter guarantees to compensate the bank, for the loss due to default up to
+a certain percentage of the loan portfolio of the bank, specified upfront. Any
+other implicit guarantee of similar nature, "
+Q04,What conditions apply to the collection of borrower data by a digital lending app?,standard,4,0.030777,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,18,19,A. General Requirements for bank-LSP Arrangements,False,"(7) As an overarching principle, any outsourcing agreement entered into by a bank
+with an LSP shall in no manner dilute or absolve the bank of its obligations
+under any statutory or regulatory provisi"
+Q04,What conditions apply to the collection of borrower data by a digital lending app?,standard,5,0.030366,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,20,20,B. Conduct and Customer Protection Requirements,False,"
+Conduct), Directions, 2025.
+(2) As regards penal charges, a bank shall be guided by Reserve Bank of India
+(Commercial Banks - Responsible Business Conduct), Directions, 2025.
+(3) A bank shall ensure "
+Q04,What conditions apply to the collection of borrower data by a digital lending app?,standard,6,0.030118,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,24,25,C. Technology and Data Requirement | D. Reporting of Credit Information and DLAs,False," LSPs engaged by the bank shall have a comprehensive privacy
+policy compliant with applicable laws, associated regulations and the Reserve
+Bank guidelines which shall be made available publicly on the"
+Q04,What conditions apply to the collection of borrower data by a digital lending app?,standard,7,0.027072,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,54,55,B. Housing Finance,False," facilities to private
+builders for acquisition of land even as part of a housing project.
+105. The period of credit for loans extended by a bank to private builders may be
+decided by the bank itself "
+Q04,What conditions apply to the collection of borrower data by a digital lending app?,standard,8,0.026974,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,17,18,Chapter II - Role of The Board | Chapter III - Digital Lending Guidelines | A. General Requirements for bank-LSP Arrangements,False," payment
+instrument and / or underlying technology used for its disbursement, the prudential
+treatment of an underlying credit facility, including pre-sanctioned credit lines meant
+for payment transac"
+Q04,What conditions apply to the collection of borrower data by a digital lending app?,standard,9,0.026334,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,20,21,B. Conduct and Customer Protection Requirements,False,"achet Portal.
+(v) Privacy policies and other details as required under extant guidelines of the
+Reserve Bank.
+(5) A bank shall ensure that DLAs / LSPs have links to the above website of the
+bank.
+(6) "
+Q04,What conditions apply to the collection of borrower data by a digital lending app?,standard,10,0.025645,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,68,69,F. Lending to Real Estate Investment Trusts (REITs) | 133G.,False," jurisdiction and is listed.
+F1. General Conditions
+133C. A bank shall put in place a Board approved policy on lending to REITs, which
+shall cover, inter alia, appraisal mechanism, sanctioning conditi"
+Q05,What is the maximum share of monthly household income that can go towards monthly loan repayment obligations under the microfinance directions?,standard,1,0.032787,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,42,43,B. Assessment of Household Income | C. Limit on Loan Repayment Obligations of a Household,True,", other references in the vicinity, etc.).
+43
+64. Self-regulatory organisations (SROs) and other associations / agencies may also
+develop a common framework based on the indicative methodology. The ba"
+Q05,What is the maximum share of monthly household income that can go towards monthly loan repayment obligations under the microfinance directions?,standard,2,0.032258,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,43,44,C. Limit on Loan Repayment Obligations of a Household | D. Other provisions,True," at 50 per cent of the
+monthly household income shall include repayments (including both principal as
+well as interest component) towards all existing loans as well as the loan under
+consideration.
+68"
+Q05,What is the maximum share of monthly household income that can go towards monthly loan repayment obligations under the microfinance directions?,standard,3,0.031746,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,41,42,A. Definition of Microfinance | B. Assessment of Household Income,False," loans.
+Explanation: To ensure collateral-free nature of the microfinance loan, the loan
+shall not be linked with a lien on the deposit account of the borrower or backed by
+hypothecation of any securi"
+Q05,What is the maximum share of monthly household income that can go towards monthly loan repayment obligations under the microfinance directions?,standard,4,0.03101,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,40,41,D. Repayment of GML | E. Disclosures | Chapter VI - Microfinance | A. Definition of Microfinance,False," physical gold,
+provided:
+(1) repayment is made using locally sourced IGDS (India Good Delivery
+Standards) / LGDS (LBMA’s Good Delivery Standards) gold;
+(2) gold is delivered on behalf of the borrower"
+Q05,What is the maximum share of monthly household income that can go towards monthly loan repayment obligations under the microfinance directions?,standard,5,0.02971,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,42,42,B. Assessment of Household Income,False,"to be derived from (iv) & (v) above)
+(b) Other sources of income
+i.
+Remittance
+ii. Rent / Lease
+iii. Pension
+iv. Government transfer
+v. Scholarship
+vi. Others (specify details)
+(c) The income assessme"
+Q05,What is the maximum share of monthly household income that can go towards monthly loan repayment obligations under the microfinance directions?,standard,6,0.026646,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,32,33,A. General Provisions | B. Restrictions and Ceilings,False," to be taken in
+cases of breach of LTV ratio; valuation standards and norms; and standards of
+gold and silver purity. The policy shall also include appropriate documentation to
+be obtained and maintai"
+Q05,What is the maximum share of monthly household income that can go towards monthly loan repayment obligations under the microfinance directions?,standard,7,0.026289,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,59,59,(CRE-RH) | C. Loans and advances to Commercial Real Estate (CRE),False," may also adopt the guidelines issued by the
+National Disaster Management Authority (NDMA) and suitably incorporate them
+into their loan policy, procedures and documentation.
+123. For pricing of housi"
+Q05,What is the maximum share of monthly household income that can go towards monthly loan repayment obligations under the microfinance directions?,standard,8,0.025564,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,105,106,D. Finance to Factoring Companies | E. Other Prohibitions on Finance to NBFCs,False," finance -
+(1) They derive at least 50 per cent of their income from factoring activity.
+(2) The receivables purchased / financed, irrespective of whether on 'with
+recourse' or 'without recourse' basi"
+Q05,What is the maximum share of monthly household income that can go towards monthly loan repayment obligations under the microfinance directions?,standard,9,0.025286,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,97,98,AA – BBB,False,"(2) Listed shares and units of mutual funds/ETFs/REIT/InvITs shall be valued
+at lower of the average daily closing prices/NAVs for the last six months or
+the closing price/NAV of the previous trading "
+Q05,What is the maximum share of monthly household income that can go towards monthly loan repayment obligations under the microfinance directions?,standard,10,0.024869,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,34,35,C. Valuation and Assaying of Gold and Silver collateral | D. Loan to Value Ratio (LTV),False,"
+the preceding day,
+as published either by the India Bullion and Jewellers Association Ltd. (IBJA) or by
+a commodity exchange regulated by the Securities and Exchange Board of India
+(SEBI) shall be us"
+Q06,Which three phases are used to classify projects under the project finance directions?,standard,1,0.032266,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,44,45,D. Other provisions | Chapter VII - Project Finance | A. Phases of Projects,True," Managing Risks in Outsourcing)
+Directions, 2025 for instructions pertaining to responsibilities for outsourced
+activities.
+45
+Chapter VII - Project Finance
+The directions contained in this Chapter pr"
+Q06,Which three phases are used to classify projects under the project finance directions?,standard,2,0.031778,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,13,14,C. Definitions,False,"10[(xxxa) ‘Primary Security’ shall mean security created on assets which have
+been financed out of the credit facility extended to the borrower.]
+(xxxi) ‘Project’ in the context of Chapter VII of thes"
+Q06,Which three phases are used to classify projects under the project finance directions?,standard,3,0.031514,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,71,72,133O. | Chapter IX - Infrastructure Financing | A. Criteria for Financing,False," include, but not limited to,
+provisions of an escrow account for ringfencing the project cash flows; and
+restrictions on the borrower entity and underlying SPVs from acting to the
+detriment of the cr"
+Q06,Which three phases are used to classify projects under the project finance directions?,standard,4,0.030777,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,52,53,B. Housing Finance,False," public sector undertakings which are not registered under Companies Act
+or which are not Corporations established under the relevant statute) shall not
+be financed by the bank. Even in respect of pro"
+Q06,Which three phases are used to classify projects under the project finance directions?,standard,5,0.030331,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,72,73,A. Criteria for Financing | B. Types of Financing by Banks,False,"(4) Whether such financing is done by way of extending loans or investing in
+bonds, the bank shall undertake due diligence on the viability and bankability
+of such projects to ensure that revenue stre"
+Q06,Which three phases are used to classify projects under the project finance directions?,standard,6,0.028814,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,45,46,A. Phases of Projects | B. Prudential Conditions Related to Sanction,True,"
+closure and ends on the day before the actual DCCO.
+(3) Operational Phase – This is the last phase which starts with commencement
+of commercial operation by the project on the day of the actual DCCO "
+Q06,Which three phases are used to classify projects under the project finance directions?,standard,7,0.028531,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,53,54,B. Housing Finance,False," to be run on commercial lines, the bank shall not grant loans to
+such projects.
+B.5
+Lending to Housing Intermediary Agencies
+97. The bank granting loans to housing Intermediary agencies shall be guid"
+Q06,Which three phases are used to classify projects under the project finance directions?,standard,8,0.028382,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,48,50,D. Other Provisions | Chapter VIII - Credit Facilities to Real Estate Sector | A. Loans and advances to Real Estate Sector,False," increase financed by equity, % of total
+increase financed by debt, revised D/E, revised DSCR, revised repayment tenor, revised
+repayment start date, revised repayment frequency, revised external cred"
+Q06,Which three phases are used to classify projects under the project finance directions?,standard,9,0.02837,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,46,47,B. Prudential Conditions Related to Sanction | C. Prudential Conditions Related to Disbursement and Monitoring,False,"20 Inserted with effect from July 15, 2026, vide Reserve Bank of India (Commercial Banks – Credit Facilities) Fifth
+Amendment Directions, 2026 dated July 15, 2026.
+47
+79. Approvals / clearances which "
+Q06,Which three phases are used to classify projects under the project finance directions?,standard,10,0.028219,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,6,7,B. Applicability | C. Definitions,False,"').
+For the purpose of these Directions, ‘Commercial Banks’ means banking
+companies (other than Small Finance Banks, Payment Banks, and Local Area
+Banks), corresponding new banks, and the State Bank o"
+Q07,How must a bank ensure that project finance disbursement is made in relation to project progress?,standard,1,0.031746,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,52,53,B. Housing Finance,False," public sector undertakings which are not registered under Companies Act
+or which are not Corporations established under the relevant statute) shall not
+be financed by the bank. Even in respect of pro"
+Q07,How must a bank ensure that project finance disbursement is made in relation to project progress?,standard,2,0.031514,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,45,46,A. Phases of Projects | B. Prudential Conditions Related to Sanction,False,"
+closure and ends on the day before the actual DCCO.
+(3) Operational Phase – This is the last phase which starts with commencement
+of commercial operation by the project on the day of the actual DCCO "
+Q07,How must a bank ensure that project finance disbursement is made in relation to project progress?,standard,3,0.030777,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,72,73,A. Criteria for Financing | B. Types of Financing by Banks,False,"(4) Whether such financing is done by way of extending loans or investing in
+bonds, the bank shall undertake due diligence on the viability and bankability
+of such projects to ensure that revenue stre"
+Q07,How must a bank ensure that project finance disbursement is made in relation to project progress?,standard,4,0.030478,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,47,48,C. Prudential Conditions Related to Disbursement and Monitoring,True,"
+begin only after declaration of the Appointed Date or its equivalent, for the project.
+However, in cases where non-fund based credit facilities may be mandated by the
+concession granting authority as"
+Q07,How must a bank ensure that project finance disbursement is made in relation to project progress?,standard,5,0.029631,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,57,58,(CRE-RH),False," housing project / houses and upfront disbursal
+shall not be made in cases of incomplete / under-construction / green field housing
+projects.
+117. However, in cases of projects sponsored by Government"
+Q07,How must a bank ensure that project finance disbursement is made in relation to project progress?,standard,6,0.029287,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,13,14,C. Definitions,False,"10[(xxxa) ‘Primary Security’ shall mean security created on assets which have
+been financed out of the credit facility extended to the borrower.]
+(xxxi) ‘Project’ in the context of Chapter VII of thes"
+Q07,How must a bank ensure that project finance disbursement is made in relation to project progress?,standard,7,0.028958,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,48,48,C. Prudential Conditions Related to Disbursement and Monitoring | D. Other Provisions,True," The lender’s independent engineer (LIE) / architect shall certify the
+stages of completion of the project.
+84. A project finance account may be classified as NPA during any time before actual
+DCCO as"
+Q07,How must a bank ensure that project finance disbursement is made in relation to project progress?,standard,8,0.028778,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,46,47,B. Prudential Conditions Related to Sanction | C. Prudential Conditions Related to Disbursement and Monitoring,True,"20 Inserted with effect from July 15, 2026, vide Reserve Bank of India (Commercial Banks – Credit Facilities) Fifth
+Amendment Directions, 2026 dated July 15, 2026.
+47
+79. Approvals / clearances which "
+Q07,How must a bank ensure that project finance disbursement is made in relation to project progress?,standard,9,0.027505,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,78,79,D. Prudential requirements | Chapter X - Discounting / Rediscounting of Bills,False,"ential Norms on
+Capital Adequacy) Directions, 2025.
+142. Asset-Liability Management
+The long-term financing of infrastructure projects may lead to asset – liability
+mismatches, particularly when such "
+Q07,How must a bank ensure that project finance disbursement is made in relation to project progress?,standard,10,0.027433,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,46,46,B. Prudential Conditions Related to Sanction,False," is less than 10
+per cent of the aggregate exposure. For projects where aggregate exposure of all
+lenders is more than ₹1,500 crore, the exposure floor for an individual bank shall
+be 5 per cent or ₹1"
+Q08,What minimum land or right-of-way availability is required before disbursement for a PPP infrastructure project?,standard,1,0.032787,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,46,47,B. Prudential Conditions Related to Sanction | C. Prudential Conditions Related to Disbursement and Monitoring,True,"20 Inserted with effect from July 15, 2026, vide Reserve Bank of India (Commercial Banks – Credit Facilities) Fifth
+Amendment Directions, 2026 dated July 15, 2026.
+47
+79. Approvals / clearances which "
+Q08,What minimum land or right-of-way availability is required before disbursement for a PPP infrastructure project?,standard,2,0.031514,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,53,54,B. Housing Finance,False," to be run on commercial lines, the bank shall not grant loans to
+such projects.
+B.5
+Lending to Housing Intermediary Agencies
+97. The bank granting loans to housing Intermediary agencies shall be guid"
+Q08,What minimum land or right-of-way availability is required before disbursement for a PPP infrastructure project?,standard,3,0.030159,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,44,45,D. Other provisions | Chapter VII - Project Finance | A. Phases of Projects,False," Managing Risks in Outsourcing)
+Directions, 2025 for instructions pertaining to responsibilities for outsourced
+activities.
+45
+Chapter VII - Project Finance
+The directions contained in this Chapter pr"
+Q08,What minimum land or right-of-way availability is required before disbursement for a PPP infrastructure project?,standard,4,0.03009,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,45,46,A. Phases of Projects | B. Prudential Conditions Related to Sanction,False,"
+closure and ends on the day before the actual DCCO.
+(3) Operational Phase – This is the last phase which starts with commencement
+of commercial operation by the project on the day of the actual DCCO "
+Q08,What minimum land or right-of-way availability is required before disbursement for a PPP infrastructure project?,standard,5,0.029911,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,54,54,B. Housing Finance,False," for
+acquisition and development of land, provided it is a part of the complete
+project, including development of infrastructure such as water systems,
+drainage, roads, provision of electricity, etc. "
+Q08,What minimum land or right-of-way availability is required before disbursement for a PPP infrastructure project?,standard,6,0.029643,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,78,79,D. Prudential requirements | Chapter X - Discounting / Rediscounting of Bills,False,"ential Norms on
+Capital Adequacy) Directions, 2025.
+142. Asset-Liability Management
+The long-term financing of infrastructure projects may lead to asset – liability
+mismatches, particularly when such "
+Q08,What minimum land or right-of-way availability is required before disbursement for a PPP infrastructure project?,standard,7,0.029387,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,9,9,C. Definitions,False,"
+latter guarantees to compensate the bank, for the loss due to default up to
+a certain percentage of the loan portfolio of the bank, specified upfront. Any
+other implicit guarantee of similar nature, "
+Q08,What minimum land or right-of-way availability is required before disbursement for a PPP infrastructure project?,standard,8,0.029199,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,72,73,A. Criteria for Financing | B. Types of Financing by Banks,False,"(4) Whether such financing is done by way of extending loans or investing in
+bonds, the bank shall undertake due diligence on the viability and bankability
+of such projects to ensure that revenue stre"
+Q08,What minimum land or right-of-way availability is required before disbursement for a PPP infrastructure project?,standard,9,0.02885,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,76,77,Chapter XI – Acquisition Finance. | C. Appraisal,False," and receivables,
+a pledge of equity interests held by the InvIT in the relevant SPV, and such
+other legally enforceable security interests as may be applicable. Where a
+charge is created over immovab"
+Q08,What minimum land or right-of-way availability is required before disbursement for a PPP infrastructure project?,standard,10,0.027652,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,47,48,C. Prudential Conditions Related to Disbursement and Monitoring,True,"
+begin only after declaration of the Appointed Date or its equivalent, for the project.
+However, in cases where non-fund based credit facilities may be mandated by the
+concession granting authority as"
+Q09,What is the maximum tenor for consumption loans in the nature of bullet repayment loans against gold or silver collateral?,standard,1,0.032787,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,33,34,B. Restrictions and Ceilings | C. Valuation and Assaying of Gold and Silver collateral,True," to other lenders, entities or individuals by accepting gold or silver
+collateral pledged to such lenders, entities, or individuals by their borrowers as
+collateral.
+34
+For removal of doubt, it is cla"
+Q09,What is the maximum tenor for consumption loans in the nature of bullet repayment loans against gold or silver collateral?,standard,2,0.031754,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,32,33,A. General Provisions | B. Restrictions and Ceilings,True," to be taken in
+cases of breach of LTV ratio; valuation standards and norms; and standards of
+gold and silver purity. The policy shall also include appropriate documentation to
+be obtained and maintai"
+Q09,What is the maximum tenor for consumption loans in the nature of bullet repayment loans against gold or silver collateral?,standard,3,0.031746,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,31,32,F. General Provisions | Chapter IV - Lending against Gold and Silver Collateral | A. General Provisions,False,", 2025, nor attract the provisions of ‘loan
+participation’ as defined under the Reserve Bank of India (Commercial Banks –
+Transfer and Distribution of Credit Risk) Directions, 2025.
+32
+Chapter IV - Le"
+Q09,What is the maximum tenor for consumption loans in the nature of bullet repayment loans against gold or silver collateral?,standard,4,0.031514,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,34,35,C. Valuation and Assaying of Gold and Silver collateral | D. Loan to Value Ratio (LTV),False,"
+the preceding day,
+as published either by the India Bullion and Jewellers Association Ltd. (IBJA) or by
+a commodity exchange regulated by the Securities and Exchange Board of India
+(SEBI) shall be us"
+Q09,What is the maximum tenor for consumption loans in the nature of bullet repayment loans against gold or silver collateral?,standard,5,0.03101,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,33,33,B. Restrictions and Ceilings,True,"
+36. A bank shall not grant any advance or loan:
+(1) For purchase of gold in any form including primary gold, ornaments, jewellery,
+or coins, or for purchase of financial assets backed by gold, e.g., "
+Q09,What is the maximum tenor for consumption loans in the nature of bullet repayment loans against gold or silver collateral?,standard,6,0.029857,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,40,41,D. Repayment of GML | E. Disclosures | Chapter VI - Microfinance | A. Definition of Microfinance,False," physical gold,
+provided:
+(1) repayment is made using locally sourced IGDS (India Good Delivery
+Standards) / LGDS (LBMA’s Good Delivery Standards) gold;
+(2) gold is delivered on behalf of the borrower"
+Q09,What is the maximum tenor for consumption loans in the nature of bullet repayment loans against gold or silver collateral?,standard,7,0.028439,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,97,97,Q. Loans against Eligible Securities | AA – BBB,False," individuals against eligible securities, subject to the LTVs
+and prudential ceilings specified hereunder.
+Q.2.2 LTV Requirements
+219G. Banks shall lay down the LTV for loans against eligible securiti"
+Q09,What is the maximum tenor for consumption loans in the nature of bullet repayment loans against gold or silver collateral?,standard,8,0.028382,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,8,8,C. Definitions,False," Loans’ means loans where both principal and interest
+are due for payment at the maturity of the loan.
+4[(va) ‘Capital Market Intermediaries (CMIs)’ shall mean regulated entities
+undertaking trade exe"
+Q09,What is the maximum tenor for consumption loans in the nature of bullet repayment loans against gold or silver collateral?,standard,9,0.028169,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,97,98,AA – BBB,False,"(2) Listed shares and units of mutual funds/ETFs/REIT/InvITs shall be valued
+at lower of the average daily closing prices/NAVs for the last six months or
+the closing price/NAV of the previous trading "
+Q09,What is the maximum tenor for consumption loans in the nature of bullet repayment loans against gold or silver collateral?,standard,10,0.028039,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,39,40,C. General Instructions | D. Repayment of GML,False," by other scheduled commercial banks that maintain business
+accounts of the jewellers, notwithstanding any provisions of Chapter XVI of these
+Directions. Such arrangements shall be subject to independ"
+Q10,How should a lender value gold or silver collateral when price data for its exact purity is unavailable?,standard,1,0.032787,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,33,34,B. Restrictions and Ceilings | C. Valuation and Assaying of Gold and Silver collateral,True," to other lenders, entities or individuals by accepting gold or silver
+collateral pledged to such lenders, entities, or individuals by their borrowers as
+collateral.
+34
+For removal of doubt, it is cla"
+Q10,How should a lender value gold or silver collateral when price data for its exact purity is unavailable?,standard,2,0.032258,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,34,35,C. Valuation and Assaying of Gold and Silver collateral | D. Loan to Value Ratio (LTV),True,"
+the preceding day,
+as published either by the India Bullion and Jewellers Association Ltd. (IBJA) or by
+a commodity exchange regulated by the Securities and Exchange Board of India
+(SEBI) shall be us"
+Q10,How should a lender value gold or silver collateral when price data for its exact purity is unavailable?,standard,3,0.031498,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,33,33,B. Restrictions and Ceilings,False,"
+36. A bank shall not grant any advance or loan:
+(1) For purchase of gold in any form including primary gold, ornaments, jewellery,
+or coins, or for purchase of financial assets backed by gold, e.g., "
+Q10,How should a lender value gold or silver collateral when price data for its exact purity is unavailable?,standard,4,0.031258,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,31,32,F. General Provisions | Chapter IV - Lending against Gold and Silver Collateral | A. General Provisions,False,", 2025, nor attract the provisions of ‘loan
+participation’ as defined under the Reserve Bank of India (Commercial Banks –
+Transfer and Distribution of Credit Risk) Directions, 2025.
+32
+Chapter IV - Le"
+Q10,How should a lender value gold or silver collateral when price data for its exact purity is unavailable?,standard,5,0.03055,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,32,33,A. General Provisions | B. Restrictions and Ceilings,False," to be taken in
+cases of breach of LTV ratio; valuation standards and norms; and standards of
+gold and silver purity. The policy shall also include appropriate documentation to
+be obtained and maintai"
+Q10,How should a lender value gold or silver collateral when price data for its exact purity is unavailable?,standard,6,0.03031,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,40,41,D. Repayment of GML | E. Disclosures | Chapter VI - Microfinance | A. Definition of Microfinance,False," physical gold,
+provided:
+(1) repayment is made using locally sourced IGDS (India Good Delivery
+Standards) / LGDS (LBMA’s Good Delivery Standards) gold;
+(2) gold is delivered on behalf of the borrower"
+Q10,How should a lender value gold or silver collateral when price data for its exact purity is unavailable?,standard,7,0.029857,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,38,39,C. General Instructions,False,"Amendment Directions, 2025 dated December 04, 2025.
+39
+lay down the detailed due-diligence requirements for deciding the eligibility of GML
+borrowers and their credit requirements.
+60E. GML shall be s"
+Q10,How should a lender value gold or silver collateral when price data for its exact purity is unavailable?,standard,8,0.027072,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,97,97,Q. Loans against Eligible Securities | AA – BBB,False," individuals against eligible securities, subject to the LTVs
+and prudential ceilings specified hereunder.
+Q.2.2 LTV Requirements
+219G. Banks shall lay down the LTV for loans against eligible securiti"
+Q10,How should a lender value gold or silver collateral when price data for its exact purity is unavailable?,standard,9,0.027047,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,95,96,Q. Loans against Eligible Securities,False,"itory Receipts (IDRs);
+(5) loans against securities of such entities to which banks are not allowed to
+grant loans and advances;
+(6) loans to companies for buy-back of shares/ securities as specified "
+Q10,How should a lender value gold or silver collateral when price data for its exact purity is unavailable?,standard,10,0.025894,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,39,40,C. General Instructions | D. Repayment of GML,False," by other scheduled commercial banks that maintain business
+accounts of the jewellers, notwithstanding any provisions of Chapter XVI of these
+Directions. Such arrangements shall be subject to independ"
+Q11,What kinds of assets or securities are included in the definition of eligible securities?,standard,1,0.032266,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,9,10,C. Definitions,True,") as part of promoters’ contribution to
+the project.
+(xiv) ‘Default’ means the non-payment of debt (as defined in Insolvency and
+Bankruptcy Code (IBC), 2016) when whole or any part or instalment of th"
+Q11,What kinds of assets or securities are included in the definition of eligible securities?,standard,2,0.03101,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,97,97,Q. Loans against Eligible Securities | AA – BBB,False," individuals against eligible securities, subject to the LTVs
+and prudential ceilings specified hereunder.
+Q.2.2 LTV Requirements
+219G. Banks shall lay down the LTV for loans against eligible securiti"
+Q11,What kinds of assets or securities are included in the definition of eligible securities?,standard,3,0.029418,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,95,96,Q. Loans against Eligible Securities,False,"itory Receipts (IDRs);
+(5) loans against securities of such entities to which banks are not allowed to
+grant loans and advances;
+(6) loans to companies for buy-back of shares/ securities as specified "
+Q11,What kinds of assets or securities are included in the definition of eligible securities?,standard,4,0.028787,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,11,12,C. Definitions,False,", while entities offering only Payment Aggregator (PA)
+services in terms of the extant instructions issued by the Reserve Bank
+shall remain out of the ambit of these Directions, any PA also performing"
+Q11,What kinds of assets or securities are included in the definition of eligible securities?,standard,5,0.028039,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,94,95,O. Grant of Loans for acquisition of / investing in Small Saving Instruments | P. 29[***** | Q. Loans against Eligible Securities,False," rather, channelises the existing savings in the form of
+bank deposits to small savings instruments and thereby defeats the very purpose
+of such schemes. The bank shall, therefore, ensure that no loan"
+Q11,What kinds of assets or securities are included in the definition of eligible securities?,standard,6,0.027588,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,14,16,C. Definitions | Chapter II - Role of The Board,False,"
+have been assigned to them under the Banking Regulation Act, 1949 or the
+15
+Reserve Bank of India Act, 1934, or any statutory modification or re-enactment
+thereto or in other relevant directions issu"
+Q11,What kinds of assets or securities are included in the definition of eligible securities?,standard,7,0.027382,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,96,97,Q. Loans against Eligible Securities,False," jointly.
+(6) undertake the creation and invocation of pledge/hypothecation/lien against
+Government securities in terms of Section 28 of the Government Securities
+Act, 2006, Chapter VII of Government "
+Q11,What kinds of assets or securities are included in the definition of eligible securities?,standard,8,0.027047,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,102,103,(SBLC). | 219ZC. | 219ZD. | 219ZE. | Chapter XIV - Finance to Non-Banking Financial Companies (NBFCs),False," of which a minimum 50 per cent shall be cash.
+(3) A bank shall apply suitable haircuts to various types of primary securities
+and collateral securities, including eligible securities, subject to a mi"
+Q11,What kinds of assets or securities are included in the definition of eligible securities?,standard,9,0.02605,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,103,104,A. Finance to NBFCs registered with RBI | B. Finance to NBFCs not requiring Registration | C. Activities not eligible for Bank Credit,False," gained by NBFCs in financing second hand assets,
+the bank shall also extend finance to NBFCs against second hand assets financed
+by them.
+222. The bank shall formulate suitable loan policy with the a"
+Q11,What kinds of assets or securities are included in the definition of eligible securities?,standard,10,0.02603,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,104,104,C. Activities not eligible for Bank Credit,False," eligible for Bank Credit
+224. The following activities undertaken by NBFCs, are not eligible for bank credit:
+(1) Bills discounted / rediscounted by NBFCs, except for rediscounting of bills
+discounte"
+Q12,What is the main requirement for a bank's Board-approved credit policy under Chapter II?,standard,1,0.032266,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,14,16,C. Definitions | Chapter II - Role of The Board,True,"
+have been assigned to them under the Banking Regulation Act, 1949 or the
+15
+Reserve Bank of India Act, 1934, or any statutory modification or re-enactment
+thereto or in other relevant directions issu"
+Q12,What is the main requirement for a bank's Board-approved credit policy under Chapter II?,standard,2,0.028718,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,17,18,Chapter II - Role of The Board | Chapter III - Digital Lending Guidelines | A. General Requirements for bank-LSP Arrangements,False," payment
+instrument and / or underlying technology used for its disbursement, the prudential
+treatment of an underlying credit facility, including pre-sanctioned credit lines meant
+for payment transac"
+Q12,What is the main requirement for a bank's Board-approved credit policy under Chapter II?,standard,3,0.028139,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,43,44,C. Limit on Loan Repayment Obligations of a Household | D. Other provisions,False," at 50 per cent of the
+monthly household income shall include repayments (including both principal as
+well as interest component) towards all existing loans as well as the loan under
+consideration.
+68"
+Q12,What is the main requirement for a bank's Board-approved credit policy under Chapter II?,standard,4,0.02758,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,50,50,A. Loans and advances to Real Estate Sector | B. Housing Finance,False,". A bank shall put in place a comprehensive Board-approved policy relating to the
+ceiling on the total amount of real estate loans, single / group exposure limits for
+such loans, margins, security, re"
+Q12,What is the main requirement for a bank's Board-approved credit policy under Chapter II?,standard,5,0.02753,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,73,74,B. Types of Financing by Banks,False,"ancing.
+137.
+23[*****]
+137A. Lending to InvITs
+24[
+(1) Banks shall be permitted to lend to InvITs which are registered with and
+regulated by SEBI.
+(2) General Conditions:
+(i) A bank shall put in place"
+Q12,What is the main requirement for a bank's Board-approved credit policy under Chapter II?,standard,6,0.027109,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,145,146,"J. Other Aspects of PCE | Chapter XVII - Miscellaneous Provisions | A. Bank finance to Government owned entities | B. Loans and advances to Micro, Small & Medium Enterprises (MSMEs)",False," honour the full PCE commitment irrespective of the asset
+classification of the concerned borrower’s credit facilities.
+444. All extant regulatory prescriptions for credit and investment exposures by "
+Q12,What is the main requirement for a bank's Board-approved credit policy under Chapter II?,standard,7,0.026703,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,68,69,F. Lending to Real Estate Investment Trusts (REITs) | 133G.,False," jurisdiction and is listed.
+F1. General Conditions
+133C. A bank shall put in place a Board approved policy on lending to REITs, which
+shall cover, inter alia, appraisal mechanism, sanctioning conditi"
+Q12,What is the main requirement for a bank's Board-approved credit policy under Chapter II?,standard,8,0.025914,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,42,43,B. Assessment of Household Income | C. Limit on Loan Repayment Obligations of a Household,False,", other references in the vicinity, etc.).
+43
+64. Self-regulatory organisations (SROs) and other associations / agencies may also
+develop a common framework based on the indicative methodology. The ba"
+Q12,What is the main requirement for a bank's Board-approved credit policy under Chapter II?,standard,9,0.023693,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,136,137,K. Special Measures | Chapter XVI - Non-Fund Based (NFB) Credit Facilities | A. General Conditions,False,"inds and to ensure the continuity of viable businesses, banks
+extending export credit finance may provide relief measures to eligible borrowers,
+as specified under Reserve Bank of India (Trade Relief "
+Q12,What is the main requirement for a bank's Board-approved credit policy under Chapter II?,standard,10,0.022154,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,99,100,AA – BBB | A. Scope | B. General Conditions,False," or
+immovable properties for financing promoters’ stake for setting up new companies.
+219Q. Such lending under paragraph 219O and 219P against eligible securities shall
+be subject to the LTV ceiling a"
+Q13,"What must a bank do if a borrower is not satisfied with the bank's response to a digital lending complaint, or receives no response within 30 days?",standard,1,0.032787,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,22,23,B. Conduct and Customer Protection Requirements | (RB-IOS | CEPD.,True,"al officers to deal with digital lending related
+complaints / issues raised by the borrower.
+(2) Contact details of the nodal grievance redressal officers shall be prominently
+displayed on the website"
+Q13,"What must a bank do if a borrower is not satisfied with the bank's response to a digital lending complaint, or receives no response within 30 days?",standard,2,0.030536,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,20,20,B. Conduct and Customer Protection Requirements,False,"
+Conduct), Directions, 2025.
+(2) As regards penal charges, a bank shall be guided by Reserve Bank of India
+(Commercial Banks - Responsible Business Conduct), Directions, 2025.
+(3) A bank shall ensure "
+Q13,"What must a bank do if a borrower is not satisfied with the bank's response to a digital lending complaint, or receives no response within 30 days?",standard,3,0.029762,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,18,19,A. General Requirements for bank-LSP Arrangements,False,"(7) As an overarching principle, any outsourcing agreement entered into by a bank
+with an LSP shall in no manner dilute or absolve the bank of its obligations
+under any statutory or regulatory provisi"
+Q13,"What must a bank do if a borrower is not satisfied with the bank's response to a digital lending complaint, or receives no response within 30 days?",standard,4,0.029643,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,22,22,B. Conduct and Customer Protection Requirements,True," flexibility to
+the bank, such transactions are exempted from the requirement of direct
+repayment of loan in the bank’s account. However, any recovery by cash shall
+be duly reflected in full in the bo"
+Q13,"What must a bank do if a borrower is not satisfied with the bank's response to a digital lending complaint, or receives no response within 30 days?",standard,5,0.029572,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,9,9,C. Definitions,False,"
+latter guarantees to compensate the bank, for the loss due to default up to
+a certain percentage of the loan portfolio of the bank, specified upfront. Any
+other implicit guarantee of similar nature, "
+Q13,"What must a bank do if a borrower is not satisfied with the bank's response to a digital lending complaint, or receives no response within 30 days?",standard,6,0.028283,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,25,26,D. Reporting of Credit Information and DLAs,False," the bank’s website where further information about the
+loan products, the lender, the LSP, particulars of customer care, link to
+Sachet Portal, privacy policies, etc. can be accessed by the borrower."
+Q13,"What must a bank do if a borrower is not satisfied with the bank's response to a digital lending complaint, or receives no response within 30 days?",standard,7,0.027273,RBI_KYC_001,Master Direction - Know Your Customer (KYC) Direction 2016,62,62,114H.,False," available
+information the reputation of the respondent bank and the quality of supervision,
+including whether it has been subjected to a ML/TF investigation or regulatory action.
+Banks shall assess t"
+Q13,"What must a bank do if a borrower is not satisfied with the bank's response to a digital lending complaint, or receives no response within 30 days?",standard,8,0.027242,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,24,25,C. Technology and Data Requirement | D. Reporting of Credit Information and DLAs,False," LSPs engaged by the bank shall have a comprehensive privacy
+policy compliant with applicable laws, associated regulations and the Reserve
+Bank guidelines which shall be made available publicly on the"
+Q13,"What must a bank do if a borrower is not satisfied with the bank's response to a digital lending complaint, or receives no response within 30 days?",standard,9,0.026989,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,33,33,B. Restrictions and Ceilings,False,"
+36. A bank shall not grant any advance or loan:
+(1) For purchase of gold in any form including primary gold, ornaments, jewellery,
+or coins, or for purchase of financial assets backed by gold, e.g., "
+Q13,"What must a bank do if a borrower is not satisfied with the bank's response to a digital lending complaint, or receives no response within 30 days?",standard,10,0.026519,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,40,41,D. Repayment of GML | E. Disclosures | Chapter VI - Microfinance | A. Definition of Microfinance,False," physical gold,
+provided:
+(1) repayment is made using locally sourced IGDS (India Good Delivery
+Standards) / LGDS (LBMA’s Good Delivery Standards) gold;
+(2) gold is delivered on behalf of the borrower"
+Q14,What are the permitted forms in which a bank may accept a Default Loss Guarantee (DLG)?,standard,1,0.032522,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,26,27,D. Reporting of Credit Information and DLAs | E. Loss sharing arrangement in case of default,True,"associated entity as conferring any form of registration, authorization, or
+endorsement by the Reserve Bank. The bank shall also ensure that such
+inclusion is not misrepresented in any marketing, prom"
+Q14,What are the permitted forms in which a bank may accept a Default Loss Guarantee (DLG)?,standard,2,0.032522,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,27,28,E. Loss sharing arrangement in case of default,True," Extent of DLG cover.
+(2) Form in which DLG cover is to be maintained with the bank.
+(3) Timeline for DLG invocation.
+(4) Disclosure requirements as under paragraph 28 of these Directions.
+23. Forms o"
+Q14,What are the permitted forms in which a bank may accept a Default Loss Guarantee (DLG)?,standard,3,0.031258,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,27,27,E. Loss sharing arrangement in case of default,True," that the entity extending DLG would be
+able to honour it. Such information shall, at a minimum, include a declaration
+from the DLG provider, certified by the statutory auditor of the DLG provider,
+on"
+Q14,What are the permitted forms in which a bank may accept a Default Loss Guarantee (DLG)?,standard,4,0.030331,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,9,9,C. Definitions,False,"
+latter guarantees to compensate the bank, for the loss due to default up to
+a certain percentage of the loan portfolio of the bank, specified upfront. Any
+other implicit guarantee of similar nature, "
+Q14,What are the permitted forms in which a bank may accept a Default Loss Guarantee (DLG)?,standard,5,0.029877,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,30,31,E. Loss sharing arrangement in case of default,False," assets in the portfolio shall continue
+to be governed by the Reserve Bank of India (Commercial Banks – Prudential
+Norms on Capital Adequacy) Directions, 2025.
+(2) In case, DLG provider is a bank, it "
+Q14,What are the permitted forms in which a bank may accept a Default Loss Guarantee (DLG)?,standard,6,0.029514,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,31,31,E. Loss sharing arrangement in case of default | F. General Provisions,False,"(1) Guarantee schemes of Credit Guarantee Fund Trust for Micro and Small
+Enterprises (CGTMSE), Credit Risk Guarantee Fund Trust for Low Income
+Housing (CRGFTLIH) and individual schemes under National "
+Q14,What are the permitted forms in which a bank may accept a Default Loss Guarantee (DLG)?,standard,7,0.029437,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,141,141,D. Guarantee favouring another RE | E. Co-acceptances | F. Guarantee and related business involving overseas current or capital,False," another RE to enable it to
+provide any fund based credit facility to an obligor, unless specifically permitted by
+RBI.
+Provided that this clause shall not be applicable in case of credit facilities e"
+Q14,What are the permitted forms in which a bank may accept a Default Loss Guarantee (DLG)?,standard,8,0.029236,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,138,139,A. General Conditions | B. Guarantees,False," to any entity assuring redemption /
+repayment of funds raised by any entity via deposits, issuance of bonds, or in any
+other form, unless specifically permitted under any regulatory guidelines /
+dire"
+Q14,What are the permitted forms in which a bank may accept a Default Loss Guarantee (DLG)?,standard,9,0.027984,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,141,142,F. Guarantee and related business involving overseas current or capital | G. Guarantees on behalf of Stock / Commodity Brokers,False," NFB facilities as
+permitted under the extant regulations / Directions issued under Foreign Exchange
+Management Act, 1999, for bonafide current or capital account transaction,
+including guarantees in "
+Q14,What are the permitted forms in which a bank may accept a Default Loss Guarantee (DLG)?,standard,10,0.027912,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,29,30,E. Loss sharing arrangement in case of default,False,"Initial
+Position
+10
+-
+-
+-
+-
+10
+0.5
+Further
+disbursement
+10
+-
+-
+-
+-
+20
+1
+Case 1
+20
+5
+-
+-
+-
+15
+1
+Case 2
+20
+5
+2
+1
+-
+15
+0
+Case 3
+20
+5
+2
+1
+1
+14
+0
+25. Recognition of NPA
+(1) Recognition of individual loan a"
+Q15,What conditions must an infrastructure project satisfy for a bank to finance it?,standard,1,0.032787,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,71,72,133O. | Chapter IX - Infrastructure Financing | A. Criteria for Financing,True," include, but not limited to,
+provisions of an escrow account for ringfencing the project cash flows; and
+restrictions on the borrower entity and underlying SPVs from acting to the
+detriment of the cr"
+Q15,What conditions must an infrastructure project satisfy for a bank to finance it?,standard,2,0.031025,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,52,53,B. Housing Finance,False," public sector undertakings which are not registered under Companies Act
+or which are not Corporations established under the relevant statute) shall not
+be financed by the bank. Even in respect of pro"
+Q15,What conditions must an infrastructure project satisfy for a bank to finance it?,standard,3,0.030366,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,46,47,B. Prudential Conditions Related to Sanction | C. Prudential Conditions Related to Disbursement and Monitoring,False,"20 Inserted with effect from July 15, 2026, vide Reserve Bank of India (Commercial Banks – Credit Facilities) Fifth
+Amendment Directions, 2026 dated July 15, 2026.
+47
+79. Approvals / clearances which "
+Q15,What conditions must an infrastructure project satisfy for a bank to finance it?,standard,4,0.030331,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,53,54,B. Housing Finance,False," to be run on commercial lines, the bank shall not grant loans to
+such projects.
+B.5
+Lending to Housing Intermediary Agencies
+97. The bank granting loans to housing Intermediary agencies shall be guid"
+Q15,What conditions must an infrastructure project satisfy for a bank to finance it?,standard,5,0.030118,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,72,73,A. Criteria for Financing | B. Types of Financing by Banks,True,"(4) Whether such financing is done by way of extending loans or investing in
+bonds, the bank shall undertake due diligence on the viability and bankability
+of such projects to ensure that revenue stre"
+Q15,What conditions must an infrastructure project satisfy for a bank to finance it?,standard,6,0.030018,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,78,79,D. Prudential requirements | Chapter X - Discounting / Rediscounting of Bills,False,"ential Norms on
+Capital Adequacy) Directions, 2025.
+142. Asset-Liability Management
+The long-term financing of infrastructure projects may lead to asset – liability
+mismatches, particularly when such "
+Q15,What conditions must an infrastructure project satisfy for a bank to finance it?,standard,7,0.02967,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,13,14,C. Definitions,False,"10[(xxxa) ‘Primary Security’ shall mean security created on assets which have
+been financed out of the credit facility extended to the borrower.]
+(xxxi) ‘Project’ in the context of Chapter VII of thes"
+Q15,What conditions must an infrastructure project satisfy for a bank to finance it?,standard,8,0.02967,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,44,45,D. Other provisions | Chapter VII - Project Finance | A. Phases of Projects,False," Managing Risks in Outsourcing)
+Directions, 2025 for instructions pertaining to responsibilities for outsourced
+activities.
+45
+Chapter VII - Project Finance
+The directions contained in this Chapter pr"
+Q15,What conditions must an infrastructure project satisfy for a bank to finance it?,standard,9,0.027418,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,74,74,B. Types of Financing by Banks,False," borrowing InvIT’s eligibility to borrow, nor restrict
+the banks’ ability to enforce their security interest and lender’s rights.
+Specifically, in cases where the InvIT is established as a trust, the "
+Q15,What conditions must an infrastructure project satisfy for a bank to finance it?,standard,10,0.026686,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,76,77,Chapter XI – Acquisition Finance. | C. Appraisal,False," and receivables,
+a pledge of equity interests held by the InvIT in the relevant SPV, and such
+other legally enforceable security interests as may be applicable. Where a
+charge is created over immovab"
+Q16,"Before approving credit, what borrower-profile details does the RBI direction say the lender needs to collect?",paraphrased,1,0.032522,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,19,20,A. General Requirements for bank-LSP Arrangements | B. Conduct and Customer Protection Requirements,True,") The content displayed by the LSP shall be unbiased, objective and shall not
+directly / indirectly promote or push a product of a particular lender, including
+the use of dark patterns / deceptive pat"
+Q16,"Before approving credit, what borrower-profile details does the RBI direction say the lender needs to collect?",paraphrased,2,0.030159,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,48,48,C. Prudential Conditions Related to Disbursement and Monitoring | D. Other Provisions,False," The lender’s independent engineer (LIE) / architect shall certify the
+stages of completion of the project.
+84. A project finance account may be classified as NPA during any time before actual
+DCCO as"
+Q16,"Before approving credit, what borrower-profile details does the RBI direction say the lender needs to collect?",paraphrased,3,0.026993,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,78,79,D. Prudential requirements | Chapter X - Discounting / Rediscounting of Bills,False,"ential Norms on
+Capital Adequacy) Directions, 2025.
+142. Asset-Liability Management
+The long-term financing of infrastructure projects may lead to asset – liability
+mismatches, particularly when such "
+Q16,"Before approving credit, what borrower-profile details does the RBI direction say the lender needs to collect?",paraphrased,4,0.02628,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,41,42,A. Definition of Microfinance | B. Assessment of Household Income,False," loans.
+Explanation: To ensure collateral-free nature of the microfinance loan, the loan
+shall not be linked with a lien on the deposit account of the borrower or backed by
+hypothecation of any securi"
+Q16,"Before approving credit, what borrower-profile details does the RBI direction say the lender needs to collect?",paraphrased,5,0.025038,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,20,21,B. Conduct and Customer Protection Requirements,False,"achet Portal.
+(v) Privacy policies and other details as required under extant guidelines of the
+Reserve Bank.
+(5) A bank shall ensure that DLAs / LSPs have links to the above website of the
+bank.
+(6) "
+Q16,"Before approving credit, what borrower-profile details does the RBI direction say the lender needs to collect?",paraphrased,6,0.024729,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,133,134,H. Gold Card Scheme for exporters,False," shall endeavour to provide the best
+134
+rates possible to Gold Card holders on the basis of their rating and past
+performance.
+381. Gold Card holders, on the basis of their track record of timely rea"
+Q16,"Before approving credit, what borrower-profile details does the RBI direction say the lender needs to collect?",paraphrased,7,0.024351,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,35,36,D. Loan to Value Ratio (LTV) | E. Other Provisions,False,", and the loan amount, shall take into account the total amount
+repayable at maturity.
+45. The prescribed LTV ratio shall be maintained on an ongoing basis throughout the
+tenor of the loan.
+E. Other P"
+Q16,"Before approving credit, what borrower-profile details does the RBI direction say the lender needs to collect?",paraphrased,8,0.024008,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,141,141,D. Guarantee favouring another RE | E. Co-acceptances | F. Guarantee and related business involving overseas current or capital,False," another RE to enable it to
+provide any fund based credit facility to an obligor, unless specifically permitted by
+RBI.
+Provided that this clause shall not be applicable in case of credit facilities e"
+Q16,"Before approving credit, what borrower-profile details does the RBI direction say the lender needs to collect?",paraphrased,9,0.023333,RBI_KYC_001,Master Direction - Know Your Customer (KYC) Direction 2016,17,17,CHAPTER II,False," Board.
+(b) The name, designation and address of the Designated Director shall be
+communicated to the FIU-IND.
+(c) 36Further, the name, designation, address and contact details of the
+Designated Direc"
+Q16,"Before approving credit, what borrower-profile details does the RBI direction say the lender needs to collect?",paraphrased,10,0.022612,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,31,32,F. General Provisions | Chapter IV - Lending against Gold and Silver Collateral | A. General Provisions,False,", 2025, nor attract the provisions of ‘loan
+participation’ as defined under the Reserve Bank of India (Commercial Banks –
+Transfer and Distribution of Credit Risk) Directions, 2025.
+32
+Chapter IV - Le"
+Q17,Can a digital lender route a loan payment through an LSP's pool account before it reaches the borrower? Explain the rule.,paraphrased,1,0.032787,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,18,19,A. General Requirements for bank-LSP Arrangements,False,"(7) As an overarching principle, any outsourcing agreement entered into by a bank
+with an LSP shall in no manner dilute or absolve the bank of its obligations
+under any statutory or regulatory provisi"
+Q17,Can a digital lender route a loan payment through an LSP's pool account before it reaches the borrower? Explain the rule.,paraphrased,2,0.032258,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,21,22,B. Conduct and Customer Protection Requirements,True," the
+corporate employer by deducting the amount from the borrower’s salary.
+However, it must be ensured that LSPs do not have any control over the flow
+of funds directly or indirectly in such transact"
+Q17,Can a digital lender route a loan payment through an LSP's pool account before it reaches the borrower? Explain the rule.,paraphrased,3,0.031498,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,22,22,B. Conduct and Customer Protection Requirements,False," flexibility to
+the bank, such transactions are exempted from the requirement of direct
+repayment of loan in the bank’s account. However, any recovery by cash shall
+be duly reflected in full in the bo"
+Q17,Can a digital lender route a loan payment through an LSP's pool account before it reaches the borrower? Explain the rule.,paraphrased,4,0.030798,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,17,18,Chapter II - Role of The Board | Chapter III - Digital Lending Guidelines | A. General Requirements for bank-LSP Arrangements,False," payment
+instrument and / or underlying technology used for its disbursement, the prudential
+treatment of an underlying credit facility, including pre-sanctioned credit lines meant
+for payment transac"
+Q17,Can a digital lender route a loan payment through an LSP's pool account before it reaches the borrower? Explain the rule.,paraphrased,5,0.030769,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,20,21,B. Conduct and Customer Protection Requirements,True,"achet Portal.
+(v) Privacy policies and other details as required under extant guidelines of the
+Reserve Bank.
+(5) A bank shall ensure that DLAs / LSPs have links to the above website of the
+bank.
+(6) "
+Q17,Can a digital lender route a loan payment through an LSP's pool account before it reaches the borrower? Explain the rule.,paraphrased,6,0.029412,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,18,18,A. General Requirements for bank-LSP Arrangements,False," defines
+the respective roles, rights, and obligations of each party thereto.
+(2) A bank shall conduct enhanced due diligence before they enter into an
+agreement with a LSP for digital lending, taking"
+Q17,Can a digital lender route a loan payment through an LSP's pool account before it reaches the borrower? Explain the rule.,paraphrased,7,0.028665,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,19,20,A. General Requirements for bank-LSP Arrangements | B. Conduct and Customer Protection Requirements,False,") The content displayed by the LSP shall be unbiased, objective and shall not
+directly / indirectly promote or push a product of a particular lender, including
+the use of dark patterns / deceptive pat"
+Q17,Can a digital lender route a loan payment through an LSP's pool account before it reaches the borrower? Explain the rule.,paraphrased,8,0.028624,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,25,26,D. Reporting of Credit Information and DLAs,False," the bank’s website where further information about the
+loan products, the lender, the LSP, particulars of customer care, link to
+Sachet Portal, privacy policies, etc. can be accessed by the borrower."
+Q17,Can a digital lender route a loan payment through an LSP's pool account before it reaches the borrower? Explain the rule.,paraphrased,9,0.028175,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,20,20,B. Conduct and Customer Protection Requirements,False,"
+Conduct), Directions, 2025.
+(2) As regards penal charges, a bank shall be guided by Reserve Bank of India
+(Commercial Banks - Responsible Business Conduct), Directions, 2025.
+(3) A bank shall ensure "
+Q17,Can a digital lender route a loan payment through an LSP's pool account before it reaches the borrower? Explain the rule.,paraphrased,10,0.028006,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,26,27,D. Reporting of Credit Information and DLAs | E. Loss sharing arrangement in case of default,False,"associated entity as conferring any form of registration, authorization, or
+endorsement by the Reserve Bank. The bank shall also ensure that such
+inclusion is not misrepresented in any marketing, prom"
+Q18,"If a microfinance household is already spending more than half its monthly income on loan instalments, can it receive another loan immediately?",paraphrased,1,0.032522,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,42,43,B. Assessment of Household Income | C. Limit on Loan Repayment Obligations of a Household,True,", other references in the vicinity, etc.).
+43
+64. Self-regulatory organisations (SROs) and other associations / agencies may also
+develop a common framework based on the indicative methodology. The ba"
+Q18,"If a microfinance household is already spending more than half its monthly income on loan instalments, can it receive another loan immediately?",paraphrased,2,0.032266,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,43,44,C. Limit on Loan Repayment Obligations of a Household | D. Other provisions,True," at 50 per cent of the
+monthly household income shall include repayments (including both principal as
+well as interest component) towards all existing loans as well as the loan under
+consideration.
+68"
+Q18,"If a microfinance household is already spending more than half its monthly income on loan instalments, can it receive another loan immediately?",paraphrased,3,0.031754,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,41,42,A. Definition of Microfinance | B. Assessment of Household Income,False," loans.
+Explanation: To ensure collateral-free nature of the microfinance loan, the loan
+shall not be linked with a lien on the deposit account of the borrower or backed by
+hypothecation of any securi"
+Q18,"If a microfinance household is already spending more than half its monthly income on loan instalments, can it receive another loan immediately?",paraphrased,4,0.031498,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,40,41,D. Repayment of GML | E. Disclosures | Chapter VI - Microfinance | A. Definition of Microfinance,False," physical gold,
+provided:
+(1) repayment is made using locally sourced IGDS (India Good Delivery
+Standards) / LGDS (LBMA’s Good Delivery Standards) gold;
+(2) gold is delivered on behalf of the borrower"
+Q18,"If a microfinance household is already spending more than half its monthly income on loan instalments, can it receive another loan immediately?",paraphrased,5,0.028665,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,54,54,B. Housing Finance,False," for
+acquisition and development of land, provided it is a part of the complete
+project, including development of infrastructure such as water systems,
+drainage, roads, provision of electricity, etc. "
+Q18,"If a microfinance household is already spending more than half its monthly income on loan instalments, can it receive another loan immediately?",paraphrased,6,0.028372,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,8,8,C. Definitions,False," Loans’ means loans where both principal and interest
+are due for payment at the maturity of the loan.
+4[(va) ‘Capital Market Intermediaries (CMIs)’ shall mean regulated entities
+undertaking trade exe"
+Q18,"If a microfinance household is already spending more than half its monthly income on loan instalments, can it receive another loan immediately?",paraphrased,7,0.02669,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,22,22,B. Conduct and Customer Protection Requirements,False," flexibility to
+the bank, such transactions are exempted from the requirement of direct
+repayment of loan in the bank’s account. However, any recovery by cash shall
+be duly reflected in full in the bo"
+Q18,"If a microfinance household is already spending more than half its monthly income on loan instalments, can it receive another loan immediately?",paraphrased,8,0.026044,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,32,33,A. General Provisions | B. Restrictions and Ceilings,False," to be taken in
+cases of breach of LTV ratio; valuation standards and norms; and standards of
+gold and silver purity. The policy shall also include appropriate documentation to
+be obtained and maintai"
+Q18,"If a microfinance household is already spending more than half its monthly income on loan instalments, can it receive another loan immediately?",paraphrased,9,0.025074,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,20,21,B. Conduct and Customer Protection Requirements,False,"achet Portal.
+(v) Privacy policies and other details as required under extant guidelines of the
+Reserve Bank.
+(5) A bank shall ensure that DLAs / LSPs have links to the above website of the
+bank.
+(6) "
+Q18,"If a microfinance household is already spending more than half its monthly income on loan instalments, can it receive another loan immediately?",paraphrased,10,0.024702,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,33,33,B. Restrictions and Ceilings,False,"
+36. A bank shall not grant any advance or loan:
+(1) For purchase of gold in any form including primary gold, ornaments, jewellery,
+or coins, or for purchase of financial assets backed by gold, e.g., "
+Q19,"In project lending, should a bank release the entire sanctioned amount at the start, regardless of construction progress?",paraphrased,1,0.032002,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,52,53,B. Housing Finance,False," public sector undertakings which are not registered under Companies Act
+or which are not Corporations established under the relevant statute) shall not
+be financed by the bank. Even in respect of pro"
+Q19,"In project lending, should a bank release the entire sanctioned amount at the start, regardless of construction progress?",paraphrased,2,0.030679,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,51,52,B. Housing Finance,False,"3 months of completion
+of construction, failing which the bank shall have the power and the authority
+to recall the entire loan with interest, costs and other usual bank charges.
+(3) An Architect appo"
+Q19,"In project lending, should a bank release the entire sanctioned amount at the start, regardless of construction progress?",paraphrased,3,0.029572,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,48,50,D. Other Provisions | Chapter VIII - Credit Facilities to Real Estate Sector | A. Loans and advances to Real Estate Sector,True," increase financed by equity, % of total
+increase financed by debt, revised D/E, revised DSCR, revised repayment tenor, revised
+repayment start date, revised repayment frequency, revised external cred"
+Q19,"In project lending, should a bank release the entire sanctioned amount at the start, regardless of construction progress?",paraphrased,4,0.029274,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,48,48,C. Prudential Conditions Related to Disbursement and Monitoring | D. Other Provisions,True," The lender’s independent engineer (LIE) / architect shall certify the
+stages of completion of the project.
+84. A project finance account may be classified as NPA during any time before actual
+DCCO as"
+Q19,"In project lending, should a bank release the entire sanctioned amount at the start, regardless of construction progress?",paraphrased,5,0.029214,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,45,46,A. Phases of Projects | B. Prudential Conditions Related to Sanction,False,"
+closure and ends on the day before the actual DCCO.
+(3) Operational Phase – This is the last phase which starts with commencement
+of commercial operation by the project on the day of the actual DCCO "
+Q19,"In project lending, should a bank release the entire sanctioned amount at the start, regardless of construction progress?",paraphrased,6,0.02901,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,50,50,A. Loans and advances to Real Estate Sector | B. Housing Finance,False,". A bank shall put in place a comprehensive Board-approved policy relating to the
+ceiling on the total amount of real estate loans, single / group exposure limits for
+such loans, margins, security, re"
+Q19,"In project lending, should a bank release the entire sanctioned amount at the start, regardless of construction progress?",paraphrased,7,0.02901,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,57,57,(CRE-RH),False,"
+disbursals to various stages of construction of housing project, Interest / EMI on
+the housing loan availed of by the individual borrower being serviced by the
+builders during the construction period"
+Q19,"In project lending, should a bank release the entire sanctioned amount at the start, regardless of construction progress?",paraphrased,8,0.028992,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,47,48,C. Prudential Conditions Related to Disbursement and Monitoring,True,"
+begin only after declaration of the Appointed Date or its equivalent, for the project.
+However, in cases where non-fund based credit facilities may be mandated by the
+concession granting authority as"
+Q19,"In project lending, should a bank release the entire sanctioned amount at the start, regardless of construction progress?",paraphrased,9,0.028125,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,13,14,C. Definitions,False,"10[(xxxa) ‘Primary Security’ shall mean security created on assets which have
+been financed out of the credit facility extended to the borrower.]
+(xxxi) ‘Project’ in the context of Chapter VII of thes"
+Q19,"In project lending, should a bank release the entire sanctioned amount at the start, regardless of construction progress?",paraphrased,10,0.028034,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,78,79,D. Prudential requirements | Chapter X - Discounting / Rediscounting of Bills,False,"ential Norms on
+Capital Adequacy) Directions, 2025.
+142. Asset-Liability Management
+The long-term financing of infrastructure projects may lead to asset – liability
+mismatches, particularly when such "
+Q20,"If a borrower exits a digital loan during the initial withdrawal window, what amount can the bank collect and can it impose a penalty?",paraphrased,1,0.032787,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,22,22,B. Conduct and Customer Protection Requirements,True," flexibility to
+the bank, such transactions are exempted from the requirement of direct
+repayment of loan in the bank’s account. However, any recovery by cash shall
+be duly reflected in full in the bo"
+Q20,"If a borrower exits a digital loan during the initial withdrawal window, what amount can the bank collect and can it impose a penalty?",paraphrased,2,0.030777,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,20,21,B. Conduct and Customer Protection Requirements,False,"achet Portal.
+(v) Privacy policies and other details as required under extant guidelines of the
+Reserve Bank.
+(5) A bank shall ensure that DLAs / LSPs have links to the above website of the
+bank.
+(6) "
+Q20,"If a borrower exits a digital loan during the initial withdrawal window, what amount can the bank collect and can it impose a penalty?",paraphrased,3,0.030077,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,32,33,A. General Provisions | B. Restrictions and Ceilings,False," to be taken in
+cases of breach of LTV ratio; valuation standards and norms; and standards of
+gold and silver purity. The policy shall also include appropriate documentation to
+be obtained and maintai"
+Q20,"If a borrower exits a digital loan during the initial withdrawal window, what amount can the bank collect and can it impose a penalty?",paraphrased,4,0.028787,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,18,19,A. General Requirements for bank-LSP Arrangements,False,"(7) As an overarching principle, any outsourcing agreement entered into by a bank
+with an LSP shall in no manner dilute or absolve the bank of its obligations
+under any statutory or regulatory provisi"
+Q20,"If a borrower exits a digital loan during the initial withdrawal window, what amount can the bank collect and can it impose a penalty?",paraphrased,5,0.028718,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,9,9,C. Definitions,False,"
+latter guarantees to compensate the bank, for the loss due to default up to
+a certain percentage of the loan portfolio of the bank, specified upfront. Any
+other implicit guarantee of similar nature, "
+Q20,"If a borrower exits a digital loan during the initial withdrawal window, what amount can the bank collect and can it impose a penalty?",paraphrased,6,0.027894,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,35,36,D. Loan to Value Ratio (LTV) | E. Other Provisions,False,", and the loan amount, shall take into account the total amount
+repayable at maturity.
+45. The prescribed LTV ratio shall be maintained on an ongoing basis throughout the
+tenor of the loan.
+E. Other P"
+Q20,"If a borrower exits a digital loan during the initial withdrawal window, what amount can the bank collect and can it impose a penalty?",paraphrased,7,0.027778,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,97,98,AA – BBB,False,"(2) Listed shares and units of mutual funds/ETFs/REIT/InvITs shall be valued
+at lower of the average daily closing prices/NAVs for the last six months or
+the closing price/NAV of the previous trading "
+Q20,"If a borrower exits a digital loan during the initial withdrawal window, what amount can the bank collect and can it impose a penalty?",paraphrased,8,0.027619,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,33,33,B. Restrictions and Ceilings,False,"
+36. A bank shall not grant any advance or loan:
+(1) For purchase of gold in any form including primary gold, ornaments, jewellery,
+or coins, or for purchase of financial assets backed by gold, e.g., "
+Q20,"If a borrower exits a digital loan during the initial withdrawal window, what amount can the bank collect and can it impose a penalty?",paraphrased,9,0.025488,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,29,30,E. Loss sharing arrangement in case of default,False,"Initial
+Position
+10
+-
+-
+-
+-
+10
+0.5
+Further
+disbursement
+10
+-
+-
+-
+-
+20
+1
+Case 1
+20
+5
+-
+-
+-
+15
+1
+Case 2
+20
+5
+2
+1
+-
+15
+0
+Case 3
+20
+5
+2
+1
+1
+14
+0
+25. Recognition of NPA
+(1) Recognition of individual loan a"
+Q20,"If a borrower exits a digital loan during the initial withdrawal window, what amount can the bank collect and can it impose a penalty?",paraphrased,10,0.025333,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,28,29,E. Loss sharing arrangement in case of default,False,"(out of the total sanctioned loans) under a DLG arrangement (DLG set). This
+portfolio shall remain ""frozen"" for the purpose of the specific DLG arrangement
+- meaning that no loan assets can be added o"
+Q21,"According to the gold/silver collateral LTV table, what maximum LTV applies when the total consumption loan amount per borrower is ₹2 lakh?",table,1,0.032787,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,34,35,C. Valuation and Assaying of Gold and Silver collateral | D. Loan to Value Ratio (LTV),True,"
+the preceding day,
+as published either by the India Bullion and Jewellers Association Ltd. (IBJA) or by
+a commodity exchange regulated by the Securities and Exchange Board of India
+(SEBI) shall be us"
+Q21,"According to the gold/silver collateral LTV table, what maximum LTV applies when the total consumption loan amount per borrower is ₹2 lakh?",table,2,0.032258,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,32,33,A. General Provisions | B. Restrictions and Ceilings,False," to be taken in
+cases of breach of LTV ratio; valuation standards and norms; and standards of
+gold and silver purity. The policy shall also include appropriate documentation to
+be obtained and maintai"
+Q21,"According to the gold/silver collateral LTV table, what maximum LTV applies when the total consumption loan amount per borrower is ₹2 lakh?",table,3,0.031498,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,97,97,Q. Loans against Eligible Securities | AA – BBB,False," individuals against eligible securities, subject to the LTVs
+and prudential ceilings specified hereunder.
+Q.2.2 LTV Requirements
+219G. Banks shall lay down the LTV for loans against eligible securiti"
+Q21,"According to the gold/silver collateral LTV table, what maximum LTV applies when the total consumption loan amount per borrower is ₹2 lakh?",table,4,0.031258,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,31,32,F. General Provisions | Chapter IV - Lending against Gold and Silver Collateral | A. General Provisions,False,", 2025, nor attract the provisions of ‘loan
+participation’ as defined under the Reserve Bank of India (Commercial Banks –
+Transfer and Distribution of Credit Risk) Directions, 2025.
+32
+Chapter IV - Le"
+Q21,"According to the gold/silver collateral LTV table, what maximum LTV applies when the total consumption loan amount per borrower is ₹2 lakh?",table,5,0.03031,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,33,34,B. Restrictions and Ceilings | C. Valuation and Assaying of Gold and Silver collateral,True," to other lenders, entities or individuals by accepting gold or silver
+collateral pledged to such lenders, entities, or individuals by their borrowers as
+collateral.
+34
+For removal of doubt, it is cla"
+Q21,"According to the gold/silver collateral LTV table, what maximum LTV applies when the total consumption loan amount per borrower is ₹2 lakh?",table,6,0.029437,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,40,41,D. Repayment of GML | E. Disclosures | Chapter VI - Microfinance | A. Definition of Microfinance,False," physical gold,
+provided:
+(1) repayment is made using locally sourced IGDS (India Good Delivery
+Standards) / LGDS (LBMA’s Good Delivery Standards) gold;
+(2) gold is delivered on behalf of the borrower"
+Q21,"According to the gold/silver collateral LTV table, what maximum LTV applies when the total consumption loan amount per borrower is ₹2 lakh?",table,7,0.029199,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,35,36,D. Loan to Value Ratio (LTV) | E. Other Provisions,False,", and the loan amount, shall take into account the total amount
+repayable at maturity.
+45. The prescribed LTV ratio shall be maintained on an ongoing basis throughout the
+tenor of the loan.
+E. Other P"
+Q21,"According to the gold/silver collateral LTV table, what maximum LTV applies when the total consumption loan amount per borrower is ₹2 lakh?",table,8,0.028577,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,56,57,B. Housing Finance | (CRE-RH),False,"ii) Above ₹75 lakh
+≤75
+75
+(b) Commercial real estate – residential housing
+(CRE-RH)
+N A
+75
+(c) Commercial Real Estate (CRE)
+N A
+100
+112. As a counter cyclical measure, for Individual Housing Loans san"
+Q21,"According to the gold/silver collateral LTV table, what maximum LTV applies when the total consumption loan amount per borrower is ₹2 lakh?",table,9,0.028259,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,55,56,B. Housing Finance,False,"aries are not
+authorised by the Reserve Bank to provide housing finance to NRIs.
+110. Lending to housing intermediary agencies shall be subject to the instructions
+on Commercial Real Estate exposure, "
+Q21,"According to the gold/silver collateral LTV table, what maximum LTV applies when the total consumption loan amount per borrower is ₹2 lakh?",table,10,0.028039,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,97,98,AA – BBB,False,"(2) Listed shares and units of mutual funds/ETFs/REIT/InvITs shall be valued
+at lower of the average daily closing prices/NAVs for the last six months or
+the closing price/NAV of the previous trading "
+Q22,"According to the gold/silver collateral LTV table, what maximum LTV applies to a total consumption loan of ₹4 lakh per borrower?",table,1,0.032787,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,34,35,C. Valuation and Assaying of Gold and Silver collateral | D. Loan to Value Ratio (LTV),True,"
+the preceding day,
+as published either by the India Bullion and Jewellers Association Ltd. (IBJA) or by
+a commodity exchange regulated by the Securities and Exchange Board of India
+(SEBI) shall be us"
+Q22,"According to the gold/silver collateral LTV table, what maximum LTV applies to a total consumption loan of ₹4 lakh per borrower?",table,2,0.032258,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,32,33,A. General Provisions | B. Restrictions and Ceilings,False," to be taken in
+cases of breach of LTV ratio; valuation standards and norms; and standards of
+gold and silver purity. The policy shall also include appropriate documentation to
+be obtained and maintai"
+Q22,"According to the gold/silver collateral LTV table, what maximum LTV applies to a total consumption loan of ₹4 lakh per borrower?",table,3,0.031498,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,97,97,Q. Loans against Eligible Securities | AA – BBB,False," individuals against eligible securities, subject to the LTVs
+and prudential ceilings specified hereunder.
+Q.2.2 LTV Requirements
+219G. Banks shall lay down the LTV for loans against eligible securiti"
+Q22,"According to the gold/silver collateral LTV table, what maximum LTV applies to a total consumption loan of ₹4 lakh per borrower?",table,4,0.031258,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,31,32,F. General Provisions | Chapter IV - Lending against Gold and Silver Collateral | A. General Provisions,False,", 2025, nor attract the provisions of ‘loan
+participation’ as defined under the Reserve Bank of India (Commercial Banks –
+Transfer and Distribution of Credit Risk) Directions, 2025.
+32
+Chapter IV - Le"
+Q22,"According to the gold/silver collateral LTV table, what maximum LTV applies to a total consumption loan of ₹4 lakh per borrower?",table,5,0.03009,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,33,34,B. Restrictions and Ceilings | C. Valuation and Assaying of Gold and Silver collateral,True," to other lenders, entities or individuals by accepting gold or silver
+collateral pledged to such lenders, entities, or individuals by their borrowers as
+collateral.
+34
+For removal of doubt, it is cla"
+Q22,"According to the gold/silver collateral LTV table, what maximum LTV applies to a total consumption loan of ₹4 lakh per borrower?",table,6,0.029418,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,40,41,D. Repayment of GML | E. Disclosures | Chapter VI - Microfinance | A. Definition of Microfinance,False," physical gold,
+provided:
+(1) repayment is made using locally sourced IGDS (India Good Delivery
+Standards) / LGDS (LBMA’s Good Delivery Standards) gold;
+(2) gold is delivered on behalf of the borrower"
+Q22,"According to the gold/silver collateral LTV table, what maximum LTV applies to a total consumption loan of ₹4 lakh per borrower?",table,7,0.02885,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,55,56,B. Housing Finance,False,"aries are not
+authorised by the Reserve Bank to provide housing finance to NRIs.
+110. Lending to housing intermediary agencies shall be subject to the instructions
+on Commercial Real Estate exposure, "
+Q22,"According to the gold/silver collateral LTV table, what maximum LTV applies to a total consumption loan of ₹4 lakh per borrower?",table,8,0.02879,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,56,57,B. Housing Finance | (CRE-RH),False,"ii) Above ₹75 lakh
+≤75
+75
+(b) Commercial real estate – residential housing
+(CRE-RH)
+N A
+75
+(c) Commercial Real Estate (CRE)
+N A
+100
+112. As a counter cyclical measure, for Individual Housing Loans san"
+Q22,"According to the gold/silver collateral LTV table, what maximum LTV applies to a total consumption loan of ₹4 lakh per borrower?",table,9,0.028778,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,35,36,D. Loan to Value Ratio (LTV) | E. Other Provisions,False,", and the loan amount, shall take into account the total amount
+repayable at maturity.
+45. The prescribed LTV ratio shall be maintained on an ongoing basis throughout the
+tenor of the loan.
+E. Other P"
+Q22,"According to the gold/silver collateral LTV table, what maximum LTV applies to a total consumption loan of ₹4 lakh per borrower?",table,10,0.027778,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,8,8,C. Definitions,False," Loans’ means loans where both principal and interest
+are due for payment at the maturity of the loan.
+4[(va) ‘Capital Market Intermediaries (CMIs)’ shall mean regulated entities
+undertaking trade exe"
+Q23,"In the housing finance table, what LTV ratio and risk weight are shown for an individual housing loan up to ₹30 lakh when the LTV is 80 per cent or less?",table,1,0.032787,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,55,56,B. Housing Finance,True,"aries are not
+authorised by the Reserve Bank to provide housing finance to NRIs.
+110. Lending to housing intermediary agencies shall be subject to the instructions
+on Commercial Real Estate exposure, "
+Q23,"In the housing finance table, what LTV ratio and risk weight are shown for an individual housing loan up to ₹30 lakh when the LTV is 80 per cent or less?",table,2,0.032258,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,56,57,B. Housing Finance | (CRE-RH),False,"ii) Above ₹75 lakh
+≤75
+75
+(b) Commercial real estate – residential housing
+(CRE-RH)
+N A
+75
+(c) Commercial Real Estate (CRE)
+N A
+100
+112. As a counter cyclical measure, for Individual Housing Loans san"
+Q23,"In the housing finance table, what LTV ratio and risk weight are shown for an individual housing loan up to ₹30 lakh when the LTV is 80 per cent or less?",table,3,0.031746,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,34,35,C. Valuation and Assaying of Gold and Silver collateral | D. Loan to Value Ratio (LTV),False,"
+the preceding day,
+as published either by the India Bullion and Jewellers Association Ltd. (IBJA) or by
+a commodity exchange regulated by the Securities and Exchange Board of India
+(SEBI) shall be us"
+Q23,"In the housing finance table, what LTV ratio and risk weight are shown for an individual housing loan up to ₹30 lakh when the LTV is 80 per cent or less?",table,4,0.030777,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,32,33,A. General Provisions | B. Restrictions and Ceilings,False," to be taken in
+cases of breach of LTV ratio; valuation standards and norms; and standards of
+gold and silver purity. The policy shall also include appropriate documentation to
+be obtained and maintai"
+Q23,"In the housing finance table, what LTV ratio and risk weight are shown for an individual housing loan up to ₹30 lakh when the LTV is 80 per cent or less?",table,5,0.030536,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,97,97,Q. Loans against Eligible Securities | AA – BBB,False," individuals against eligible securities, subject to the LTVs
+and prudential ceilings specified hereunder.
+Q.2.2 LTV Requirements
+219G. Banks shall lay down the LTV for loans against eligible securiti"
+Q23,"In the housing finance table, what LTV ratio and risk weight are shown for an individual housing loan up to ₹30 lakh when the LTV is 80 per cent or less?",table,6,0.03009,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,67,67,D. Simultaneous classification of CRE into other regulatory categories | E. Loans and Advances to Commercial Real Estate - Residential Housing,False,"FCs, which are mostly lending to individuals
+for residential housing as per the norms fixed by National Housing Bank
+(NHB) and also fulfil the eligibility criteria to draw refinance from NHB, shall
+no"
+Q23,"In the housing finance table, what LTV ratio and risk weight are shown for an individual housing loan up to ₹30 lakh when the LTV is 80 per cent or less?",table,7,0.027673,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,61,62,D. Simultaneous classification of CRE into other regulatory categories,False,", it
+shall be classified under both categories. In such cases:
+(i) The risk weight applicable to CRE (100 per cent) shall be applied, regardless
+of borrower rating.
+(ii) At the same time, the exposure"
+Q23,"In the housing finance table, what LTV ratio and risk weight are shown for an individual housing loan up to ₹30 lakh when the LTV is 80 per cent or less?",table,8,0.02712,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,97,98,AA – BBB,False,"(2) Listed shares and units of mutual funds/ETFs/REIT/InvITs shall be valued
+at lower of the average daily closing prices/NAVs for the last six months or
+the closing price/NAV of the previous trading "
+Q23,"In the housing finance table, what LTV ratio and risk weight are shown for an individual housing loan up to ₹30 lakh when the LTV is 80 per cent or less?",table,9,0.02683,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,54,54,B. Housing Finance,False," for
+acquisition and development of land, provided it is a part of the complete
+project, including development of infrastructure such as water systems,
+drainage, roads, provision of electricity, etc. "
+Q23,"In the housing finance table, what LTV ratio and risk weight are shown for an individual housing loan up to ₹30 lakh when the LTV is 80 per cent or less?",table,10,0.02628,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,11,12,C. Definitions,False,", while entities offering only Payment Aggregator (PA)
+services in terms of the extant instructions issued by the Reserve Bank
+shall remain out of the ambit of these Directions, any PA also performing"
+Q24,"In the DLG illustration table, after the further disbursement row, what disbursed amount and available DLG cover are recorded?",table,1,0.032522,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,27,28,E. Loss sharing arrangement in case of default,True," Extent of DLG cover.
+(2) Form in which DLG cover is to be maintained with the bank.
+(3) Timeline for DLG invocation.
+(4) Disclosure requirements as under paragraph 28 of these Directions.
+23. Forms o"
+Q24,"In the DLG illustration table, after the further disbursement row, what disbursed amount and available DLG cover are recorded?",table,2,0.032522,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,28,29,E. Loss sharing arrangement in case of default,True,"(out of the total sanctioned loans) under a DLG arrangement (DLG set). This
+portfolio shall remain ""frozen"" for the purpose of the specific DLG arrangement
+- meaning that no loan assets can be added o"
+Q24,"In the DLG illustration table, after the further disbursement row, what disbursed amount and available DLG cover are recorded?",table,3,0.031498,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,29,30,E. Loss sharing arrangement in case of default,True,"Initial
+Position
+10
+-
+-
+-
+-
+10
+0.5
+Further
+disbursement
+10
+-
+-
+-
+-
+20
+1
+Case 1
+20
+5
+-
+-
+-
+15
+1
+Case 2
+20
+5
+2
+1
+-
+15
+0
+Case 3
+20
+5
+2
+1
+1
+14
+0
+25. Recognition of NPA
+(1) Recognition of individual loan a"
+Q24,"In the DLG illustration table, after the further disbursement row, what disbursed amount and available DLG cover are recorded?",table,4,0.031258,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,29,29,E. Loss sharing arrangement in case of default,True," of ₹2 crore during Q2-2024 and
+consequently the bank invokes the entire DLG of ₹1 crore (assuming that till
+date zero principal / interest have been received towards these loans). In this
+case, as of"
+Q24,"In the DLG illustration table, after the further disbursement row, what disbursed amount and available DLG cover are recorded?",table,5,0.030777,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,30,31,E. Loss sharing arrangement in case of default,False," assets in the portfolio shall continue
+to be governed by the Reserve Bank of India (Commercial Banks – Prudential
+Norms on Capital Adequacy) Directions, 2025.
+(2) In case, DLG provider is a bank, it "
+Q24,"In the DLG illustration table, after the further disbursement row, what disbursed amount and available DLG cover are recorded?",table,6,0.03031,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,26,27,D. Reporting of Credit Information and DLAs | E. Loss sharing arrangement in case of default,False,"associated entity as conferring any form of registration, authorization, or
+endorsement by the Reserve Bank. The bank shall also ensure that such
+inclusion is not misrepresented in any marketing, prom"
+Q24,"In the DLG illustration table, after the further disbursement row, what disbursed amount and available DLG cover are recorded?",table,7,0.030077,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,27,27,E. Loss sharing arrangement in case of default,False," that the entity extending DLG would be
+able to honour it. Such information shall, at a minimum, include a declaration
+from the DLG provider, certified by the statutory auditor of the DLG provider,
+on"
+Q24,"In the DLG illustration table, after the further disbursement row, what disbursed amount and available DLG cover are recorded?",table,8,0.027973,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,20,21,B. Conduct and Customer Protection Requirements,False,"achet Portal.
+(v) Privacy policies and other details as required under extant guidelines of the
+Reserve Bank.
+(5) A bank shall ensure that DLAs / LSPs have links to the above website of the
+bank.
+(6) "
+Q24,"In the DLG illustration table, after the further disbursement row, what disbursed amount and available DLG cover are recorded?",table,9,0.027619,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,9,9,C. Definitions,False,"
+latter guarantees to compensate the bank, for the loss due to default up to
+a certain percentage of the loan portfolio of the bank, specified upfront. Any
+other implicit guarantee of similar nature, "
+Q24,"In the DLG illustration table, after the further disbursement row, what disbursed amount and available DLG cover are recorded?",table,10,0.026199,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,111,112,B. Rupee Pre-shipment Credit to specific sectors / segments,False," value limit of the order or LC received by him. Taking into account
+the operational convenience, it is for the LC opening bank to fix the minimum
+amount for opening such LCs. The total period of pack"
+Q25,"In the DLG illustration table, what is the available DLG cover in Case 2 after the entire ₹1 crore DLG has been invoked?",table,1,0.032522,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,28,29,E. Loss sharing arrangement in case of default,True,"(out of the total sanctioned loans) under a DLG arrangement (DLG set). This
+portfolio shall remain ""frozen"" for the purpose of the specific DLG arrangement
+- meaning that no loan assets can be added o"
+Q25,"In the DLG illustration table, what is the available DLG cover in Case 2 after the entire ₹1 crore DLG has been invoked?",table,2,0.032266,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,29,29,E. Loss sharing arrangement in case of default,True," of ₹2 crore during Q2-2024 and
+consequently the bank invokes the entire DLG of ₹1 crore (assuming that till
+date zero principal / interest have been received towards these loans). In this
+case, as of"
+Q25,"In the DLG illustration table, what is the available DLG cover in Case 2 after the entire ₹1 crore DLG has been invoked?",table,3,0.032002,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,27,28,E. Loss sharing arrangement in case of default,False," Extent of DLG cover.
+(2) Form in which DLG cover is to be maintained with the bank.
+(3) Timeline for DLG invocation.
+(4) Disclosure requirements as under paragraph 28 of these Directions.
+23. Forms o"
+Q25,"In the DLG illustration table, what is the available DLG cover in Case 2 after the entire ₹1 crore DLG has been invoked?",table,4,0.03101,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,29,30,E. Loss sharing arrangement in case of default,True,"Initial
+Position
+10
+-
+-
+-
+-
+10
+0.5
+Further
+disbursement
+10
+-
+-
+-
+-
+20
+1
+Case 1
+20
+5
+-
+-
+-
+15
+1
+Case 2
+20
+5
+2
+1
+-
+15
+0
+Case 3
+20
+5
+2
+1
+1
+14
+0
+25. Recognition of NPA
+(1) Recognition of individual loan a"
+Q25,"In the DLG illustration table, what is the available DLG cover in Case 2 after the entire ₹1 crore DLG has been invoked?",table,5,0.030777,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,30,31,E. Loss sharing arrangement in case of default,False," assets in the portfolio shall continue
+to be governed by the Reserve Bank of India (Commercial Banks – Prudential
+Norms on Capital Adequacy) Directions, 2025.
+(2) In case, DLG provider is a bank, it "
+Q25,"In the DLG illustration table, what is the available DLG cover in Case 2 after the entire ₹1 crore DLG has been invoked?",table,6,0.03031,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,26,27,D. Reporting of Credit Information and DLAs | E. Loss sharing arrangement in case of default,False,"associated entity as conferring any form of registration, authorization, or
+endorsement by the Reserve Bank. The bank shall also ensure that such
+inclusion is not misrepresented in any marketing, prom"
+Q25,"In the DLG illustration table, what is the available DLG cover in Case 2 after the entire ₹1 crore DLG has been invoked?",table,7,0.030077,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,27,27,E. Loss sharing arrangement in case of default,False," that the entity extending DLG would be
+able to honour it. Such information shall, at a minimum, include a declaration
+from the DLG provider, certified by the statutory auditor of the DLG provider,
+on"
+Q25,"In the DLG illustration table, what is the available DLG cover in Case 2 after the entire ₹1 crore DLG has been invoked?",table,8,0.02837,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,9,9,C. Definitions,False,"
+latter guarantees to compensate the bank, for the loss due to default up to
+a certain percentage of the loan portfolio of the bank, specified upfront. Any
+other implicit guarantee of similar nature, "
+Q25,"In the DLG illustration table, what is the available DLG cover in Case 2 after the entire ₹1 crore DLG has been invoked?",table,9,0.025695,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,14,16,C. Definitions | Chapter II - Role of The Board,False,"
+have been assigned to them under the Banking Regulation Act, 1949 or the
+15
+Reserve Bank of India Act, 1934, or any statutory modification or re-enactment
+thereto or in other relevant directions issu"
+Q25,"In the DLG illustration table, what is the available DLG cover in Case 2 after the entire ₹1 crore DLG has been invoked?",table,10,0.024828,RBI_CREDIT_001,Commercial Banks - Credit Facilities Directions 2025,8,9,C. Definitions,False," context of project finance exposures, shall be deemed
+to have been triggered on the occurrence of any of the following:
+(a) Default with any lender.
+(b) Any lender(s) determines a need for extension "

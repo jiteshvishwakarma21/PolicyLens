@@ -1,0 +1,582 @@
+PAGE 1: Chapter I - Preliminary ............................................................................................... 6
+PAGE 1: Chapter II - Role of The Board ................................................................................. 16
+PAGE 1: Chapter III - Digital Lending Guidelines .................................................................... 18
+PAGE 1: Chapter IV - Lending against Gold and Silver Collateral .......................................... 32
+PAGE 1: Chapter V - [Deleted] ................................................................................................ 37
+PAGE 1: Chapter VA - Gold Metal Loans (GML) .................................................................... 38
+PAGE 1: A. Introduction .................................................................................................... 38
+PAGE 1: B. Eligible Banks ................................................................................................ 38
+PAGE 1: C. General Instructions ....................................................................................... 38
+PAGE 2: D. Repayment of GML ........................................................................................ 39
+PAGE 2: E. Disclosures .................................................................................................... 40
+PAGE 2: Chapter VI - Microfinance ......................................................................................... 41
+PAGE 2: Chapter VII - Project Finance ................................................................................... 45
+PAGE 2: Chapter VIII - Credit Facilities to Real Estate Sector ................................................ 50
+PAGE 2: Chapter IX - Infrastructure Financing ....................................................................... 72
+PAGE 2: Chapter X - Discounting / Rediscounting of Bills ...................................................... 79
+PAGE 2: Chapter XI - Acquisition Finance .............................................................................. 82
+PAGE 2: Chapter XII - Credit Facilities to Overseas Joint Ventures (JV) / Wholly Owned
+PAGE 3: Chapter XIII - Loans Against Financial Assets ......................................................... 92
+PAGE 3: Chapter XIV - Finance to Non-Banking Financial Companies (NBFCs) ................. 103
+PAGE 3: Chapter XV - Export Credit ..................................................................................... 107
+PAGE 4: Chapter XVI - Non-Fund Based (NFB) Credit Facilities.......................................... 137
+PAGE 4: Chapter XVII - Miscellaneous Provisions ............................................................... 146
+PAGE 4: Chapter XVIII - Repeal and other provisions .......................................................... 147
+PAGE 6: Chapter I -  Preliminary
+PAGE 6: A. Short Title and Commencement
+PAGE 6: 1. These Directions shall be called the Reserve Bank of India (Commercial Banks –
+PAGE 6: 2. These Directions shall come into effect immediately upon its issuance, unless
+PAGE 6: B. Applicability
+PAGE 6: 3. These Directions shall be applicable to Commercial Banks (hereinafter collectively
+PAGE 7: C. Definitions
+PAGE 16: Chapter II - Role of The Board
+PAGE 16: 5. A bank shall put in place a Board-approved credit policy covering, inter alia, the
+PAGE 17: Chapter IIA: Credit Facilities Linked to Specific Payment Instruments
+PAGE 17: 5A. Notwithstanding the mode / channel of credit delivery or the type of payment
+PAGE 17: 5B. Any credit facility which is designed to be linked to a specific payment mode, shall
+PAGE 17: 5C. The above instructions shall be without derogation to the provisions of any other
+PAGE 18: Chapter III - Digital Lending Guidelines
+PAGE 18: A. General Requirements for bank-LSP Arrangements
+PAGE 18: 6. Due diligence requirements with respect to LSPs
+PAGE 18: 7. Bank-LSP arrangements involving multiple lenders
+PAGE 19: B. Conduct and Customer Protection Requirements
+PAGE 19: 8. Assessing the borrower’s creditworthiness
+PAGE 20: 9. Disclosures to borrowers
+PAGE 21: 10.  Loan disbursal, servicing, and repayment
+PAGE 22: 11. Cooling-off period
+PAGE 22: 12. Grievance redressal
+PAGE 23: C. Technology and Data Requirement
+PAGE 23: 13. Collection, usage and sharing of data with third parties
+PAGE 23: 14. Storage of data
+PAGE 24: 15. Comprehensive privacy policy
+PAGE 24: 16. Technology standards
+PAGE 24: D. Reporting of Credit Information and DLAs
+PAGE 24: 17. Reporting to Credit Information Companies (CICs)
+PAGE 25: 18.  Reporting of DLAs to the Reserve Bank
+PAGE 26: E. Loss sharing arrangement in case of default
+PAGE 26: 19. Eligibility as Default Loss Guarantee (DLG) provider
+PAGE 26: 20. Due diligence and other requirements with respect to DLG provider
+PAGE 27: 21. Restrictions on entering into DLG arrangements
+PAGE 27: 22. Structure of DLG arrangements
+PAGE 27: 23. Forms of DLG
+PAGE 28: 24. Cap on DLG
+PAGE 29: 25. Recognition of NPA
+PAGE 30: 26. Treatment of DLG for regulatory capital
+PAGE 30: 27. Invocation and tenor of DLG
+PAGE 30: 28. Disclosure requirements
+PAGE 31: 29. Exceptions
+PAGE 31: F. General Provisions
+PAGE 31: 30. EMI programmes on Credit Card are governed specifically by the Reserve Bank
+PAGE 31: 31. DLG arrangements entered between a bank and their LSP conforming to the
+PAGE 32: Chapter IV - Lending against Gold and Silver Collateral
+PAGE 32: A. General Provisions
+PAGE 32: 33. The credit policy (hereinafter called the policy) of a bank, as required in terms of
+PAGE 32: 34. A bank may decide on a suitable approach for lending against eligible collateral as
+PAGE 33: 35. A bank may renew an existing loan or sanction a top-up loan upon a formal request
+PAGE 33: 34. Such renewal or top-up shall be permitted only within the permissible LTV, and
+PAGE 33: B. Restrictions and Ceilings
+PAGE 33: 36. A bank shall not grant any advance or loan:
+PAGE 33: 37. A bank shall not extend a loan where ownership of the collateral is doubtful. A
+PAGE 33: 38. A bank shall not:
+PAGE 34: 39. Tenor of consumption loans in the nature of bullet repayment loans shall be
+PAGE 34: 40. Loans against ornaments and coins shall be subject to the following:
+PAGE 34: C. Valuation and Assaying of Gold and Silver collateral
+PAGE 34: 41. Gold or silver accepted as collateral shall be valued based on the reference price
+PAGE 34: 42. If price information for the specific purity is not directly available, the lender shall
+PAGE 34: 43. For the purpose of valuation, only the intrinsic value of the gold or silver contained
+PAGE 34: D. Loan to Value Ratio (LTV)
+PAGE 34: 44. The maximum LTV ratio in respect of consumption loans against the eligible
+PAGE 35: 45. The prescribed LTV ratio shall be maintained on an ongoing basis throughout the
+PAGE 35: E. Other Provisions
+PAGE 35: 46.  For conduct related aspects and collateral management, the bank shall be guided
+PAGE 35: 47. The bank shall generally disburse loans into borrower’s bank accounts. Banks
+PAGE 35: 48. In case of bank transfers, the bank shall ensure that:
+PAGE 36: 49. Running multiple loans simultaneously to a single borrower or a group of related
+PAGE 36: 50. For instructions on disclosure requirements, the bank shall be guided by the
+PAGE 37: Chapter V - [Deleted]
+PAGE 38: Chapter VA - Gold Metal Loans (GML)
+PAGE 38: A. Introduction
+PAGE 38: 60A. The Gold Metal Loan (GML) scheme was launched in 1998 as per Export Import
+PAGE 38: B. Eligible Banks
+PAGE 38: 60B. Nominated banks importing gold as per the provisions of the Master Direction –
+PAGE 38: 60C. Designated banks implementing the GMS may extend GMS-linked GML to
+PAGE 38: C. General Instructions
+PAGE 38: 60D. A bank shall lay down a lending and risk management policy for GML which shall,
+PAGE 39: 60E. GML shall be subject to capital adequacy and other prudential requirements
+PAGE 39: 60F. GML shall not involve any direct or indirect liability of the borrowers towards the
+PAGE 39: 60G. A bank shall put in place mechanism to monitor on an ongoing basis the
+PAGE 39: 60H. A bank may extend GML to jewellers who are not their regular customers by
+PAGE 39: 60I. A bank may decide interest rates on GML based on costs of procuring and holding
+PAGE 39: D. Repayment of GML
+PAGE 39: 60J. In case of lending to jewellery exporters, the repayment tenor of GML shall be
+PAGE 40: 60K. For all GML other than lending to jewellery exporters, a bank may fix a repayment
+PAGE 40: 60L. Repayment of GML (both principal and interest amounts) shall be made in INR,
+PAGE 40: E. Disclosures
+PAGE 40: 60M. A bank shall report the GML data to the Reserve Bank on a quarterly basis by
+PAGE 41: Chapter VI - Microfinance
+PAGE 41: A. Definition of Microfinance
+PAGE 41: 61. A microfinance loan is defined as a collateral-free loan given to a household having
+PAGE 41: 62. All collateral-free loans, irrespective of end use and mode of application /
+PAGE 41: B. Assessment of Household Income
+PAGE 41: 63. Each bank shall put in place a board-approved policy for assessment of household
+PAGE 43: 64. Self-regulatory organisations (SROs) and other associations / agencies may also
+PAGE 43: 65. Each bank shall mandatorily submit information regarding household income to
+PAGE 43: C. Limit on Loan Repayment Obligations of a Household
+PAGE 43: 66. Each bank shall have a board-approved policy regarding the limit on the outflows
+PAGE 43: 67. The computation of loan repayment obligations shall take into account all
+PAGE 43: 68. Existing loans, for which outflows on account of repayment of monthly loan
+PAGE 43: 69. Each bank shall provide timely and accurate data to the CICs and use the data
+PAGE 44: D. Other provisions
+PAGE 44: 70. The bank shall have a board-approved policy to provide the flexibility of repayment
+PAGE 44: 71.  The bank providing microfinance loans shall refer to:
+PAGE 45: Chapter VII - Project Finance
+PAGE 45: 72. The directions contained in this Chapter shall not apply to projects where financial
+PAGE 45: A. Phases of Projects
+PAGE 45: 73. For the purpose of application of prudential guidelines contained in this Chapter,
+PAGE 45: B. Prudential Conditions Related to Sanction
+PAGE 45: 74. The credit policy of a bank shall incorporate suitable clauses for sanction of project
+PAGE 45: 75. For all projects financed by the bank, it shall be ensured that:
+PAGE 46: 76. For a given project, original / extended / actual DCCO, as the case may be, shall
+PAGE 46: 77. In under-construction projects where the aggregate exposure of the lenders is up
+PAGE 46: 78. A bank shall ensure that all applicable approvals / clearances for implementing /
+PAGE 47: 79. Approvals / clearances which are contingent upon achievement of certain
+PAGE 47: C. Prudential Conditions Related to Disbursement and Monitoring
+PAGE 47: 80. A bank shall ensure availability of sufficient land / right of way for all projects before
+PAGE 47: 81. In case of infrastructure projects under PPP model, disbursement of funds shall
+PAGE 47: 82. Further, in respect of the exposures mentioned at paragraph 81 above, the original
+PAGE 48: 83. The bank shall ensure that disbursal is proportionate to the stages of completion
+PAGE 48: 84. A project finance account may be classified as NPA during any time before actual
+PAGE 48: D. Other Provisions
+PAGE 48: 85. Creation and Maintenance of Database - Project specific data, in electronic and
+PAGE 49: 86. The bank shall update any change in parameters of a project finance exposure at
+PAGE 49: 87. The bank shall make appropriate disclosures in their financial statements, under
+PAGE 50: Chapter VIII - Credit Facilities to Real Estate Sector
+PAGE 50: A. Loans and advances to Real Estate Sector
+PAGE 50: 88. A bank shall put in place a comprehensive Board-approved policy relating to the
+PAGE 50: B. Housing Finance
+PAGE 50: 89. The bank shall take into account the following directions while formulating their
+PAGE 50: 90. Bank finance may be granted for purchase of a plot, provided a declaration is
+PAGE 50: 91. The bank granting loans / financing for construction of building or ready built house
+PAGE 51: 92. The bank shall adhere to the following conditions, in the light of the observations
+PAGE 52: 93. The Bank may consider requests for additional finance within the overall ceiling for
+PAGE 52: 94. In the case of individuals who might have raised funds for construction / acquisition
+PAGE 52: 95. The Bank may consider granting finance to –
+PAGE 52: 96. The bank shall not grant finance for the following:
+PAGE 53: 97. The bank granting loans to housing Intermediary agencies shall be guided by the
+PAGE 53: 98. In view of the need to increase the availability of land and house sites for increasing
+PAGE 54: 99. For valuation of properties including collaterals accepted for their exposures, the
+PAGE 54: 100. For valuation of land for the purpose of financing of land acquisition as also land
+PAGE 54: 101. The bank granting term loans to housing finance institutions shall take into
+PAGE 54: 102. The bank may extend term loans to state level housing boards and other public
+PAGE 54: 103.  The bank may extend credit to private builders on commercial terms by way of
+PAGE 54: 104.  The bank shall not extend fund based or non-fund based facilities to private
+PAGE 54: 105. The period of credit for loans extended by a bank to private builders may be
+PAGE 55: 106. Such credit may be extended to builders of repute, employing professionally
+PAGE 55: 107. Care shall be taken to see that prices charged from the ultimate beneficiaries
+PAGE 55: 108. The bank may grant term loans to housing intermediary agencies against the
+PAGE 55: 109. The bank may grant term loans to housing intermediary agencies against the
+PAGE 55: 110. Lending to housing intermediary agencies shall be subject to the instructions
+PAGE 55: 111. The bank shall abide by the following Loan to Value (LTV) and Risk Weights
+PAGE 56: 112. As a counter cyclical measure, for Individual Housing Loans sanctioned on or
+PAGE 56: 113. In order to have uniformity in the practices adopted for deciding the value of the
+PAGE 56: 114. It has been observed that some banks have introduced certain innovative
+PAGE 57: 115. Such housing loan products are likely to expose the banks as well as their home
+PAGE 57: 116. Disbursal of housing loans sanctioned to individuals shall be closely linked to
+PAGE 57: 117. However, in cases of projects sponsored by Government / Statutory Authorities,
+PAGE 57: 118. It is emphasized that the bank while introducing any kind of product shall take
+PAGE 58: 119. In view of the observations of Hon’ble High Court of Judicature at Bombay,
+PAGE 58: 120. Approvals from Statutory / Regulatory Authorities:
+PAGE 58: 121. Housing Loans Under Priority Sector
+PAGE 58: 122. National Building Code (NBC)
+PAGE 59: 123. For pricing of housing finance, the bank shall be guided by the provisions
+PAGE 59: 124. For Fair Lending Practices and the reset of floating interest rate on Equated
+PAGE 59: C. Loans and advances to Commercial Real Estate (CRE)
+PAGE 59: 125. Definition of Commercial Real Estate (CRE) Exposure
+PAGE 60: 126. The CRE exposures collateralized by eligible credit risk mitigants shall be
+PAGE 61: D. Simultaneous classification of CRE into other regulatory categories
+PAGE 61: 127. It is possible for an exposure to get classified simultaneously into more than
+PAGE 61: 128. Similarly, if an exposure is sensitive to multiple risk factors it shall be subjected
+PAGE 62: 129. The bank shall apply the above principles to any other exposures involving
+PAGE 62: 130.  To enable the bank to classify exposures as CRE or otherwise, illustrative
+PAGE 67: E. Loans and Advances to Commercial Real Estate - Residential Housing
+PAGE 67: 131. Commercial Real Estate – Residential Housing (CRE-RH), has been carved
+PAGE 67: 132. The CRE-RH segment shall attract a lower risk weight of 75% and lower
+PAGE 67: 133. The bank’s exposures to third dwelling unit onwards to an individual will also be
+PAGE 68: F. Lending to Real Estate Investment Trusts (REITs)
+PAGE 68: 133A. Banks shall be permitted to lend to REITs which are registered with and
+PAGE 68: 133B. Lending to REITs undertaken by overseas branches of Indian banks as part of
+PAGE 68: 133C. A bank shall put in place a Board approved policy on lending to REITs, which
+PAGE 68: 133D. Lending banks shall ensure that the applicable legal provisions in respect of
+PAGE 68: 133E. A bank shall strictly monitor the end use of funds lent to REITs to ensure that
+PAGE 68: 133F.  A bank may lend only to a REIT which satisfies the following conditions:
+PAGE 69: 133H. If the purpose of bank financing is refinancing of existing credit facilities of
+PAGE 69: 133I. The credit facilities extended by a bank to a REIT shall not involve bullet or
+PAGE 69: 133J.  In addition to the conditions and prudential requirements prescribed in this
+PAGE 70: 133K. Without prejudice to generality, a bank shall undertake assessment of all
+PAGE 70: 133L. Overall leverage of the borrowing REIT shall be within the prudential ceiling
+PAGE 70: 133N. Bank financing to a REIT shall be fully secured inter alia by charge over the
+PAGE 72: Chapter IX - Infrastructure Financing
+PAGE 72: A. Criteria for Financing
+PAGE 72: 134. The bank shall finance technically feasible, financially viable and bankable
+PAGE 73: B. Types of Financing by Banks
+PAGE 73: 135. In order to meet financial requirements of infrastructure projects, the bank shall
+PAGE 73: 136. Take-out Financing
+PAGE 73: 137A. Lending to InvITs
+PAGE 77: C. Appraisal
+PAGE 77: 138. In respect of financing of infrastructure projects undertaken by Government
+PAGE 77: 139. Infrastructure projects are often financed through Special Purpose Vehicles.
+PAGE 78: D. Prudential requirements
+PAGE 78: 140. For prudential credit exposure limits, the bank shall be guided by Reserve Bank
+PAGE 78: 141. For assignment of risk weight for capital adequacy purposes, the bank shall be
+PAGE 78: 142. Asset-Liability Management
+PAGE 78: 143. Administrative arrangements
+PAGE 79: Chapter X - Discounting / Rediscounting of Bills
+PAGE 79: 144. A bank shall sanction working capital limits as also bills limit to borrowers, only
+PAGE 79: 145. The procedure for Board approval shall include banks’ core operating process
+PAGE 79: 146. A bank shall purchase / discount / negotiate bills under LCs only in respect of
+PAGE 79: 147.  Sometimes, a beneficiary of the LC may want to discount the bills with the LC
+PAGE 79: 148. Bills purchased / discounted / negotiated under LC (where the payment to the
+PAGE 80: 149. While purchasing / discounting / negotiating bills under LCs or otherwise, banks
+PAGE 80: 150. The bank shall ensure that blank LC forms are kept in safe custody as in case
+PAGE 80: 151. The practice of drawing bills of exchange claused ‘without recourse’ and issuing
+PAGE 80: 152. The bank shall not purchase / discounted / negotiate accommodation bills. The
+PAGE 80: 153. The bank shall be circumspect while discounting bills drawn by front finance
+PAGE 80: 154. Bills rediscount shall be restricted to usance bills held by other banks. The bank
+PAGE 80: 155. The bank shall exercise its commercial judgment in discounting of bills of the
+PAGE 81: 156. In order to promote payment discipline which would, to a certain extent,
+PAGE 81: 157. The bank shall not enter into Repo transactions using bills discounted /
+PAGE 82: Chapter XI - Acquisition Finance
+PAGE 82: 170A. Without prejudice to the provisions of Foreign Exchange Management Act,
+PAGE 83: 170B. In cases where acquiring control in a target company leads to control over
+PAGE 83: 170C. Acquisition finance may also be provided by banks to refinance existing
+PAGE 83: D. Board approved policy
+PAGE 83: 170D. Banks shall put in place a Board approved policy on acquisition finance, suitably
+PAGE 83: E. Eligible Entities and Conditions
+PAGE 83: 170E. Acquisition finance can be extended:
+PAGE 84: 170F. Acquisition finance shall be subject to the following conditions:
+PAGE 84: 170G. The acquiring company (or, where acquisition is through an SPV or subsidiary,
+PAGE 85: 170H. Credit assessment shall be conducted on a pro-forma consolidated basis,
+PAGE 85: 170I. Total bank financing shall not exceed 75 per cent of the acquisition value, as
+PAGE 85: 170J. The acquiring company must contribute the remaining amount out of its own
+PAGE 86: 170K. A corporate guarantee from the acquiring company shall be mandatory in cases
+PAGE 86: 170L. Post-acquisition, Debt to Equity ratio at the acquiring company’s consolidated
+PAGE 86: 170M. The instruments through which such control is sought to be achieved may
+PAGE 86: 170N. Control may be established through a single transaction, or a series of inter-
+PAGE 87: 170O. The acquiring company and the target company shall not be related parties,
+PAGE 87: G. Security Creation and Valuation
+PAGE 87: 170P. A bank may determine the extent and nature of security cover for acquisition
+PAGE 87: 170Q. Instruments acquired by the acquiring company as allowed in Paragraph 170M
+PAGE 87: H. Other Conditions
+PAGE 87: 170R. Acquisition finance undertaken by overseas branches of an Indian bank as part
+PAGE 88: 170S. Banks shall fix limits for their aggregate exposures towards acquisition finance
+PAGE 89: Chapter XII - Credit Facilities to Overseas Joint Ventures (JV) / Wholly Owned
+PAGE 89: 171. The bank may extend fund-based facilities to Indian Joint Ventures / Wholly–
+PAGE 89: 172. While extending fund-based facilities to step-down subsidiaries of overseas
+PAGE 90: 173. Further, the loan policy for such fund-based facility shall be, inter-alia, in
+PAGE 91: 174. The bank shall be guided by the Master Direction - External Commercial
+PAGE 91: 175. For extension of non-fund based facilities, the bank shall be guided by Chapter
+PAGE 92: Chapter XIII - Loans Against Financial Assets
+PAGE 94: M. Advances against Fixed Deposit Receipts (FDRs)
+PAGE 94: 215. The bank shall desist from sanctioning advances against FDRs or other term
+PAGE 94: 216. Grant of advance against NR(E) and FCNR(B) deposits shall be subject to the
+PAGE 94: O. Grant of Loans for acquisition of / investing in Small Saving Instruments
+PAGE 94: 218. The grant of loans for acquiring / investing in small saving schemes does not
+PAGE 94: Q. Loans against Eligible Securities
+PAGE 94: 219A. Banks may extend credit facilities against the collateral of eligible securities, as
+PAGE 95: 219B. Notwithstanding the above, following loans by a bank shall not be permitted:
+PAGE 95: 219C. While undertaking lending activities under the provisions of this chapter, a bank
+PAGE 96: 219D. All exposures arising out of loans against eligible securities under this Chapter
+PAGE 97: 219E. Loans to individuals, including Hindu Undivided Families (HUFs) which are not
+PAGE 97: 219F. Banks may lend to individuals against eligible securities, subject to the LTVs
+PAGE 97: 219G. Banks shall lay down the LTV for loans against eligible securities to individuals
+PAGE 97: 219H. LTV shall be monitored on an ongoing basis and a bank shall take steps to
+PAGE 97: 219I. Valuation of securities taken as collateral, for the purpose of LTV shall be as
+PAGE 98: 219J. Banks may fix their own prudential limits in terms of their approved policy for
+PAGE 98: 219K. The amount of loan from the banking system that can be granted to individuals
+PAGE 98: 219L. Within the above limits as prescribed in paragraphs 219J and 219K above, loan
+PAGE 98: 219M. Banks may grant loans to individuals after ensuring due diligence for
+PAGE 98: 219N. It shall be ensured that a lien is created on the shares to be allotted under the
+PAGE 99: 219O. A bank may provide finance, as per its approved policy, to non-financial entities
+PAGE 99: 219P. Banks may put in a Board approved policy, to provide bridge finance to non-
+PAGE 99: 219Q. Such lending under paragraph 219O and 219P against eligible securities shall
+PAGE 99: 219R. A custodian bank may issue Irrevocable Payment Commitments (IPCs) on
+PAGE 100: A. Scope
+PAGE 100: 219S. Provisions of this Chapter are applicable to lending to CMIs, as defined under
+PAGE 100: B. General Conditions
+PAGE 100: 219T. Credit facilities may be extended only to CMIs which are registered and
+PAGE 100: 219U. All exposures to CMIs shall be included as CME, except wherever specifically
+PAGE 100: 219V. Banks shall put in place counterparty as well as aggregate exposure limits for
+PAGE 100: C. Permissible and Prohibited Credit Facilities
+PAGE 100: 219W. A bank may provide need-based credit facilities to CMIs to fund their day-to-
+PAGE 100: 219X. A bank may also issue guarantees on behalf of brokers or professional clearing
+PAGE 100: 219Y. Such guarantees shall be secured by a minimum collateral of 50 per cent, out
+PAGE 101: 219Z. Banks shall not provide credit facilities to a CMI for acquisition of securities on
+PAGE 101: D. Security Coverage
+PAGE 103: Chapter XIV - Finance to Non-Banking Financial Companies (NBFCs)
+PAGE 103: A. Finance to NBFCs registered with RBI
+PAGE 103: 220. The ceiling on bank credit linked to Net Owned Fund (NOF) of NBFCs has been
+PAGE 103: 221. In the light of the experience gained by NBFCs in financing second hand assets,
+PAGE 103: 222. The bank shall formulate suitable loan policy with the approval of their Boards
+PAGE 103: B. Finance to NBFCs not requiring Registration
+PAGE 103: 223. In terms of Reserve Bank of India (Non-Banking Financial Companies –
+PAGE 104: C. Activities not eligible for Bank Credit
+PAGE 104: 224. The following activities undertaken by NBFCs, are not eligible for bank credit:
+PAGE 105: 225. Leased and Sub-Leased Assets
+PAGE 105: D. Finance to Factoring Companies
+PAGE 105: 226. Notwithstanding the restrictions mentioned at paragraph 224, the bank may
+PAGE 105: 227. In addition to the above, NBFC-Factors must also satisfy the following criteria
+PAGE 105: E. Other Prohibitions on Finance to NBFCs
+PAGE 105: 228. Bridge loans / interim finance
+PAGE 106: 229. Advances against collateral security of shares to NBFCs
+PAGE 106: 230. Restriction on guarantees for placement of funds with NBFCs
+PAGE 106: F. Other Instructions
+PAGE 106: 231. For prudential ceilings for exposure to NBFCs, the bank shall be guided by the
+PAGE 106: 232. For restrictions regarding investments made by the bank in securities /
+PAGE 106: 233. For risk weights for bank credit to NBFCs, the bank’s exposure to NBFCs shall
+PAGE 107: Chapter XV - Export Credit
+PAGE 107: A. Rupee Pre-shipment Credit / Packing Credit
+PAGE 107: 234. The period of a packing credit advance shall be determined by the bank based
+PAGE 107: 235. If pre-shipment advances are not adjusted by submission of export documents
+PAGE 107: 236. Generally, each packing credit sanctioned shall be maintained as separate
+PAGE 107: 237. The bank shall release the packing credit in one lump sum or in stages as per
+PAGE 107: 238. The bank shall maintain separate accounts for different stages of processing,
+PAGE 107: 239. The bank shall also monitor the progress made by the exporters in timely
+PAGE 108: 240. The packing credit / pre-shipment credit granted to an exporter shall be
+PAGE 108: 241. Packing credit in excess of export value
+PAGE 108: 242. The bank shall, however, have operational flexibility to extend the following
+PAGE 109: 243. The pre-shipment credit to exporters is normally provided on lodgement of LCs
+PAGE 110: 244. If it is noticed that the exporter is found to be misusing the facility, the facility
+PAGE 110: 245. In cases where exporters have not complied with the terms and conditions, the
+PAGE 110: 246. Running account facility shall not be granted to sub-suppliers.
+PAGE 110: 247. Where exporters receive direct remittances from abroad by means of cheques,
+PAGE 111: B. Rupee Pre-shipment Credit to specific sectors / segments
+PAGE 111: 248. The bank may grant export packing credit to manufacturer suppliers who do not
+PAGE 111: 249. Packing credit may be shared between an Export Order Holder (EOH) and sub-
+PAGE 113: 250. The packing credit advances to the construction contractors to meet their initial
+PAGE 113: 251. The advances shall be adjusted within 365 days from the date of advance by
+PAGE 113: 252. The exporters undertaking project export contracts including export of services
+PAGE 113: 253. Pre-shipment and post-shipment finance shall be provided to exporters of all
+PAGE 113: 254. The financing bank shall ensure that there is no double financing and the export
+PAGE 113: 255. The statement of export receivables from such service providers shall be tallied
+PAGE 113: 256. The bank shall formulate their own parameters to finance the service exporters.
+PAGE 113: 257. Exporters of services qualify for working capital export credit (pre and post
+PAGE 114: 258. Floriculture and other agro-based exports shall also qualify for export credit.
+PAGE 114: 259. Export credit shall not be extended for investments, such as, import of foreign
+PAGE 114: 260. Government of India has set up Agri-Export Zones in the country to promote
+PAGE 115: 261. The bank shall treat the inputs supplied to farmers by exporters as raw material
+PAGE 115: 262. The bank shall ensure that the exporters have made the required arrangements
+PAGE 115: 263. The bank shall also monitor the end-use of funds, viz. distribution of the inputs
+PAGE 115: 264. The bank shall ensure that the final products are exported by the processors /
+PAGE 115: C. Rupee Post-Shipment Export Credit
+PAGE 115: 265. The period of realization of export proceeds is determined by Foreign Exchange
+PAGE 115: 266. Post-shipment advance shall mainly take the form of:
+PAGE 116: 267. Post-shipment credit is to be liquidated by the proceeds of export bills received
+PAGE 116: 268. In order to reduce the cost to exporters (i.e. interest cost on overdue export
+PAGE 116: 269. In the case of demand bills, the period of advance shall be the Normal Transit
+PAGE 116: 270. In case of usance bills, credit shall be granted for a maximum duration of 365
+PAGE 116: 271. In respect of export of certain commodities where exporters are required to
+PAGE 117: 272. Payment of undrawn balance is contingent in nature. The bank shall consider
+PAGE 117: 273. In the case of turnkey projects / construction contracts, progressive payments
+PAGE 117: 274. Retention money may also be stipulated against the supply portion of turn-key
+PAGE 117: 275. Advances shall not be granted against retention money relating to services
+PAGE 117: 276. Exporters shall be advised to arrange, as far as possible, provision of suitable
+PAGE 117: 277. The bank shall consider, on a selective basis, granting of advances against
+PAGE 117: 278. The payment of retention money shall be secured by LC or Bank Guarantee
+PAGE 117: 279. Where the retention money is payable after a period of one year from the date
+PAGE 118: 280. Export on consignment basis lends scope for a lot of misuse in the matter of
+PAGE 118: 281. Export of precious and semi-precious stones
+PAGE 118: 282. The bank shall provide finance to exporters against goods sent for exhibition
+PAGE 118: 283. The bank shall grant post-shipment advances to exporters against their duty
+PAGE 118: 284. The advance against duty drawback receivables shall also be made available
+PAGE 119: 285. The bank shall, in the interest of export promotion and credit risk mitigation,
+PAGE 119: 286. However, even where the post-shipment credit is insured under an ECGC
+PAGE 119: 287. As per the extant Foreign Trade Policy, goods and services going to Special
+PAGE 119: D. Deemed Exports - Rupee Export Credit
+PAGE 119: 288. The bank shall extend rupee pre-shipment and post-shipment export credit to
+PAGE 119: 289. Packing Credit provided shall be adjusted from free foreign exchange
+PAGE 119: 290. The bank shall also extend rupee
+PAGE 120: E. Interest on Rupee Export Credit
+PAGE 120: 291. The bank shall determine interest rate on rupee export credit (pre-shipment
+PAGE 120: 292. If pre-shipment advances are not liquidated from proceeds of bills on purchase,
+PAGE 120: 293. If exports do not materialise at all, the bank shall charge on relative packing
+PAGE 120: F. Pre-shipment Credit in Foreign Currency (PCFC)
+PAGE 120: 294. With a view to making credit available to exporters at internationally competitive
+PAGE 120: 295. The scheme is an additional window for providing pre-shipment credit to Indian
+PAGE 120: 296. The exporter shall have the following options to avail of export finance:
+PAGE 121: 297. Choice of currency
+PAGE 121: 298. The foreign currency balances available with the bank in Exchange Earners
+PAGE 121: 299. The bank shall also utilise the foreign currency balances available under
+PAGE 121: 300. Foreign currency borrowings
+PAGE 122: 301. In case the exporters have arranged for the suppliers’ credit for procuring
+PAGE 122: 302. The bank shall use foreign currency funds borrowed in terms of Notification No.
+PAGE 122: 303. The bank is free to determine interest rates on export credit in foreign currency
+PAGE 122: 304. The PCFC shall be available for a maximum period of 360 days. Any extension
+PAGE 122: 305. Further extension shall be subject to the terms and conditions fixed by the bank
+PAGE 123: 306. Banks extend export credit in Indian Rupees as well as in foreign currency,
+PAGE 123: 307. The export credit limits are calculated in Indian Rupees and the limit is
+PAGE 123: 308. It is observed that whenever there is a depreciation of Indian Rupee :
+PAGE 123: 309. The bank shall consider denominating export credit facilities in foreign currency
+PAGE 123: 310. The bank shall compute the overall export credit limits of the borrowers on an
+PAGE 123: 311. Alternatively, the bank shall denominate foreign currency (FC) component of
+PAGE 124: 312. In case full amount of PCFC or part thereof is utilised to finance domestic input,
+PAGE 124: 313. As regards the minimum lots of transactions, it is left to the operational
+PAGE 124: 314. The bank shall take steps to streamline their procedures so that no separate
+PAGE 124: 315. PCFC shall be liquidated out of proceeds of export documents on their
+PAGE 124: 316. Packing credit in excess of F.O.B. value
+PAGE 124: 317. Substitution of order / commodity
+PAGE 125: 318. In case of cancellation of the export order for which the PCFC was availed of
+PAGE 125: 319. It shall also be in order for the bank to remit the amount to the overseas bank,
+PAGE 125: 320. The bank shall extend PCFC to such exporters subsequently, after ensuring
+PAGE 125: 321. The bank shall extend the ‘Running Account’ facility under the PCFC Scheme
+PAGE 125: 322. The bank shall closely monitor the production of firm order or LC subsequently
+PAGE 126: 323. The bank shall take any prepayment by the exporter under PCFC scheme
+PAGE 126: 324. In terms of paragraph 297 of these Directions, PCFC can be extended in any
+PAGE 126: 325. The bank shall allow customers to seek cover in any permitted currency of their
+PAGE 126: 326. While allowing forward contracts under the scheme, banks shall ensure
+PAGE 126: 327. The rupee export packing credit may be shared between an export order holder
+PAGE 126: 328. PCFC granted to the manufacturer can be repaid by transfer of foreign currency
+PAGE 127: 329. The facility shall be extended where the banker or the leader of consortium of
+PAGE 127: 330. PCFC shall be made available to both, the supplier EOU / EPZ / SEZ unit and
+PAGE 127: 331. The PCFC for supplier EOU / EPZ / SEZ unit shall be for supply of raw materials
+PAGE 127: 332. The PCFC extended to the supplier EOU / EPZ / SEZ unit shall have to be
+PAGE 127: 333. The stipulation regarding liquidation of PCFC by payment in foreign exchange
+PAGE 127: 334. In all such cases, it shall be ensured by banks that there is no double financing
+PAGE 127: 335. PCFC shall be allowed for ‘deemed exports’ only for supplies to projects
+PAGE 128: 336. The applicable benefits such as credit of eligible percentage of export proceeds
+PAGE 128: 337. For the purpose of reckoning the bank’s performance in extending export credit,
+PAGE 128: 338. In terms of the extant Foreign Trade Policy, firms / companies dealing in
+PAGE 128: 339. Under the DDA Scheme, the bank shall liquidate PCFC granted to DDA holders
+PAGE 128: G. Post-shipment Credit in Foreign Currency: Rediscounting of Export Bills
+PAGE 128: 340. The bank shall utilise the foreign exchange resources available with it in
+PAGE 129: 341. It will be comparatively easier to have a facility against bills portfolio (covering
+PAGE 129: 342. The bank shall arrange a "Bankers Acceptance Facility" (BAF) for rediscounting
+PAGE 129: 343. Each bank can have its own BAF limit(s) fixed with an overseas bank or a
+PAGE 129: 344. The exporters, on their own, can arrange for themselves a line of credit with an
+PAGE 129: 345. The limits granted to banks by overseas banks / discounting agencies under
+PAGE 129: 346. The Scheme shall cover mainly export bills with usance period up to 180 days
+PAGE 130: 347. In case borrower is eligible to draw usance bills for periods exceeding 180 days
+PAGE 130: 348. The facility under the Scheme of Rediscounting shall be offered in any
+PAGE 130: 349. The bank can extend the EBR facility for exports to ACU countries.
+PAGE 130: 350. For operational convenience, the BAF Scheme shall be centralised at a branch
+PAGE 130: 351. In the case of demand bills [subject to paragraph 346 of these Directions], these
+PAGE 130: 352. To facilitate the growth of local market for rediscounting export bills,
+PAGE 130: 353. The bank shall avail of lines of credit from other banks in India if they are not in
+PAGE 130: 354. The bank shall also use foreign currency funds borrowed in terms of Notification
+PAGE 131: 355. It is recognized that it will be difficult to get ‘without recourse’ facility from abroad
+PAGE 131: 356. The rupee equivalent of the discounted value of the export bills shall be payable
+PAGE 131: 357. As the discounting of bills / extension of foreign exchange loans (DP bills) shall
+PAGE 131: 358. The rupee equivalents of discounted amounts / foreign exchange loan shall be
+PAGE 131: 359. In case of overdue bills, the bank shall charge interest from the due date to the
+PAGE 131: 360. In the event of export bill not being paid, the bank shall remit the amount
+PAGE 131: 361. As stated in paragraph 355 of these Directions, ‘without recourse’ facility may
+PAGE 132: 362. In the case of export bills rediscounted ‘with recourse’, there shall not be any
+PAGE 132: 363. Only the bills rediscounted abroad ‘with recourse’ basis and outstanding shall
+PAGE 132: 364. Bills rediscounted ‘with recourse’ in the domestic market could get reflected
+PAGE 132: H. Gold Card Scheme for exporters
+PAGE 132: 365. The bank shall lay down the criteria for issuing Gold Cards under the scheme
+PAGE 132: 366. All creditworthy exporters, including those in small and medium sectors, with
+PAGE 132: 367. The scheme shall not be applicable for exporters placed in Specific Approval
+PAGE 132: 368. Gold Card holder exporters, depending on their track record and credit
+PAGE 132: 369. Applications for credit shall be processed at norms simpler and under a process
+PAGE 133: 370. The bank shall clearly specify the benefits it shall be offering to Gold Card
+PAGE 133: 371. The charges schedule and fee-structure in respect of services provided by the
+PAGE 133: 372. The sanction and renewal of the limits under the Scheme shall be based on a
+PAGE 133: 374. A stand-by limit of not less than 20 per cent of the assessed limit shall be
+PAGE 133: 375. In case of unanticipated export orders, norms for inventory shall be relaxed,
+PAGE 133: 376. Requests from card holders shall be processed quickly by the bank within 25
+PAGE 133: 377. Gold Card holders shall be given preference in the matter of granting of packing
+PAGE 133: 378. The bank may consider waiver of collaterals and exemption from the ECGC’s
+PAGE 133: 379. The facility of further value addition to their cards through supplementary
+PAGE 133: 380. The applicable rate of interest to be charged under the Gold Card Scheme shall
+PAGE 134: 381. Gold Card holders, on the basis of their track record of timely realization of
+PAGE 134: 382. The bank shall ensure that the PCFC requirements of the Gold Card holders
+PAGE 134: 383. The bank shall consider granting term loans in foreign currency in deserving
+PAGE 134: 384.  The instructions relating to the Gold Card Scheme for Exporters shall be strictly
+PAGE 134: 385. Banks provide 'Line of Credit' normally for one year which is reviewed annually.
+PAGE 134: 386. In case of established exporters having satisfactory track record, the bank shall
+PAGE 134: 387. In case of export of seasonal commodities, agro-based products, etc., the bank
+PAGE 134: 388. The bank shall permit interchangeability of pre-shipment and post- shipment
+PAGE 135: J. Other Provisions
+PAGE 135: 390. Waiver of submission of orders or LCs for availing pre-shipment credit
+PAGE 135: 391. Fast track clearance of export credit
+PAGE 135: 392. Pre-shipment
+PAGE 136: 393. Consortium Finance – Sanction of Credit
+PAGE 136: 394. Credit Monitoring Arrangement - Export Credit
+PAGE 136: 395. Compliance of Foreign Exchange Management Act, 1999
+PAGE 136: K. Special Measures
+PAGE 136: 396. Trade Relief Measures
+PAGE 137: Chapter XVI - Non-Fund Based (NFB) Credit Facilities
+PAGE 137: 397. Within this Chapter, the term Regulated Entity (RE) or Regulated Entities (REs)
+PAGE 137: 398. The Directions in this Chapter shall not apply to the derivative exposures of the
+PAGE 137: A. General Conditions
+PAGE 137: 400. The credit policy of the bank shall incorporate suitable provisions for issue of
+PAGE 137: 401. The bank shall issue a NFB facility only on behalf of a customer having funded
+PAGE 138: 402. The bank shall not issue a NFB facility to any entity assuring redemption /
+PAGE 138: 403. Once a NFB facility devolves and is converted into a fund based facility, then the
+PAGE 138: B. Guarantees
+PAGE 138: 404. In general, a guarantee (or a counter-guarantee) issued by the bank (guarantor)
+PAGE 138: 405. The bank shall put in place suitable internal aggregate / individual ceilings for
+PAGE 138: 406. The provisions of the internal policy relating to guarantees shall, inter alia,
+PAGE 139: 407. A bank shall honour the guarantee issued by it as and when invoked in
+PAGE 139: C. Usage of electronic-Guarantee
+PAGE 139: 408. Wherever a bank issues an electronic Guarantee, it shall frame a standard
+PAGE 139: 409. Policy and SOP for issuance of electronic Guarantees
+PAGE 139: 410. Integration of the systems with regard to issuance of electronic Guarantees
+PAGE 139: 411. User Roles for issuance of electronic Guarantees
+PAGE 140: 412. Control Measures for issuance of electronic Guarantees
+PAGE 140: 413. Other aspects pertaining to issuance of electronic Guarantees
+PAGE 141: D. Guarantee favouring another RE
+PAGE 141: 414. The bank shall not provide a guarantee favouring another RE to enable it to
+PAGE 141: 415. However, the bank may provide a guarantee favouring another RE for a NFB
+PAGE 141: E. Co-acceptances
+PAGE 141: 416. Only genuine trade bills shall be co-accepted, and it shall be ensured that the
+PAGE 141: 417. Proper records of the bills co-accepted for each customer shall be maintained,
+PAGE 141: 418. The bank shall not co-accept bills drawn by another lender or where the buyer
+PAGE 141: F. Guarantee and related business involving overseas current or capital
+PAGE 141: 419. Banks permitted as Authorized Dealer (AD) may extend NFB facilities as
+PAGE 142: 420. AD banks are also permitted to issue guarantee to or on behalf of a foreign
+PAGE 142: G. Guarantees on behalf of Stock / Commodity Brokers
+PAGE 142: 421. Only Scheduled Commercial Banks (SCBs) may issue guarantees on behalf of
+PAGE 142: H. Partial Credit Enhancement – Salient Features
+PAGE 142: 422. The bank may provide Partial Credit Enhancement (PCE) to bonds issued by
+PAGE 142: 423. The credit policy of the bank shall incorporate suitable provisions for issue of
+PAGE 142: 424. PCE shall be a subordinated facility provided in the form of an irrevocable
+PAGE 143: 425. A clear agreement documenting all aspects of this arrangement shall be signed
+PAGE 143: 426. The PCE exposure limit by a single bank shall be 50 per cent of the bond issue
+PAGE 143: 427. The PCE facility shall be provided at the time of the bond issue and shall be
+PAGE 143: 428. As the purpose of PCE by bank is to enable wide investor participation in the
+PAGE 143: 429. Bank may offer PCE only in respect of bonds whose pre-enhanced rating are
+PAGE 143: 430. To be eligible for PCE, corporate bonds shall be rated by a minimum of two ECAI
+PAGE 143: 431. The rating reports, both initial and subsequent, shall disclose both standalone
+PAGE 143: 432. So long as the exposure of the bank to a project loan is classified as standard
+PAGE 144: 433. The PCE shall be available only for servicing the bond and not for any other
+PAGE 144: 434. In case the PCE facility is partly drawn and interest accrues on the same, the
+PAGE 144: 435. In a waterfall mechanism, Credit Enhancement (CE) gets drawn only in a
+PAGE 144: 436. The PCE providing bank shall observe the following exposure limits:
+PAGE 144: 437. The tenor of the bond issued by NBFCs / HFCs for which PCE is provided shall
+PAGE 144: 438. The proceeds from the bonds backed by PCE from banks shall only be utilized
+PAGE 144: 439. The exposure of a bank by way of PCEs to bonds issued by each such NBFC
+PAGE 145: J. Other Aspects of PCE
+PAGE 145: 440. The effect of the PCE on the bond rating shall be disclosed in the bond offer
+PAGE 145: 441. The bank shall ensure that the project assets, created out of the bond issue for
+PAGE 145: 442. The project shall have a robust and viable financial structure even before the
+PAGE 145: 443. The bank shall honour the full PCE commitment irrespective of the asset
+PAGE 145: 444. All extant regulatory prescriptions for credit and investment exposures by the
+PAGE 145: 445. For disclosure of the details of NFB credit facilities, the bank shall be guided
+PAGE 145: 446. The Directions in this Chapter have been issued without prejudice to Directions
+PAGE 145: 447. Notwithstanding paragraph 446 above, bank shall comply with all the related
+PAGE 146: Chapter XVII - Miscellaneous Provisions
+PAGE 146: A. Bank finance to Government owned entities
+PAGE 146: 448. While extending finance to Government owned entities, banks shall specifically
+PAGE 146: B. Loans and advances to Micro, Small & Medium Enterprises (MSMEs)
+PAGE 146: 449. Lending to MSMEs by the bank shall be guided by Master Direction - Lending
+PAGE 146: C. Bridge Loans against Receivable from Government
+PAGE 146: 450. The bank shall not extend bridge loans against amounts receivable from
+PAGE 147: Chapter XVIII - Repeal and other provisions
+PAGE 147: A. Repeal and saving
+PAGE 147: 451. With the issue of these Directions, the existing Directions, instructions, and
+PAGE 147: 452. Notwithstanding such repeal, any action taken or purported to have been taken,
+PAGE 147: B. Application of other laws not barred
+PAGE 147: 453. The provisions of these Directions shall be in addition to, and not in derogation
+PAGE 147: C. Interpretations
+PAGE 147: 454. For the purpose of giving effect to the provisions of these Directions or in order

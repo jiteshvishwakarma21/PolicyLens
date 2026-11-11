@@ -1,0 +1,251 @@
+question_id,rank,question,retrieved_doc_id,retrieved_page_start,retrieved_page_end,score,is_correct
+Q01,1,What information must a bank obtain to assess a borrower's creditworthiness before granting a loan?,RBI_CREDIT_001,19,20,0.6221,True
+Q01,2,What information must a bank obtain to assess a borrower's creditworthiness before granting a loan?,RBI_CREDIT_001,41,42,0.5423,False
+Q01,3,What information must a bank obtain to assess a borrower's creditworthiness before granting a loan?,RBI_CREDIT_001,42,43,0.5256,False
+Q01,4,What information must a bank obtain to assess a borrower's creditworthiness before granting a loan?,RBI_CREDIT_001,78,79,0.5236,False
+Q01,5,What information must a bank obtain to assess a borrower's creditworthiness before granting a loan?,RBI_CREDIT_001,50,50,0.5164,False
+Q01,6,What information must a bank obtain to assess a borrower's creditworthiness before granting a loan?,RBI_CREDIT_001,77,78,0.5048,False
+Q01,7,What information must a bank obtain to assess a borrower's creditworthiness before granting a loan?,RBI_CREDIT_001,53,54,0.498,False
+Q01,8,What information must a bank obtain to assess a borrower's creditworthiness before granting a loan?,RBI_CREDIT_001,58,59,0.494,False
+Q01,9,What information must a bank obtain to assess a borrower's creditworthiness before granting a loan?,RBI_CREDIT_001,84,85,0.48,False
+Q01,10,What information must a bank obtain to assess a borrower's creditworthiness before granting a loan?,RBI_CREDIT_001,54,54,0.4707,False
+Q02,1,"Where should a bank disburse a digital loan, and what restriction applies to third-party accounts?",RBI_CREDIT_001,20,21,0.5659,True
+Q02,2,"Where should a bank disburse a digital loan, and what restriction applies to third-party accounts?",RBI_CREDIT_001,9,9,0.5297,False
+Q02,3,"Where should a bank disburse a digital loan, and what restriction applies to third-party accounts?",RBI_CREDIT_001,14,16,0.522,False
+Q02,4,"Where should a bank disburse a digital loan, and what restriction applies to third-party accounts?",RBI_CREDIT_001,35,36,0.5215,False
+Q02,5,"Where should a bank disburse a digital loan, and what restriction applies to third-party accounts?",RBI_CREDIT_001,20,20,0.5127,False
+Q02,6,"Where should a bank disburse a digital loan, and what restriction applies to third-party accounts?",RBI_CREDIT_001,17,18,0.5094,False
+Q02,7,"Where should a bank disburse a digital loan, and what restriction applies to third-party accounts?",RBI_CREDIT_001,57,57,0.4999,False
+Q02,8,"Where should a bank disburse a digital loan, and what restriction applies to third-party accounts?",RBI_CREDIT_001,18,19,0.483,False
+Q02,9,"Where should a bank disburse a digital loan, and what restriction applies to third-party accounts?",RBI_CREDIT_001,21,22,0.4788,True
+Q02,10,"Where should a bank disburse a digital loan, and what restriction applies to third-party accounts?",RBI_CREDIT_001,80,82,0.4708,False
+Q03,1,What is the minimum cooling-off period that a bank must provide for a digital loan?,RBI_CREDIT_001,22,22,0.6702,True
+Q03,2,What is the minimum cooling-off period that a bank must provide for a digital loan?,RBI_CREDIT_001,43,44,0.5363,False
+Q03,3,What is the minimum cooling-off period that a bank must provide for a digital loan?,RBI_CREDIT_001,9,9,0.4842,False
+Q03,4,What is the minimum cooling-off period that a bank must provide for a digital loan?,RBI_CREDIT_001,97,98,0.4784,False
+Q03,5,What is the minimum cooling-off period that a bank must provide for a digital loan?,RBI_CREDIT_001,100,101,0.4698,False
+Q03,6,What is the minimum cooling-off period that a bank must provide for a digital loan?,RBI_CREDIT_001,42,43,0.4602,False
+Q03,7,What is the minimum cooling-off period that a bank must provide for a digital loan?,RBI_CREDIT_001,83,84,0.4599,False
+Q03,8,What is the minimum cooling-off period that a bank must provide for a digital loan?,RBI_CREDIT_001,45,46,0.4499,False
+Q03,9,What is the minimum cooling-off period that a bank must provide for a digital loan?,RBI_CREDIT_001,48,50,0.4483,False
+Q03,10,What is the minimum cooling-off period that a bank must provide for a digital loan?,RBI_CREDIT_001,32,33,0.4439,False
+Q04,1,What conditions apply to the collection of borrower data by a digital lending app?,RBI_CREDIT_001,9,9,0.6278,False
+Q04,2,What conditions apply to the collection of borrower data by a digital lending app?,RBI_CREDIT_001,23,23,0.5329,True
+Q04,3,What conditions apply to the collection of borrower data by a digital lending app?,RBI_CREDIT_001,19,20,0.5138,False
+Q04,4,What conditions apply to the collection of borrower data by a digital lending app?,RBI_CREDIT_001,24,25,0.5068,False
+Q04,5,What conditions apply to the collection of borrower data by a digital lending app?,RBI_CREDIT_001,25,26,0.5021,False
+Q04,6,What conditions apply to the collection of borrower data by a digital lending app?,RBI_CREDIT_001,18,19,0.5019,False
+Q04,7,What conditions apply to the collection of borrower data by a digital lending app?,RBI_CREDIT_001,76,77,0.481,False
+Q04,8,What conditions apply to the collection of borrower data by a digital lending app?,RBI_CREDIT_001,57,57,0.4666,False
+Q04,9,What conditions apply to the collection of borrower data by a digital lending app?,RBI_CREDIT_001,20,20,0.4654,False
+Q04,10,What conditions apply to the collection of borrower data by a digital lending app?,RBI_CREDIT_001,62,62,0.444,False
+Q05,1,What is the maximum share of monthly household income that can go towards monthly loan repayment obligations under the microfinance directions?,RBI_CREDIT_001,42,43,0.699,True
+Q05,2,What is the maximum share of monthly household income that can go towards monthly loan repayment obligations under the microfinance directions?,RBI_CREDIT_001,43,44,0.662,True
+Q05,3,What is the maximum share of monthly household income that can go towards monthly loan repayment obligations under the microfinance directions?,RBI_CREDIT_001,41,42,0.5203,False
+Q05,4,What is the maximum share of monthly household income that can go towards monthly loan repayment obligations under the microfinance directions?,RBI_CREDIT_001,40,41,0.4658,False
+Q05,5,What is the maximum share of monthly household income that can go towards monthly loan repayment obligations under the microfinance directions?,RBI_CREDIT_001,97,98,0.4109,False
+Q05,6,What is the maximum share of monthly household income that can go towards monthly loan repayment obligations under the microfinance directions?,RBI_CREDIT_001,32,33,0.3979,False
+Q05,7,What is the maximum share of monthly household income that can go towards monthly loan repayment obligations under the microfinance directions?,RBI_CREDIT_001,105,106,0.3809,False
+Q05,8,What is the maximum share of monthly household income that can go towards monthly loan repayment obligations under the microfinance directions?,RBI_CREDIT_001,55,56,0.3723,False
+Q05,9,What is the maximum share of monthly household income that can go towards monthly loan repayment obligations under the microfinance directions?,RBI_CREDIT_001,8,8,0.3602,False
+Q05,10,What is the maximum share of monthly household income that can go towards monthly loan repayment obligations under the microfinance directions?,RBI_CREDIT_001,67,67,0.3587,False
+Q06,1,Which three phases are used to classify projects under the project finance directions?,RBI_CREDIT_001,13,14,0.6307,False
+Q06,2,Which three phases are used to classify projects under the project finance directions?,RBI_CREDIT_001,48,48,0.5694,False
+Q06,3,Which three phases are used to classify projects under the project finance directions?,RBI_CREDIT_001,44,45,0.5548,True
+Q06,4,Which three phases are used to classify projects under the project finance directions?,RBI_CREDIT_001,52,53,0.5108,False
+Q06,5,Which three phases are used to classify projects under the project finance directions?,RBI_CREDIT_001,71,72,0.5047,False
+Q06,6,Which three phases are used to classify projects under the project finance directions?,RBI_CREDIT_001,78,79,0.4818,False
+Q06,7,Which three phases are used to classify projects under the project finance directions?,RBI_CREDIT_001,77,78,0.4664,False
+Q06,8,Which three phases are used to classify projects under the project finance directions?,RBI_CREDIT_001,72,73,0.4535,False
+Q06,9,Which three phases are used to classify projects under the project finance directions?,RBI_CREDIT_001,48,50,0.4532,False
+Q06,10,Which three phases are used to classify projects under the project finance directions?,RBI_CREDIT_001,14,14,0.4334,False
+Q07,1,How must a bank ensure that project finance disbursement is made in relation to project progress?,RBI_CREDIT_001,78,79,0.6174,False
+Q07,2,How must a bank ensure that project finance disbursement is made in relation to project progress?,RBI_CREDIT_001,13,14,0.613,False
+Q07,3,How must a bank ensure that project finance disbursement is made in relation to project progress?,RBI_CREDIT_001,52,53,0.5906,False
+Q07,4,How must a bank ensure that project finance disbursement is made in relation to project progress?,RBI_CREDIT_001,48,48,0.5859,True
+Q07,5,How must a bank ensure that project finance disbursement is made in relation to project progress?,RBI_CREDIT_001,45,46,0.5359,False
+Q07,6,How must a bank ensure that project finance disbursement is made in relation to project progress?,RBI_CREDIT_001,72,73,0.5342,False
+Q07,7,How must a bank ensure that project finance disbursement is made in relation to project progress?,RBI_CREDIT_001,71,72,0.5269,False
+Q07,8,How must a bank ensure that project finance disbursement is made in relation to project progress?,RBI_CREDIT_001,57,58,0.5244,False
+Q07,9,How must a bank ensure that project finance disbursement is made in relation to project progress?,RBI_CREDIT_001,77,78,0.5221,False
+Q07,10,How must a bank ensure that project finance disbursement is made in relation to project progress?,RBI_CREDIT_001,46,47,0.4988,True
+Q08,1,What minimum land or right-of-way availability is required before disbursement for a PPP infrastructure project?,RBI_CREDIT_001,46,47,0.545,True
+Q08,2,What minimum land or right-of-way availability is required before disbursement for a PPP infrastructure project?,RBI_CREDIT_001,78,79,0.4228,False
+Q08,3,What minimum land or right-of-way availability is required before disbursement for a PPP infrastructure project?,RBI_CREDIT_001,44,45,0.4219,False
+Q08,4,What minimum land or right-of-way availability is required before disbursement for a PPP infrastructure project?,RBI_CREDIT_001,71,72,0.4139,False
+Q08,5,What minimum land or right-of-way availability is required before disbursement for a PPP infrastructure project?,RBI_CREDIT_001,53,54,0.3937,False
+Q08,6,What minimum land or right-of-way availability is required before disbursement for a PPP infrastructure project?,RBI_CREDIT_001,76,77,0.3835,False
+Q08,7,What minimum land or right-of-way availability is required before disbursement for a PPP infrastructure project?,RBI_CREDIT_001,54,55,0.3815,False
+Q08,8,What minimum land or right-of-way availability is required before disbursement for a PPP infrastructure project?,RBI_CREDIT_001,45,46,0.3728,False
+Q08,9,What minimum land or right-of-way availability is required before disbursement for a PPP infrastructure project?,RBI_CREDIT_001,72,73,0.371,False
+Q08,10,What minimum land or right-of-way availability is required before disbursement for a PPP infrastructure project?,RBI_CREDIT_001,54,54,0.3708,False
+Q09,1,What is the maximum tenor for consumption loans in the nature of bullet repayment loans against gold or silver collateral?,RBI_CREDIT_001,33,34,0.7261,True
+Q09,2,What is the maximum tenor for consumption loans in the nature of bullet repayment loans against gold or silver collateral?,RBI_CREDIT_001,32,33,0.7002,True
+Q09,3,What is the maximum tenor for consumption loans in the nature of bullet repayment loans against gold or silver collateral?,RBI_CREDIT_001,31,32,0.6343,False
+Q09,4,What is the maximum tenor for consumption loans in the nature of bullet repayment loans against gold or silver collateral?,RBI_CREDIT_001,33,33,0.6197,True
+Q09,5,What is the maximum tenor for consumption loans in the nature of bullet repayment loans against gold or silver collateral?,RBI_CREDIT_001,34,35,0.5986,False
+Q09,6,What is the maximum tenor for consumption loans in the nature of bullet repayment loans against gold or silver collateral?,RBI_CREDIT_001,40,41,0.5959,False
+Q09,7,What is the maximum tenor for consumption loans in the nature of bullet repayment loans against gold or silver collateral?,RBI_CREDIT_001,36,38,0.5912,False
+Q09,8,What is the maximum tenor for consumption loans in the nature of bullet repayment loans against gold or silver collateral?,RBI_CREDIT_001,39,40,0.5592,False
+Q09,9,What is the maximum tenor for consumption loans in the nature of bullet repayment loans against gold or silver collateral?,RBI_CREDIT_001,8,8,0.5395,False
+Q09,10,What is the maximum tenor for consumption loans in the nature of bullet repayment loans against gold or silver collateral?,RBI_CREDIT_001,43,44,0.5329,False
+Q10,1,How should a lender value gold or silver collateral when price data for its exact purity is unavailable?,RBI_CREDIT_001,33,34,0.6771,True
+Q10,2,How should a lender value gold or silver collateral when price data for its exact purity is unavailable?,RBI_CREDIT_001,34,35,0.5938,True
+Q10,3,How should a lender value gold or silver collateral when price data for its exact purity is unavailable?,RBI_CREDIT_001,31,32,0.5916,False
+Q10,4,How should a lender value gold or silver collateral when price data for its exact purity is unavailable?,RBI_CREDIT_001,33,33,0.5888,False
+Q10,5,How should a lender value gold or silver collateral when price data for its exact purity is unavailable?,RBI_CREDIT_001,40,41,0.5252,False
+Q10,6,How should a lender value gold or silver collateral when price data for its exact purity is unavailable?,RBI_CREDIT_001,36,38,0.511,False
+Q10,7,How should a lender value gold or silver collateral when price data for its exact purity is unavailable?,RBI_CREDIT_001,32,33,0.4915,False
+Q10,8,How should a lender value gold or silver collateral when price data for its exact purity is unavailable?,RBI_CREDIT_001,38,39,0.4742,False
+Q10,9,How should a lender value gold or silver collateral when price data for its exact purity is unavailable?,RBI_CREDIT_001,38,38,0.4721,False
+Q10,10,How should a lender value gold or silver collateral when price data for its exact purity is unavailable?,RBI_CREDIT_001,96,97,0.4366,False
+Q11,1,What kinds of assets or securities are included in the definition of eligible securities?,RBI_CREDIT_001,9,10,0.5364,True
+Q11,2,What kinds of assets or securities are included in the definition of eligible securities?,RBI_CREDIT_001,104,104,0.4794,False
+Q11,3,What kinds of assets or securities are included in the definition of eligible securities?,RBI_KYC_001,96,97,0.4583,False
+Q11,4,What kinds of assets or securities are included in the definition of eligible securities?,RBI_CREDIT_001,97,97,0.4543,False
+Q11,5,What kinds of assets or securities are included in the definition of eligible securities?,RBI_CREDIT_001,59,60,0.4511,False
+Q11,6,What kinds of assets or securities are included in the definition of eligible securities?,RBI_CREDIT_001,8,8,0.451,False
+Q11,7,What kinds of assets or securities are included in the definition of eligible securities?,RBI_CREDIT_001,64,65,0.4491,False
+Q11,8,What kinds of assets or securities are included in the definition of eligible securities?,RBI_CREDIT_001,104,105,0.4487,False
+Q11,9,What kinds of assets or securities are included in the definition of eligible securities?,RBI_CREDIT_001,95,96,0.4465,False
+Q11,10,What kinds of assets or securities are included in the definition of eligible securities?,RBI_CREDIT_001,103,104,0.4409,False
+Q12,1,What is the main requirement for a bank's Board-approved credit policy under Chapter II?,RBI_CREDIT_001,14,16,0.6428,True
+Q12,2,What is the main requirement for a bank's Board-approved credit policy under Chapter II?,RBI_CREDIT_001,6,6,0.5626,False
+Q12,3,What is the main requirement for a bank's Board-approved credit policy under Chapter II?,RBI_CREDIT_001,145,146,0.5588,False
+Q12,4,What is the main requirement for a bank's Board-approved credit policy under Chapter II?,RBI_CREDIT_001,141,141,0.5383,False
+Q12,5,What is the main requirement for a bank's Board-approved credit policy under Chapter II?,RBI_CREDIT_001,17,18,0.526,False
+Q12,6,What is the main requirement for a bank's Board-approved credit policy under Chapter II?,RBI_CREDIT_001,102,103,0.5118,False
+Q12,7,What is the main requirement for a bank's Board-approved credit policy under Chapter II?,RBI_CREDIT_001,58,59,0.5082,False
+Q12,8,What is the main requirement for a bank's Board-approved credit policy under Chapter II?,RBI_CREDIT_001,103,104,0.5075,False
+Q12,9,What is the main requirement for a bank's Board-approved credit policy under Chapter II?,RBI_CREDIT_001,47,48,0.5073,False
+Q12,10,What is the main requirement for a bank's Board-approved credit policy under Chapter II?,RBI_CREDIT_001,42,43,0.501,False
+Q13,1,"What must a bank do if a borrower is not satisfied with the bank's response to a digital lending complaint, or receives no response within 30 days?",RBI_CREDIT_001,22,23,0.6306,True
+Q13,2,"What must a bank do if a borrower is not satisfied with the bank's response to a digital lending complaint, or receives no response within 30 days?",RBI_CREDIT_001,22,22,0.424,True
+Q13,3,"What must a bank do if a borrower is not satisfied with the bank's response to a digital lending complaint, or receives no response within 30 days?",RBI_CREDIT_001,9,9,0.4153,False
+Q13,4,"What must a bank do if a borrower is not satisfied with the bank's response to a digital lending complaint, or receives no response within 30 days?",RBI_CREDIT_001,25,26,0.4032,False
+Q13,5,"What must a bank do if a borrower is not satisfied with the bank's response to a digital lending complaint, or receives no response within 30 days?",RBI_CREDIT_001,80,82,0.3974,False
+Q13,6,"What must a bank do if a borrower is not satisfied with the bank's response to a digital lending complaint, or receives no response within 30 days?",RBI_CREDIT_001,20,20,0.3955,False
+Q13,7,"What must a bank do if a borrower is not satisfied with the bank's response to a digital lending complaint, or receives no response within 30 days?",RBI_CREDIT_001,57,57,0.3813,False
+Q13,8,"What must a bank do if a borrower is not satisfied with the bank's response to a digital lending complaint, or receives no response within 30 days?",RBI_CREDIT_001,79,79,0.3765,False
+Q13,9,"What must a bank do if a borrower is not satisfied with the bank's response to a digital lending complaint, or receives no response within 30 days?",RBI_CREDIT_001,14,16,0.3747,False
+Q13,10,"What must a bank do if a borrower is not satisfied with the bank's response to a digital lending complaint, or receives no response within 30 days?",RBI_KYC_001,62,62,0.3715,False
+Q14,1,What are the permitted forms in which a bank may accept a Default Loss Guarantee (DLG)?,RBI_CREDIT_001,26,27,0.7393,True
+Q14,2,What are the permitted forms in which a bank may accept a Default Loss Guarantee (DLG)?,RBI_CREDIT_001,27,28,0.6435,True
+Q14,3,What are the permitted forms in which a bank may accept a Default Loss Guarantee (DLG)?,RBI_CREDIT_001,27,27,0.6403,True
+Q14,4,What are the permitted forms in which a bank may accept a Default Loss Guarantee (DLG)?,RBI_CREDIT_001,31,31,0.5565,False
+Q14,5,What are the permitted forms in which a bank may accept a Default Loss Guarantee (DLG)?,RBI_CREDIT_001,30,31,0.5515,False
+Q14,6,What are the permitted forms in which a bank may accept a Default Loss Guarantee (DLG)?,RBI_CREDIT_001,138,139,0.5505,False
+Q14,7,What are the permitted forms in which a bank may accept a Default Loss Guarantee (DLG)?,RBI_CREDIT_001,29,30,0.5464,False
+Q14,8,What are the permitted forms in which a bank may accept a Default Loss Guarantee (DLG)?,RBI_CREDIT_001,9,9,0.535,False
+Q14,9,What are the permitted forms in which a bank may accept a Default Loss Guarantee (DLG)?,RBI_CREDIT_001,139,139,0.5252,False
+Q14,10,What are the permitted forms in which a bank may accept a Default Loss Guarantee (DLG)?,RBI_CREDIT_001,141,141,0.4942,False
+Q15,1,What conditions must an infrastructure project satisfy for a bank to finance it?,RBI_CREDIT_001,71,72,0.6839,True
+Q15,2,What conditions must an infrastructure project satisfy for a bank to finance it?,RBI_CREDIT_001,78,79,0.6766,False
+Q15,3,What conditions must an infrastructure project satisfy for a bank to finance it?,RBI_CREDIT_001,52,53,0.6701,False
+Q15,4,What conditions must an infrastructure project satisfy for a bank to finance it?,RBI_CREDIT_001,72,73,0.6408,True
+Q15,5,What conditions must an infrastructure project satisfy for a bank to finance it?,RBI_CREDIT_001,13,14,0.6248,False
+Q15,6,What conditions must an infrastructure project satisfy for a bank to finance it?,RBI_CREDIT_001,77,78,0.5927,False
+Q15,7,What conditions must an infrastructure project satisfy for a bank to finance it?,RBI_CREDIT_001,50,50,0.5843,False
+Q15,8,What conditions must an infrastructure project satisfy for a bank to finance it?,RBI_CREDIT_001,53,54,0.5834,False
+Q15,9,What conditions must an infrastructure project satisfy for a bank to finance it?,RBI_CREDIT_001,46,47,0.5726,False
+Q15,10,What conditions must an infrastructure project satisfy for a bank to finance it?,RBI_CREDIT_001,44,45,0.5625,False
+Q16,1,"Before approving credit, what borrower-profile details does the RBI direction say the lender needs to collect?",RBI_CREDIT_001,19,20,0.586,True
+Q16,2,"Before approving credit, what borrower-profile details does the RBI direction say the lender needs to collect?",RBI_CREDIT_001,58,59,0.5629,False
+Q16,3,"Before approving credit, what borrower-profile details does the RBI direction say the lender needs to collect?",RBI_CREDIT_001,77,78,0.5629,False
+Q16,4,"Before approving credit, what borrower-profile details does the RBI direction say the lender needs to collect?",RBI_CREDIT_001,103,104,0.5537,False
+Q16,5,"Before approving credit, what borrower-profile details does the RBI direction say the lender needs to collect?",RBI_CREDIT_001,14,16,0.5306,False
+Q16,6,"Before approving credit, what borrower-profile details does the RBI direction say the lender needs to collect?",RBI_CREDIT_001,53,54,0.5269,False
+Q16,7,"Before approving credit, what borrower-profile details does the RBI direction say the lender needs to collect?",RBI_CREDIT_001,145,146,0.5232,False
+Q16,8,"Before approving credit, what borrower-profile details does the RBI direction say the lender needs to collect?",RBI_CREDIT_001,7,8,0.5218,False
+Q16,9,"Before approving credit, what borrower-profile details does the RBI direction say the lender needs to collect?",RBI_CREDIT_001,76,77,0.5161,False
+Q16,10,"Before approving credit, what borrower-profile details does the RBI direction say the lender needs to collect?",RBI_CREDIT_001,48,48,0.5161,False
+Q17,1,Can a digital lender route a loan payment through an LSP's pool account before it reaches the borrower? Explain the rule.,RBI_CREDIT_001,18,19,0.652,False
+Q17,2,Can a digital lender route a loan payment through an LSP's pool account before it reaches the borrower? Explain the rule.,RBI_CREDIT_001,21,22,0.6317,True
+Q17,3,Can a digital lender route a loan payment through an LSP's pool account before it reaches the borrower? Explain the rule.,RBI_CREDIT_001,22,22,0.6225,False
+Q17,4,Can a digital lender route a loan payment through an LSP's pool account before it reaches the borrower? Explain the rule.,RBI_CREDIT_001,24,25,0.5911,False
+Q17,5,Can a digital lender route a loan payment through an LSP's pool account before it reaches the borrower? Explain the rule.,RBI_CREDIT_001,20,21,0.5884,True
+Q17,6,Can a digital lender route a loan payment through an LSP's pool account before it reaches the borrower? Explain the rule.,RBI_CREDIT_001,9,9,0.5364,False
+Q17,7,Can a digital lender route a loan payment through an LSP's pool account before it reaches the borrower? Explain the rule.,RBI_CREDIT_001,17,18,0.534,False
+Q17,8,Can a digital lender route a loan payment through an LSP's pool account before it reaches the borrower? Explain the rule.,RBI_CREDIT_001,18,18,0.5239,False
+Q17,9,Can a digital lender route a loan payment through an LSP's pool account before it reaches the borrower? Explain the rule.,RBI_CREDIT_001,26,27,0.5201,False
+Q17,10,Can a digital lender route a loan payment through an LSP's pool account before it reaches the borrower? Explain the rule.,RBI_CREDIT_001,20,20,0.4952,False
+Q18,1,"If a microfinance household is already spending more than half its monthly income on loan instalments, can it receive another loan immediately?",RBI_CREDIT_001,43,44,0.5817,True
+Q18,2,"If a microfinance household is already spending more than half its monthly income on loan instalments, can it receive another loan immediately?",RBI_CREDIT_001,42,43,0.568,True
+Q18,3,"If a microfinance household is already spending more than half its monthly income on loan instalments, can it receive another loan immediately?",RBI_CREDIT_001,40,41,0.4,False
+Q18,4,"If a microfinance household is already spending more than half its monthly income on loan instalments, can it receive another loan immediately?",RBI_CREDIT_001,41,42,0.3687,False
+Q18,5,"If a microfinance household is already spending more than half its monthly income on loan instalments, can it receive another loan immediately?",RBI_CREDIT_001,8,8,0.3414,False
+Q18,6,"If a microfinance household is already spending more than half its monthly income on loan instalments, can it receive another loan immediately?",RBI_CREDIT_001,54,54,0.332,False
+Q18,7,"If a microfinance household is already spending more than half its monthly income on loan instalments, can it receive another loan immediately?",RBI_CREDIT_001,22,22,0.3308,False
+Q18,8,"If a microfinance household is already spending more than half its monthly income on loan instalments, can it receive another loan immediately?",RBI_CREDIT_001,146,147,0.3273,False
+Q18,9,"If a microfinance household is already spending more than half its monthly income on loan instalments, can it receive another loan immediately?",RBI_CREDIT_001,50,50,0.3188,False
+Q18,10,"If a microfinance household is already spending more than half its monthly income on loan instalments, can it receive another loan immediately?",RBI_CREDIT_001,33,33,0.3183,False
+Q19,1,"In project lending, should a bank release the entire sanctioned amount at the start, regardless of construction progress?",RBI_CREDIT_001,45,46,0.5671,False
+Q19,2,"In project lending, should a bank release the entire sanctioned amount at the start, regardless of construction progress?",RBI_CREDIT_001,78,79,0.5511,False
+Q19,3,"In project lending, should a bank release the entire sanctioned amount at the start, regardless of construction progress?",RBI_CREDIT_001,52,53,0.5488,False
+Q19,4,"In project lending, should a bank release the entire sanctioned amount at the start, regardless of construction progress?",RBI_CREDIT_001,13,14,0.519,False
+Q19,5,"In project lending, should a bank release the entire sanctioned amount at the start, regardless of construction progress?",RBI_CREDIT_001,71,72,0.509,False
+Q19,6,"In project lending, should a bank release the entire sanctioned amount at the start, regardless of construction progress?",RBI_CREDIT_001,72,73,0.4931,False
+Q19,7,"In project lending, should a bank release the entire sanctioned amount at the start, regardless of construction progress?",RBI_CREDIT_001,50,50,0.4888,False
+Q19,8,"In project lending, should a bank release the entire sanctioned amount at the start, regardless of construction progress?",RBI_CREDIT_001,47,48,0.4835,True
+Q19,9,"In project lending, should a bank release the entire sanctioned amount at the start, regardless of construction progress?",RBI_CREDIT_001,77,78,0.4804,False
+Q19,10,"In project lending, should a bank release the entire sanctioned amount at the start, regardless of construction progress?",RBI_CREDIT_001,51,52,0.4781,False
+Q20,1,"If a borrower exits a digital loan during the initial withdrawal window, what amount can the bank collect and can it impose a penalty?",RBI_CREDIT_001,22,22,0.5958,True
+Q20,2,"If a borrower exits a digital loan during the initial withdrawal window, what amount can the bank collect and can it impose a penalty?",RBI_CREDIT_001,35,36,0.5051,False
+Q20,3,"If a borrower exits a digital loan during the initial withdrawal window, what amount can the bank collect and can it impose a penalty?",RBI_CREDIT_001,97,98,0.4736,False
+Q20,4,"If a borrower exits a digital loan during the initial withdrawal window, what amount can the bank collect and can it impose a penalty?",RBI_CREDIT_001,20,21,0.4723,False
+Q20,5,"If a borrower exits a digital loan during the initial withdrawal window, what amount can the bank collect and can it impose a penalty?",RBI_CREDIT_001,9,9,0.4677,False
+Q20,6,"If a borrower exits a digital loan during the initial withdrawal window, what amount can the bank collect and can it impose a penalty?",RBI_CREDIT_001,32,33,0.4674,False
+Q20,7,"If a borrower exits a digital loan during the initial withdrawal window, what amount can the bank collect and can it impose a penalty?",RBI_CREDIT_001,8,8,0.4658,False
+Q20,8,"If a borrower exits a digital loan during the initial withdrawal window, what amount can the bank collect and can it impose a penalty?",RBI_CREDIT_001,83,84,0.4629,False
+Q20,9,"If a borrower exits a digital loan during the initial withdrawal window, what amount can the bank collect and can it impose a penalty?",RBI_CREDIT_001,43,44,0.4553,False
+Q20,10,"If a borrower exits a digital loan during the initial withdrawal window, what amount can the bank collect and can it impose a penalty?",RBI_CREDIT_001,116,117,0.4531,False
+Q21,1,"According to the gold/silver collateral LTV table, what maximum LTV applies when the total consumption loan amount per borrower is ₹2 lakh?",RBI_CREDIT_001,34,35,0.7709,True
+Q21,2,"According to the gold/silver collateral LTV table, what maximum LTV applies when the total consumption loan amount per borrower is ₹2 lakh?",RBI_CREDIT_001,32,33,0.6638,False
+Q21,3,"According to the gold/silver collateral LTV table, what maximum LTV applies when the total consumption loan amount per borrower is ₹2 lakh?",RBI_CREDIT_001,97,97,0.6632,False
+Q21,4,"According to the gold/silver collateral LTV table, what maximum LTV applies when the total consumption loan amount per borrower is ₹2 lakh?",RBI_CREDIT_001,36,38,0.588,False
+Q21,5,"According to the gold/silver collateral LTV table, what maximum LTV applies when the total consumption loan amount per borrower is ₹2 lakh?",RBI_CREDIT_001,31,32,0.5587,False
+Q21,6,"According to the gold/silver collateral LTV table, what maximum LTV applies when the total consumption loan amount per borrower is ₹2 lakh?",RBI_CREDIT_001,40,41,0.5482,False
+Q21,7,"According to the gold/silver collateral LTV table, what maximum LTV applies when the total consumption loan amount per borrower is ₹2 lakh?",RBI_CREDIT_001,33,34,0.5455,True
+Q21,8,"According to the gold/silver collateral LTV table, what maximum LTV applies when the total consumption loan amount per borrower is ₹2 lakh?",RBI_CREDIT_001,97,98,0.5437,False
+Q21,9,"According to the gold/silver collateral LTV table, what maximum LTV applies when the total consumption loan amount per borrower is ₹2 lakh?",RBI_CREDIT_001,35,36,0.5254,False
+Q21,10,"According to the gold/silver collateral LTV table, what maximum LTV applies when the total consumption loan amount per borrower is ₹2 lakh?",RBI_CREDIT_001,94,95,0.5182,False
+Q22,1,"According to the gold/silver collateral LTV table, what maximum LTV applies to a total consumption loan of ₹4 lakh per borrower?",RBI_CREDIT_001,34,35,0.7804,True
+Q22,2,"According to the gold/silver collateral LTV table, what maximum LTV applies to a total consumption loan of ₹4 lakh per borrower?",RBI_CREDIT_001,32,33,0.6828,False
+Q22,3,"According to the gold/silver collateral LTV table, what maximum LTV applies to a total consumption loan of ₹4 lakh per borrower?",RBI_CREDIT_001,97,97,0.6767,False
+Q22,4,"According to the gold/silver collateral LTV table, what maximum LTV applies to a total consumption loan of ₹4 lakh per borrower?",RBI_CREDIT_001,36,38,0.6036,False
+Q22,5,"According to the gold/silver collateral LTV table, what maximum LTV applies to a total consumption loan of ₹4 lakh per borrower?",RBI_CREDIT_001,31,32,0.576,False
+Q22,6,"According to the gold/silver collateral LTV table, what maximum LTV applies to a total consumption loan of ₹4 lakh per borrower?",RBI_CREDIT_001,97,98,0.5714,False
+Q22,7,"According to the gold/silver collateral LTV table, what maximum LTV applies to a total consumption loan of ₹4 lakh per borrower?",RBI_CREDIT_001,40,41,0.5687,False
+Q22,8,"According to the gold/silver collateral LTV table, what maximum LTV applies to a total consumption loan of ₹4 lakh per borrower?",RBI_CREDIT_001,33,34,0.564,True
+Q22,9,"According to the gold/silver collateral LTV table, what maximum LTV applies to a total consumption loan of ₹4 lakh per borrower?",RBI_CREDIT_001,35,36,0.5347,False
+Q22,10,"According to the gold/silver collateral LTV table, what maximum LTV applies to a total consumption loan of ₹4 lakh per borrower?",RBI_CREDIT_001,94,95,0.5337,False
+Q23,1,"In the housing finance table, what LTV ratio and risk weight are shown for an individual housing loan up to ₹30 lakh when the LTV is 80 per cent or less?",RBI_CREDIT_001,55,56,0.6919,True
+Q23,2,"In the housing finance table, what LTV ratio and risk weight are shown for an individual housing loan up to ₹30 lakh when the LTV is 80 per cent or less?",RBI_CREDIT_001,56,57,0.68,False
+Q23,3,"In the housing finance table, what LTV ratio and risk weight are shown for an individual housing loan up to ₹30 lakh when the LTV is 80 per cent or less?",RBI_CREDIT_001,34,35,0.5773,False
+Q23,4,"In the housing finance table, what LTV ratio and risk weight are shown for an individual housing loan up to ₹30 lakh when the LTV is 80 per cent or less?",RBI_CREDIT_001,61,62,0.4977,False
+Q23,5,"In the housing finance table, what LTV ratio and risk weight are shown for an individual housing loan up to ₹30 lakh when the LTV is 80 per cent or less?",RBI_CREDIT_001,97,97,0.4805,False
+Q23,6,"In the housing finance table, what LTV ratio and risk weight are shown for an individual housing loan up to ₹30 lakh when the LTV is 80 per cent or less?",RBI_CREDIT_001,32,33,0.4401,False
+Q23,7,"In the housing finance table, what LTV ratio and risk weight are shown for an individual housing loan up to ₹30 lakh when the LTV is 80 per cent or less?",RBI_CREDIT_001,97,98,0.4387,False
+Q23,8,"In the housing finance table, what LTV ratio and risk weight are shown for an individual housing loan up to ₹30 lakh when the LTV is 80 per cent or less?",RBI_CREDIT_001,67,67,0.4297,False
+Q23,9,"In the housing finance table, what LTV ratio and risk weight are shown for an individual housing loan up to ₹30 lakh when the LTV is 80 per cent or less?",RBI_CREDIT_001,76,76,0.4141,False
+Q23,10,"In the housing finance table, what LTV ratio and risk weight are shown for an individual housing loan up to ₹30 lakh when the LTV is 80 per cent or less?",RBI_CREDIT_001,60,60,0.4089,False
+Q24,1,"In the DLG illustration table, after the further disbursement row, what disbursed amount and available DLG cover are recorded?",RBI_CREDIT_001,27,28,0.5448,True
+Q24,2,"In the DLG illustration table, after the further disbursement row, what disbursed amount and available DLG cover are recorded?",RBI_CREDIT_001,28,29,0.5376,True
+Q24,3,"In the DLG illustration table, after the further disbursement row, what disbursed amount and available DLG cover are recorded?",RBI_CREDIT_001,29,30,0.4844,True
+Q24,4,"In the DLG illustration table, after the further disbursement row, what disbursed amount and available DLG cover are recorded?",RBI_CREDIT_001,30,31,0.4655,False
+Q24,5,"In the DLG illustration table, after the further disbursement row, what disbursed amount and available DLG cover are recorded?",RBI_CREDIT_001,29,29,0.4551,True
+Q24,6,"In the DLG illustration table, after the further disbursement row, what disbursed amount and available DLG cover are recorded?",RBI_CREDIT_001,27,27,0.4457,False
+Q24,7,"In the DLG illustration table, after the further disbursement row, what disbursed amount and available DLG cover are recorded?",RBI_CREDIT_001,26,27,0.3666,False
+Q24,8,"In the DLG illustration table, after the further disbursement row, what disbursed amount and available DLG cover are recorded?",RBI_CREDIT_001,25,25,0.366,False
+Q24,9,"In the DLG illustration table, after the further disbursement row, what disbursed amount and available DLG cover are recorded?",RBI_CREDIT_001,25,26,0.3546,False
+Q24,10,"In the DLG illustration table, after the further disbursement row, what disbursed amount and available DLG cover are recorded?",RBI_CREDIT_001,153,153,0.347,False
+Q25,1,"In the DLG illustration table, what is the available DLG cover in Case 2 after the entire ₹1 crore DLG has been invoked?",RBI_CREDIT_001,28,29,0.6218,True
+Q25,2,"In the DLG illustration table, what is the available DLG cover in Case 2 after the entire ₹1 crore DLG has been invoked?",RBI_CREDIT_001,27,28,0.5828,False
+Q25,3,"In the DLG illustration table, what is the available DLG cover in Case 2 after the entire ₹1 crore DLG has been invoked?",RBI_CREDIT_001,29,29,0.5605,True
+Q25,4,"In the DLG illustration table, what is the available DLG cover in Case 2 after the entire ₹1 crore DLG has been invoked?",RBI_CREDIT_001,30,31,0.558,False
+Q25,5,"In the DLG illustration table, what is the available DLG cover in Case 2 after the entire ₹1 crore DLG has been invoked?",RBI_CREDIT_001,29,30,0.5526,True
+Q25,6,"In the DLG illustration table, what is the available DLG cover in Case 2 after the entire ₹1 crore DLG has been invoked?",RBI_CREDIT_001,27,27,0.528,False
+Q25,7,"In the DLG illustration table, what is the available DLG cover in Case 2 after the entire ₹1 crore DLG has been invoked?",RBI_CREDIT_001,26,27,0.3908,False
+Q25,8,"In the DLG illustration table, what is the available DLG cover in Case 2 after the entire ₹1 crore DLG has been invoked?",RBI_CREDIT_001,25,26,0.3871,False
+Q25,9,"In the DLG illustration table, what is the available DLG cover in Case 2 after the entire ₹1 crore DLG has been invoked?",RBI_CREDIT_001,7,8,0.3607,False
+Q25,10,"In the DLG illustration table, what is the available DLG cover in Case 2 after the entire ₹1 crore DLG has been invoked?",RBI_CREDIT_001,9,9,0.3596,False
