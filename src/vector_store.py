@@ -1,5 +1,6 @@
-
 import chromadb
+
+from config import CHROMA_DB_PATH
 
 
 class VectorStore:
@@ -7,7 +8,7 @@ class VectorStore:
     def __init__(self, collection_name="policylens_v1"):
 
         self.client = chromadb.PersistentClient(
-            path="data/chroma_db"
+            path=CHROMA_DB_PATH
         )
 
         self.collection = self.client.get_or_create_collection(
@@ -41,15 +42,7 @@ class VectorStore:
 
             ids.append(unique_id)
             documents.append(chunk["text"])
-
-            # ChromaDB metadata values must be simple scalar values.
-            clean_metadata = {
-                key: value
-                for key, value in metadata.items()
-                if isinstance(value, (str, int, float, bool))
-            }
-
-            metadatas.append(clean_metadata)
+            metadatas.append(metadata)
 
         self.collection.upsert(
             ids=ids,
@@ -63,18 +56,13 @@ class VectorStore:
 
     def search(self, query_embedding, top_k=5, where=None):
 
-        results = self.collection.query(
+        return self.collection.query(
             query_embeddings=[query_embedding],
             n_results=top_k,
             where=where
         )
 
-        return results
-
 
 if __name__ == "__main__":
-
     store = VectorStore()
-
-    print("Vector Store module is ready!")
     print("Stored documents:", store.collection.count())

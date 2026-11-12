@@ -1,10 +1,11 @@
-
 from sentence_transformers import SentenceTransformer
+
+from config import EMBEDDING_MODEL, EMBEDDING_BATCH_SIZE
 
 
 class EmbeddingGenerator:
 
-    def __init__(self, model_name="intfloat/e5-base-v2"):
+    def __init__(self, model_name=EMBEDDING_MODEL):
         print(f"Loading embedding model: {model_name}")
 
         self.model = SentenceTransformer(model_name)
@@ -26,7 +27,7 @@ class EmbeddingGenerator:
 
         return embedding.tolist()
 
-    def generate_embeddings(self, texts, batch_size=32):
+    def generate_embeddings(self, texts, batch_size=EMBEDDING_BATCH_SIZE):
         if not texts:
             return []
 

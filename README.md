@@ -49,6 +49,30 @@ Document metadata is maintained in `data/manifest.csv`.
 
 The manifest includes document IDs, titles, issuers, dates, URLs, page counts, document types and local filenames.
 
+### Dataset availability and setup
+
+The PDF corpus is maintained separately from the GitHub source repository. It is not automatically downloaded when the repository is cloned.
+
+1. Open `data/manifest.csv`.
+2. Use the `url` column to locate each document on the RBI website.
+3. Download the PDFs and save them inside `data/pdfs/`.
+4. Use the corresponding `local_filename` value from the manifest.
+5. Check that all 30 PDFs are present before running ingestion.
+
+Some manifest URLs may point to RBI publication pages rather than direct PDF files. In those cases, locate and download the relevant PDF manually.
+
+Expected local structure:
+
+```text
+data/
+├── manifest.csv
+├── pdfs/
+└── chroma_db/
+```
+
+The ChromaDB directory is created and populated during ingestion.
+
+
 ## 4. System Architecture
 
 PolicyLens consists of two main stages.
@@ -109,6 +133,7 @@ policylens-final-project/
 ├── docs/
 ├── report/
 │
+├── config.py
 ├── ingest.py
 ├── ingest_backup.py
 ├── ingest_structure.py
@@ -143,6 +168,24 @@ Install Python dependencies:
 ```bash
 pip install -r requirements.txt
 ```
+
+### Configuration
+
+Project settings are centralized in `config.py`.
+
+| Setting | Default value |
+|---|---|
+| Embedding model | `intfloat/e5-base-v2` |
+| Embedding batch size | 32 |
+| Chunk size | 300 tokens |
+| Chunk overlap | 60 tokens |
+| PDF input directory | `data/pdfs` |
+| Manifest path | `data/manifest.csv` |
+| ChromaDB directory | `data/chroma_db` |
+| Default search collection | `policylens_final_30docs` |
+| Fixed-size collection | `policylens_fixed_30docs` |
+
+Edit `config.py` to change these default settings. The ingestion command also accepts a collection name and chunking strategy through command-line arguments.
 
 ## 7. Running the Project
 
@@ -202,6 +245,25 @@ Search results display:
 - Page range
 - Section title
 - Retrieved text
+
+### Expected Search Output
+
+For the example query:
+
+`What are the KYC requirements for bank customers?`
+
+A verified example of a top-ranked result is:
+
+| Field | Example output |
+|---|---|
+| Rank | 1 |
+| Document title | Master Direction - Know Your Customer (KYC) Direction, 2016 |
+| Document ID | `RBI_KYC_001` |
+| Page range | 59–59 |
+| Section | CERSAI |
+| Similarity score | 0.8671 |
+
+The retrieved text is displayed below the result metadata. Similarity scores and result rankings may vary depending on the query, collection, and configuration.
 
 ## 8. Retrieval Evaluation
 

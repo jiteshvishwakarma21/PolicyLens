@@ -3,6 +3,7 @@ import argparse
 import sys
 
 from src.retrieval import PolicyRetriever
+from config import DEFAULT_COLLECTION
 
 
 def parse_filters(filter_values):
@@ -61,7 +62,7 @@ def main():
         filters = parse_filters(args.filter)
 
         retriever = PolicyRetriever(
-            collection_name="policylens_final_30docs"
+            collection_name=DEFAULT_COLLECTION
         )
 
         results = retriever.search_policies(

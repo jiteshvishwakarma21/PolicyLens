@@ -15,16 +15,12 @@ from src.document_chunker import (
 from src.embedding_generator import EmbeddingGenerator
 from src.vector_store import VectorStore
 
-
-# --------------------------------------------------
-# CONFIGURATION
-# --------------------------------------------------
-
-CHUNK_SIZE = 300
-CHUNK_OVERLAP = 60
-
-DEFAULT_INPUT = "data/pdfs"
-DEFAULT_MANIFEST = "data/manifest.csv"
+from config import (
+    CHUNK_SIZE,
+    CHUNK_OVERLAP,
+    DEFAULT_INPUT,
+    DEFAULT_MANIFEST,
+)
 
 
 # --------------------------------------------------
