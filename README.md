@@ -1,16 +1,16 @@
-
 # PolicyLens – RBI Policy Document Search and Retrieval System
 
-PolicyLens is a document search and retrieval system designed to help users find relevant information from Reserve Bank of India (RBI) policy documents, reports, circulars, and statistical publications.
+PolicyLens is a document ingestion and semantic retrieval system designed to help users find relevant information from Reserve Bank of India (RBI) policy documents, reports, circulars and statistical publications.
 
-It uses PDF text extraction, OCR, text chunking, sentence embeddings, and a ChromaDB vector database to retrieve relevant passages based on natural-language queries.
+It combines PDF text extraction, OCR, text cleaning, chunking, transformer-based embeddings and ChromaDB to retrieve relevant passages using natural-language queries.
 
 ## 1. Project Objectives
 
-- Build a searchable collection of RBI policy documents.
-- Extract text from both digital and scanned PDF files.
+- Build a searchable collection of 30 public RBI PDF documents.
+- Extract text from digital and scanned PDFs.
 - Apply OCR when PDF pages contain insufficient extractable text.
-- Divide extracted content into manageable text chunks.
+- Clean and normalize extracted content.
+- Implement fixed-size and structure-aware chunking.
 - Generate semantic embeddings using a transformer model.
 - Store document chunks and metadata in ChromaDB.
 - Retrieve relevant passages using natural-language queries.
@@ -21,11 +21,10 @@ It uses PDF text extraction, OCR, text chunking, sentence embeddings, and a Chro
 
 | Component | Technology |
 |---|---|
-| Programming language | Python |
+| Programming language | Python 3.12 |
 | PDF extraction | PyMuPDF |
 | OCR | Tesseract OCR, pytesseract |
 | Image processing | Pillow |
-| Text processing | Python |
 | Tokenization | tiktoken |
 | Embedding model | intfloat/e5-base-v2 |
 | Vector database | ChromaDB |
@@ -35,44 +34,36 @@ It uses PDF text extraction, OCR, text chunking, sentence embeddings, and a Chro
 
 ## 3. Dataset
 
-The project uses a collection of 30 RBI PDF documents.
+The project uses 30 public RBI PDF documents.
 
-The corpus includes:
+| Document category | Count |
+|---|---:|
+| Text-native | 19 |
+| Scanned | 6 |
+| Table-heavy | 5 |
+| **Total** | **30** |
 
-- Text-native documents
-- Scanned documents
-- Table-heavy documents
+The documents cover RBI publications such as annual reports, financial stability reports, KYC directions, banking regulations, statistical publications and credit facility guidelines.
 
-The documents cover RBI publications such as:
+Document metadata is maintained in `data/manifest.csv`.
 
-- Annual Reports
-- Financial Stability Reports
-- KYC Master Directions
-- Banking regulation documents
-- RBI statistical publications
-- Credit facility guidelines
-- Banking trends and progress reports
-
-The document metadata is maintained in:
-
-`data/manifest.csv`
-
-The manifest includes document IDs, titles, issuers, dates, URLs, page counts, document types, and local filenames.
+The manifest includes document IDs, titles, issuers, dates, URLs, page counts, document types and local filenames.
 
 ## 4. System Architecture
 
-The PolicyLens workflow consists of two main stages.
+PolicyLens consists of two main stages.
 
 ### A. Document Ingestion
 
 1. Read document metadata from the CSV manifest.
 2. Discover PDF files in the input directory.
-3. Extract text from PDF pages using PyMuPDF.
+3. Extract page text using PyMuPDF.
 4. Apply OCR to pages requiring text recognition.
-5. Clean and preprocess extracted text.
-6. Divide the content into chunks using the structure-aware strategy.
-7. Generate embeddings using the E5 embedding model.
-8. Store document chunks, embeddings, and metadata in ChromaDB.
+5. Clean and normalize extracted text.
+6. Divide content into chunks.
+7. Enrich chunks with document and page metadata.
+8. Generate embeddings using the E5 embedding model.
+9. Store document chunks, embeddings and metadata in ChromaDB.
 
 ### B. Semantic Search and Retrieval
 
@@ -111,18 +102,17 @@ policylens-final-project/
 │   ├── evaluate_hybrid.py
 │   ├── questions.csv
 │   ├── metrics_30docs.csv
+│   ├── metrics_fixed_30docs.csv
 │   └── retrieval_log_30docs.csv
 │
 ├── evidence/
-├── logs/
+├── docs/
 ├── report/
 │
 ├── ingest.py
 ├── ingest_backup.py
 ├── ingest_structure.py
 ├── search.py
-├── check_token_lengths.py
-├── diagnose_chunks.py
 ├── requirements.txt
 └── README.md
 ```
@@ -148,7 +138,7 @@ python -m venv .venv
 source .venv/bin/activate
 ```
 
-Install the required Python packages:
+Install Python dependencies:
 
 ```bash
 pip install -r requirements.txt
@@ -158,7 +148,7 @@ pip install -r requirements.txt
 
 ### Step 1: Document Ingestion
 
-Run the ingestion pipeline:
+Run the structure-aware ingestion pipeline:
 
 ```bash
 python ingest.py \
@@ -168,11 +158,17 @@ python ingest.py \
   --strategy structure
 ```
 
-This processes the PDF corpus and stores the resulting embeddings and metadata in ChromaDB.
+To use fixed-size chunking:
+
+```bash
+python ingest.py \
+  --input data/pdfs \
+  --manifest data/manifest.csv \
+  --collection policylens_fixed_30docs \
+  --strategy fixed
+```
 
 ### Step 2: Semantic Search
-
-Run a natural-language search:
 
 ```bash
 python search.py "What are the KYC requirements for bank customers?" --top_k 5
@@ -180,7 +176,7 @@ python search.py "What are the KYC requirements for bank customers?" --top_k 5
 
 ### Step 3: Search with Metadata Filters
 
-Filter results by issuer:
+Filter by issuer:
 
 ```bash
 python search.py "What are the KYC requirements?" \
@@ -196,7 +192,7 @@ python search.py "What are the KYC requirements?" \
   --filter doc_id=RBI_KYC_001
 ```
 
-The search interface displays:
+Search results display:
 
 - Result rank
 - Similarity score
@@ -209,7 +205,11 @@ The search interface displays:
 
 ## 8. Retrieval Evaluation
 
-The retrieval system is evaluated using a manually prepared dataset of 25 questions.
+The retrieval system is evaluated using 25 manually prepared questions:
+
+- 15 standard questions
+- 5 paraphrased questions
+- 5 table-based questions
 
 The evaluation script measures:
 
@@ -218,7 +218,7 @@ The evaluation script measures:
 - Recall@10
 - Mean Reciprocal Rank (MRR)
 
-Run the evaluation:
+Run the structure-aware evaluation:
 
 ```bash
 python eval/evaluate.py \
@@ -226,56 +226,158 @@ python eval/evaluate.py \
   --top_k 10
 ```
 
+Run the fixed-size evaluation:
+
+```bash
+python eval/evaluate.py \
+  --collection policylens_fixed_30docs \
+  --top_k 10
+```
+
 ### Evaluation Results
 
-| Metric | Result |
+| Metric | Structure-aware | Fixed-size |
+|---|---:|---:|
+| Recall@3 | 88% | 72% |
+| Recall@5 | 96% | 84% |
+| Recall@10 | 100% | 92% |
+| MRR | 0.7743 | 0.7613 |
+
+Structure-aware chunking performed better across all four aggregate metrics on the 25-question evaluation set.
+
+However, fixed-size chunking performed better for selected individual questions, including some table-based queries.
+
+These results measure retrieval performance against manually assigned expected document and page references. They do not measure the factual correctness of generated answers.
+
+## 9. Chunking Strategy Comparison
+
+Two chunking approaches were evaluated using the same 30-document corpus and embedding model.
+
+### Fixed-size chunking
+
+- Maximum chunk size: 300 tokens.
+- Overlap: 60 tokens.
+- Average chunk size: 299.8 tokens.
+- Total chunks: 19,341.
+
+### Structure-aware chunking
+
+- Uses detected document structure and section boundaries.
+- Splits long sections into smaller chunks.
+- Maximum target size: approximately 300 tokens.
+- Total chunks: 15,374.
+
+Structure-aware chunking produced fewer chunks while achieving better aggregate retrieval results in the current evaluation.
+
+## 10. Performance Measurements
+
+The following measurements were collected during project testing.
+
+| Measurement | Result |
 |---|---:|
-| Recall@3 | 88% |
-| Recall@5 | 96% |
-| Recall@10 | 100% |
-| MRR | 0.7743 |
+| Controlled PDF ingestion | 12.467 seconds |
+| PDF pages processed | 76 |
+| Chunks generated in test | 293 |
+| Estimated time per 100 pages | 16.40 seconds |
+| Observed ChromaDB query latency | 217.66 ms |
+| ChromaDB directory size | 429 MB |
 
-These results are based on the 25-question evaluation dataset and its manually assigned expected document and page references.
+**Measurement qualifications:**
 
-The evaluation measures retrieval performance, not the factual correctness of generated answers.
+- The 12.467-second ingestion test processed one 76-page scanned PDF and included model loading, extraction, chunking, embedding and storage.
+- The 16.40-second figure is a linear extrapolation, not a direct 100-page benchmark.
+- The 217.66 ms query measurement excludes query-embedding generation and represents one observed query.
+- The 429 MB figure represents the previously measured aggregate ChromaDB directory across collections, not an individual final collection.
 
-## 9. Database
+## 11. OCR and Text Cleaning
+
+PolicyLens uses Tesseract OCR as a fallback for scanned pages.
+
+The OCR process includes image rendering, grayscale conversion, contrast enhancement and orientation detection.
+
+Two pages from the February 1952 RBI Bulletin were manually inspected:
+
+- **Page 17:** Some headings and labels were recovered, but chart-related text contained OCR errors.
+- **Page 36:** Major headings and some axis text were recovered, but graph lines and small numerical labels were unreliable.
+
+These are two manual spot checks, not a representative accuracy study. No OCR accuracy percentage or word-error rate was calculated.
+
+The text cleaner normalizes line endings, fixes hyphenated line breaks, removes control characters and normalizes whitespace.
+
+Example:
+
+Before:
+
+```text
+Financial inclu-
+sion is important.
+```
+
+After:
+
+```text
+Financial inclusion is important.
+```
+
+The current cleaner does not systematically remove repeating headers, footers or page numbers.
+
+## 12. Database and Reliability
 
 PolicyLens uses ChromaDB as its persistent vector database.
 
-The database is stored locally at:
+Database location:
 
 `data/chroma_db/`
 
-The active collection is:
+Final collections:
 
-`policylens_final_30docs`
+- `policylens_final_30docs`
+- `policylens_fixed_30docs`
 
-It stores document chunks, vector embeddings, and associated metadata.
+The final structure-aware collection contains 15,374 chunks, and the fixed-size collection contains 19,341 chunks.
 
-## 10. Limitations
+A repeat structure-aware ingestion run skipped all 30 unchanged documents and added zero new chunks, demonstrating idempotent behaviour for the unchanged corpus.
+
+The project uses source hashes to help identify documents that require reprocessing.
+
+## 13. Limitations
 
 - OCR output may contain errors, particularly in historical scanned documents.
-- Complex tables may not always be extracted in their original layout.
-- Similarity scores indicate vector similarity and are not probability or confidence scores.
-- Evaluation currently uses a limited dataset of 25 manually prepared questions.
-- Retrieval quality depends on document extraction, chunking, and embedding quality.
-- The current command-line interface retrieves relevant passages; it does not independently generate verified answers.
+- Complex tables and charts may not preserve their original layout.
+- Small numerical labels may not be recognized correctly.
+- Repeating headers and footers are not systematically removed.
+- The evaluation uses only 25 manually prepared questions.
+- OCR quality was manually inspected on only two pages.
+- Query latency is a single measurement and excludes embedding generation.
+- The system retrieves relevant passages but does not independently generate verified answers.
+- No paid embedding API cost per 1,000 chunks was measured.
 
-## 11. Future Enhancements
+## 14. Future Enhancements
 
-- Add a conversational question-answering interface.
+- Expand the evaluation dataset.
+- Improve OCR for historical and table-heavy documents.
+- Add layout-aware table extraction.
+- Improve repeated-header and footer detection.
+- Introduce more comprehensive performance benchmarking.
+- Add document versioning and withdrawn-circular handling.
 - Integrate Retrieval-Augmented Generation (RAG).
-- Improve OCR quality for historical and table-heavy documents.
 - Add source-linked citations in generated answers.
 - Develop a web-based user interface.
-- Expand the evaluation dataset.
 - Improve hybrid retrieval using semantic and keyword search.
 
-## 12. Conclusion
+## 15. Conclusion
 
-PolicyLens demonstrates how semantic search and vector databases can be used to organize and retrieve information from a collection of RBI documents.
+PolicyLens demonstrates how semantic search and vector databases can organize and retrieve information from RBI documents.
 
-By combining PDF extraction, OCR, structure-aware chunking, transformer-based embeddings, and ChromaDB, the system provides a foundation for searching large collections of financial and regulatory documents.
+By combining PDF extraction, OCR, text cleaning, structure-aware and fixed-size chunking, transformer-based embeddings and ChromaDB, the system provides a foundation for searching regulatory and financial documents.
+
+On the current 25-question evaluation set, structure-aware chunking achieved Recall@3 of 88%, Recall@5 of 96%, Recall@10 of 100% and MRR of 0.7743.
 
 The project can be extended into a complete Retrieval-Augmented Generation system capable of producing answers grounded in retrieved RBI source documents.
+
+## 16. References and Project Artifacts
+
+- Reserve Bank of India – public RBI documents included in `data/manifest.csv`.
+- intfloat/e5-base-v2 – embedding model.
+- ChromaDB – vector database.
+- Project source code, evaluation datasets, metrics, retrieval logs and evidence are maintained in this repository.
