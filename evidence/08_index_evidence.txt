@@ -1,0 +1,14 @@
+POLICYLENS INDEX EVIDENCE
+============================================================
+
+Collection: policylens_final_30docs
+Record count: 15374
+Sample records:
+{'issue_date': '2025-11-28', 'page_end': 6, 'title': 'Commercial Banks - Credit Facilities Directions 2025', 'page_start': 6, 'source_hash': '85f5fe0a532c89a207639cee8742441c839ee0129a4e9f25bce417766bc0e5bf', 'token_count': 300, 'issuer': 'Reserve Bank of India', 'section_title': 'General | Chapter I - Preliminary | A. Short Title and Commencement | B. Applicability', 'chunking_strategy': 'structure', 'doc_id': 'RBI_CREDIT_001'}
+{'page_end': 7, 'issue_date': '2025-11-28', 'section_title': 'B. Applicability | C. Definitions', 'page_start': 6, 'title': 'Commercial Banks - Credit Facilities Directions 2025', 'issuer': 'Reserve Bank of India', 'doc_id': 'RBI_CREDIT_001', 'chunking_strategy': 'structure', 'token_count': 300, 'source_hash': '85f5fe0a532c89a207639cee8742441c839ee0129a4e9f25bce417766bc0e5bf'}
+
+Collection: policylens_fixed_30docs
+Record count: 19341
+Sample records:
+{'token_count': 300, 'doc_id': 'RBI_CREDIT_001', 'chunking_strategy': 'fixed', 'page_end': 1, 'page_start': 1, 'title': 'Commercial Banks - Credit Facilities Directions 2025', 'section_title': 'RBI/DOR/2025-26/154', 'source_hash': '85f5fe0a532c89a207639cee8742441c839ee0129a4e9f25bce417766bc0e5bf', 'issuer': 'Reserve Bank of India', 'issue_date': '2025-11-28'}
+{'issuer': 'Reserve Bank of India', 'chunking_strategy': 'fixed', 'issue_date': '2025-11-28', 'page_end': 2, 'doc_id': 'RBI_CREDIT_001', 'section_title': 'Not detected', 'page_start': 1, 'source_hash': '85f5fe0a532c89a207639cee8742441c839ee0129a4e9f25bce417766bc0e5bf', 'token_count': 300, 'title': 'Commercial Banks - Credit Facilities Directions 2025'}
