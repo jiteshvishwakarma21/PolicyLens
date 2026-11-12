@@ -117,14 +117,21 @@ def evaluate():
         "questions.csv"
     )
 
+    if args.collection == "policylens_final_30docs":
+        output_suffix = "30docs"
+    elif args.collection == "policylens_fixed_30docs":
+        output_suffix = "fixed_30docs"
+    else:
+        output_suffix = args.collection
+
     metrics_path = os.path.join(
         eval_directory,
-        "metrics_fixed_30docs.csv"
+        f"metrics_{output_suffix}.csv"
     )
 
     retrieval_log_path = os.path.join(
         eval_directory,
-        "retrieval_log_fixed_30docs.csv"
+        f"retrieval_log_{output_suffix}.csv"
     )
 
     # Load questions.
