@@ -1,0 +1,2042 @@
+W1111 22:03:13.004000 50449 .venv/lib/python3.12/site-packages/torch/distributed/elastic/multiprocessing/redirects.py:35] NOTE: Redirects are currently not supported in MacOs.
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+
+Loading document manifest...
+Documents in manifest: 30
+PDF files discovered: 30
+Connected to collection: policylens_fixed_30docs
+Loading embedding model: intfloat/e5-base-v2
+Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]Loading weights: 100%|██████████| 199/199 [00:00<00:00, 10461.58it/s]
+Embedding model loaded successfully!
+Maximum sequence length: 512
+
+Chunking strategy: fixed
+Collection: policylens_fixed_30docs
+
+============================================================
+Processing: RBI_Commercial_Banks_Credit_Facilities_2025.pdf
+============================================================
+Extracting PDF text...
+Pages extracted: 153
+Chunks created: 263
+Average tokens: 299.65
+Minimum tokens: 207
+Maximum tokens: 300
+
+Generating embeddings...
+Batches:   0%|          | 0/9 [00:00<?, ?it/s]Batches:  11%|█         | 1/9 [00:01<00:12,  1.58s/it]Batches:  22%|██▏       | 2/9 [00:02<00:07,  1.07s/it]Batches:  33%|███▎      | 3/9 [00:02<00:05,  1.11it/s]Batches:  44%|████▍     | 4/9 [00:03<00:04,  1.21it/s]Batches:  56%|█████▌    | 5/9 [00:04<00:03,  1.23it/s]Batches:  67%|██████▋   | 6/9 [00:05<00:02,  1.26it/s]Batches:  78%|███████▊  | 7/9 [00:06<00:01,  1.28it/s]Batches:  89%|████████▉ | 8/9 [00:06<00:00,  1.32it/s]Batches: 100%|██████████| 9/9 [00:06<00:00,  1.68it/s]Batches: 100%|██████████| 9/9 [00:06<00:00,  1.29it/s]
+Successfully stored 263 chunks!
+Successfully ingested RBI_Commercial_Banks_Credit_Facilities_2025.pdf
+
+============================================================
+Processing: RBI_KYC_Master_Direction.pdf
+============================================================
+Extracting PDF text...
+Pages extracted: 107
+Chunks created: 245
+Average tokens: 299.91
+Minimum tokens: 279
+Maximum tokens: 300
+
+Generating embeddings...
+Batches:   0%|          | 0/8 [00:00<?, ?it/s]Batches:  12%|█▎        | 1/8 [00:01<00:08,  1.24s/it]Batches:  25%|██▌       | 2/8 [00:01<00:05,  1.08it/s]Batches:  38%|███▊      | 3/8 [00:02<00:04,  1.22it/s]Batches:  50%|█████     | 4/8 [00:03<00:03,  1.30it/s]Batches:  62%|██████▎   | 5/8 [00:04<00:02,  1.36it/s]Batches:  75%|███████▌  | 6/8 [00:05<00:01,  1.11it/s]Batches:  88%|████████▊ | 7/8 [00:05<00:00,  1.20it/s]Batches: 100%|██████████| 8/8 [00:06<00:00,  1.40it/s]Batches: 100%|██████████| 8/8 [00:06<00:00,  1.25it/s]
+Successfully stored 245 chunks!
+Successfully ingested RBI_KYC_Master_Direction.pdf
+
+============================================================
+Processing: RBI_Bulletin_1975.pdf
+============================================================
+Extracting PDF text...
+OCR required on page 1
+OCR required on page 2
+OCR required on page 3
+OCR required on page 4
+OCR required on page 5
+OCR required on page 6
+OCR required on page 7
+OCR required on page 8
+OCR required on page 9
+OCR required on page 10
+OCR required on page 11
+OCR required on page 12
+OCR required on page 13
+OCR required on page 14
+OCR required on page 15
+OCR required on page 16
+OCR required on page 17
+OCR required on page 18
+OCR required on page 19
+OCR required on page 20
+OCR required on page 21
+OCR required on page 22
+OCR required on page 23
+OCR required on page 24
+OCR required on page 25
+OCR required on page 26
+OCR required on page 27
+OCR required on page 28
+OCR required on page 29
+OCR required on page 30
+OCR required on page 31
+OCR required on page 32
+OCR required on page 33
+OCR required on page 34
+OCR required on page 35
+OCR required on page 36
+OCR required on page 37
+OCR required on page 38
+OCR required on page 39
+OCR required on page 40
+OCR required on page 41
+OCR required on page 42
+OCR required on page 43
+OCR required on page 44
+OCR required on page 45
+OCR required on page 46
+OCR required on page 47
+OCR required on page 48
+OCR required on page 49
+OCR required on page 50
+OCR required on page 51
+OCR required on page 52
+OCR required on page 53
+OCR required on page 54
+OCR required on page 55
+OCR required on page 56
+OCR required on page 57
+OCR required on page 58
+OCR required on page 59
+OCR required on page 60
+OCR required on page 61
+OCR required on page 62
+OCR required on page 63
+OCR required on page 64
+OCR required on page 65
+OCR required on page 66
+OCR required on page 67
+OCR required on page 68
+OCR required on page 69
+OCR required on page 70
+OCR required on page 71
+OCR required on page 72
+OCR required on page 73
+OCR required on page 74
+OCR required on page 75
+OCR required on page 76
+OCR required on page 77
+OCR required on page 78
+OCR required on page 79
+OCR required on page 80
+OCR required on page 81
+OCR required on page 82
+OCR required on page 83
+OCR required on page 84
+OCR required on page 85
+OCR required on page 86
+OCR required on page 87
+OCR required on page 88
+OCR required on page 89
+OCR required on page 90
+OCR required on page 91
+OCR required on page 92
+OCR required on page 93
+OCR required on page 94
+OCR required on page 95
+OCR required on page 96
+OCR required on page 97
+OCR required on page 98
+OCR required on page 99
+OCR required on page 100
+OCR required on page 101
+OCR required on page 102
+OCR required on page 103
+OCR required on page 104
+OCR required on page 105
+OCR required on page 106
+OCR required on page 107
+OCR required on page 108
+OCR required on page 109
+OCR required on page 110
+OCR required on page 111
+OCR required on page 112
+OCR required on page 113
+OCR required on page 114
+OCR required on page 115
+OCR required on page 116
+OCR required on page 117
+OCR required on page 118
+OCR required on page 119
+OCR required on page 120
+OCR required on page 121
+OCR required on page 122
+OCR required on page 123
+OCR required on page 124
+OCR required on page 125
+OCR required on page 126
+OCR required on page 127
+OCR required on page 128
+OCR required on page 129
+OCR required on page 130
+OCR required on page 131
+OCR required on page 132
+OCR required on page 133
+OCR required on page 134
+OCR required on page 135
+OCR required on page 136
+OCR required on page 137
+OCR required on page 138
+OCR required on page 139
+OCR required on page 140
+OCR required on page 141
+OCR required on page 142
+OCR required on page 143
+OCR required on page 144
+OCR required on page 145
+OCR required on page 146
+OCR required on page 147
+OCR required on page 148
+OCR required on page 149
+OCR required on page 150
+OCR required on page 151
+OCR required on page 152
+OCR required on page 153
+OCR required on page 154
+OCR required on page 155
+OCR required on page 156
+OCR required on page 157
+OCR required on page 158
+OCR required on page 159
+OCR required on page 160
+OCR required on page 161
+OCR required on page 162
+OCR required on page 163
+OCR required on page 164
+OCR required on page 165
+OCR required on page 166
+OCR required on page 167
+OCR required on page 168
+OCR required on page 169
+OCR required on page 170
+OCR required on page 171
+OCR required on page 172
+OCR required on page 173
+OCR required on page 174
+OCR required on page 175
+OCR required on page 176
+OCR required on page 177
+OCR required on page 178
+OCR required on page 179
+OCR required on page 180
+OCR required on page 181
+OCR required on page 182
+OCR required on page 183
+OCR required on page 184
+OCR required on page 185
+OCR required on page 186
+OCR required on page 187
+OCR required on page 188
+OCR required on page 189
+OCR required on page 190
+OCR required on page 191
+OCR required on page 192
+OCR required on page 193
+OCR required on page 194
+OCR required on page 195
+OCR required on page 196
+OCR required on page 197
+OCR required on page 198
+OCR required on page 199
+OCR required on page 200
+OCR required on page 201
+OCR required on page 202
+OCR required on page 203
+OCR required on page 204
+OCR required on page 205
+OCR required on page 206
+OCR required on page 207
+OCR required on page 208
+OCR required on page 209
+OCR required on page 210
+OCR required on page 211
+OCR required on page 212
+OCR required on page 213
+OCR required on page 214
+OCR required on page 215
+OCR required on page 216
+OCR required on page 217
+OCR required on page 218
+OCR required on page 219
+OCR required on page 220
+OCR required on page 221
+OCR required on page 222
+OCR required on page 223
+OCR required on page 224
+OCR required on page 225
+OCR required on page 226
+OCR required on page 227
+OCR required on page 228
+OCR required on page 229
+OCR required on page 230
+OCR required on page 231
+OCR required on page 232
+OCR required on page 233
+OCR required on page 234
+OCR required on page 235
+OCR required on page 236
+OCR required on page 237
+OCR required on page 238
+OCR required on page 239
+OCR required on page 240
+OCR required on page 241
+OCR required on page 242
+OCR required on page 243
+OCR required on page 244
+OCR required on page 245
+OCR required on page 246
+OCR required on page 247
+OCR required on page 248
+OCR required on page 249
+OCR required on page 250
+OCR required on page 251
+OCR required on page 252
+OCR required on page 253
+OCR required on page 254
+OCR required on page 255
+OCR required on page 256
+OCR required on page 257
+OCR required on page 258
+OCR required on page 259
+OCR required on page 260
+OCR required on page 261
+OCR required on page 262
+OCR required on page 263
+OCR required on page 264
+OCR required on page 265
+OCR required on page 266
+OCR required on page 267
+OCR required on page 268
+OCR required on page 269
+OCR required on page 270
+OCR required on page 271
+OCR required on page 272
+OCR required on page 273
+OCR required on page 274
+OCR required on page 275
+OCR required on page 276
+OCR required on page 277
+OCR required on page 278
+OCR required on page 279
+OCR required on page 280
+OCR required on page 281
+OCR required on page 282
+OCR required on page 283
+OCR required on page 284
+OCR required on page 285
+OCR required on page 286
+OCR required on page 287
+OCR required on page 288
+OCR required on page 289
+OCR required on page 290
+OCR required on page 291
+OCR required on page 292
+OCR required on page 293
+OCR required on page 294
+OCR required on page 295
+OCR required on page 296
+OCR required on page 297
+OCR required on page 298
+OCR required on page 299
+OCR required on page 300
+OCR required on page 301
+OCR required on page 302
+OCR required on page 303
+OCR required on page 304
+OCR required on page 305
+OCR required on page 306
+OCR required on page 307
+OCR required on page 308
+OCR required on page 309
+OCR required on page 310
+OCR required on page 311
+OCR required on page 312
+OCR required on page 313
+OCR required on page 314
+OCR required on page 315
+OCR required on page 316
+OCR required on page 317
+OCR required on page 318
+OCR required on page 319
+OCR required on page 320
+OCR required on page 321
+OCR required on page 322
+OCR required on page 323
+OCR required on page 324
+OCR required on page 325
+OCR required on page 326
+OCR required on page 327
+OCR required on page 328
+OCR required on page 329
+OCR required on page 330
+OCR required on page 331
+OCR required on page 332
+OCR required on page 333
+OCR required on page 334
+OCR required on page 335
+OCR required on page 336
+OCR required on page 337
+OCR required on page 338
+OCR required on page 339
+OCR required on page 340
+OCR required on page 341
+OCR required on page 342
+OCR required on page 343
+OCR required on page 344
+OCR required on page 345
+OCR required on page 346
+OCR required on page 347
+OCR required on page 348
+OCR required on page 349
+OCR required on page 350
+OCR required on page 351
+OCR required on page 352
+OCR required on page 353
+OCR required on page 354
+OCR required on page 355
+OCR required on page 356
+OCR required on page 357
+OCR required on page 358
+OCR required on page 359
+OCR required on page 360
+OCR required on page 361
+OCR required on page 362
+OCR required on page 363
+OCR required on page 364
+OCR required on page 365
+OCR required on page 366
+OCR required on page 367
+OCR required on page 368
+OCR required on page 369
+OCR required on page 370
+OCR required on page 371
+OCR required on page 372
+OCR required on page 373
+OCR required on page 374
+OCR required on page 375
+OCR required on page 376
+OCR required on page 377
+OCR required on page 378
+OCR required on page 379
+OCR required on page 380
+OCR required on page 381
+OCR required on page 382
+OCR required on page 383
+OCR required on page 384
+OCR required on page 385
+OCR required on page 386
+OCR required on page 387
+OCR required on page 388
+OCR required on page 389
+OCR required on page 390
+OCR required on page 391
+OCR required on page 392
+OCR required on page 393
+OCR required on page 394
+OCR required on page 395
+OCR required on page 396
+OCR required on page 397
+OCR required on page 398
+OCR required on page 399
+OCR required on page 400
+OCR required on page 401
+OCR required on page 402
+OCR required on page 403
+OCR required on page 404
+OCR required on page 405
+OCR required on page 406
+OCR required on page 407
+OCR required on page 408
+OCR required on page 409
+OCR required on page 410
+OCR required on page 411
+OCR required on page 412
+OCR required on page 413
+OCR required on page 414
+OCR required on page 415
+OCR required on page 416
+OCR required on page 417
+OCR required on page 418
+OCR required on page 419
+OCR required on page 420
+OCR required on page 421
+OCR required on page 422
+OCR required on page 423
+OCR required on page 424
+OCR required on page 425
+OCR required on page 426
+OCR required on page 427
+OCR required on page 428
+OCR required on page 429
+OCR required on page 430
+OCR required on page 431
+OCR required on page 432
+OCR required on page 433
+OCR required on page 434
+OCR required on page 435
+OCR required on page 436
+OCR required on page 437
+OCR required on page 438
+OCR required on page 439
+OCR required on page 440
+OCR required on page 441
+OCR required on page 442
+OCR required on page 443
+OCR required on page 444
+OCR required on page 445
+OCR required on page 446
+OCR required on page 447
+OCR required on page 448
+OCR required on page 449
+OCR required on page 450
+OCR required on page 451
+OCR required on page 452
+OCR required on page 453
+OCR required on page 454
+OCR required on page 455
+OCR required on page 456
+OCR required on page 457
+OCR required on page 458
+OCR required on page 459
+OCR required on page 460
+OCR required on page 461
+OCR required on page 462
+OCR required on page 463
+OCR required on page 464
+OCR required on page 465
+OCR required on page 466
+OCR required on page 467
+OCR required on page 468
+OCR required on page 469
+OCR required on page 470
+OCR required on page 471
+OCR required on page 472
+OCR required on page 473
+OCR required on page 474
+OCR required on page 475
+OCR required on page 476
+OCR required on page 477
+OCR required on page 478
+OCR required on page 479
+OCR required on page 480
+OCR required on page 481
+OCR required on page 482
+OCR required on page 483
+OCR required on page 484
+OCR required on page 485
+OCR required on page 486
+OCR required on page 487
+OCR required on page 488
+OCR required on page 489
+OCR required on page 490
+OCR required on page 491
+OCR required on page 492
+OCR required on page 493
+OCR required on page 494
+OCR required on page 495
+OCR required on page 496
+OCR required on page 497
+OCR required on page 498
+OCR required on page 499
+OCR required on page 500
+OCR required on page 501
+OCR required on page 502
+OCR required on page 503
+OCR required on page 504
+OCR required on page 505
+OCR required on page 506
+OCR required on page 507
+OCR required on page 508
+OCR required on page 509
+OCR required on page 510
+OCR required on page 511
+OCR required on page 512
+OCR required on page 513
+OCR required on page 514
+OCR required on page 515
+OCR required on page 516
+OCR required on page 517
+OCR required on page 518
+OCR required on page 519
+OCR required on page 520
+OCR required on page 521
+OCR required on page 522
+OCR required on page 523
+OCR required on page 524
+OCR required on page 525
+OCR required on page 526
+OCR required on page 527
+OCR required on page 528
+OCR required on page 529
+OCR required on page 530
+OCR required on page 531
+OCR required on page 532
+OCR required on page 533
+OCR required on page 534
+OCR required on page 535
+OCR required on page 536
+OCR required on page 537
+OCR required on page 538
+OCR required on page 539
+OCR required on page 540
+OCR required on page 541
+OCR required on page 542
+OCR required on page 543
+OCR required on page 544
+OCR required on page 545
+OCR required on page 546
+OCR required on page 547
+OCR required on page 548
+OCR required on page 549
+OCR required on page 550
+OCR required on page 551
+OCR required on page 552
+OCR required on page 553
+OCR required on page 554
+OCR required on page 555
+OCR required on page 556
+OCR required on page 557
+OCR required on page 558
+OCR required on page 559
+OCR required on page 560
+OCR required on page 561
+OCR required on page 562
+OCR required on page 563
+OCR required on page 564
+OCR required on page 565
+OCR required on page 566
+OCR required on page 567
+OCR required on page 568
+OCR required on page 569
+OCR required on page 570
+OCR required on page 571
+OCR required on page 572
+OCR required on page 573
+OCR required on page 574
+OCR required on page 575
+OCR required on page 576
+OCR required on page 577
+OCR required on page 578
+OCR required on page 579
+OCR required on page 580
+OCR required on page 581
+OCR required on page 582
+OCR required on page 583
+OCR required on page 584
+OCR required on page 585
+OCR required on page 586
+OCR required on page 587
+OCR required on page 588
+OCR required on page 589
+OCR required on page 590
+OCR required on page 591
+OCR required on page 592
+OCR required on page 593
+OCR required on page 594
+OCR required on page 595
+OCR required on page 596
+OCR required on page 597
+OCR required on page 598
+OCR required on page 599
+OCR required on page 600
+OCR required on page 601
+OCR required on page 602
+OCR required on page 603
+OCR required on page 604
+OCR required on page 605
+OCR required on page 606
+OCR required on page 607
+OCR required on page 608
+OCR required on page 609
+OCR required on page 610
+OCR required on page 611
+OCR required on page 612
+OCR required on page 613
+OCR required on page 614
+OCR required on page 615
+OCR required on page 616
+OCR required on page 617
+OCR required on page 618
+OCR required on page 619
+OCR required on page 620
+OCR required on page 621
+OCR required on page 622
+OCR required on page 623
+OCR required on page 624
+OCR required on page 625
+OCR required on page 626
+OCR required on page 627
+OCR required on page 628
+OCR required on page 629
+OCR required on page 630
+OCR required on page 631
+OCR required on page 632
+OCR required on page 633
+OCR required on page 634
+OCR required on page 635
+OCR required on page 636
+OCR required on page 637
+OCR required on page 638
+OCR required on page 639
+OCR required on page 640
+OCR required on page 641
+OCR required on page 642
+OCR required on page 643
+OCR required on page 644
+OCR required on page 645
+OCR required on page 646
+OCR required on page 647
+OCR required on page 648
+OCR required on page 649
+OCR required on page 650
+OCR required on page 651
+OCR required on page 652
+OCR required on page 653
+OCR required on page 654
+OCR required on page 655
+OCR required on page 656
+OCR required on page 657
+OCR required on page 658
+OCR required on page 659
+OCR required on page 660
+OCR required on page 661
+OCR required on page 662
+OCR required on page 663
+OCR required on page 664
+OCR required on page 665
+OCR required on page 666
+OCR required on page 667
+OCR required on page 668
+OCR required on page 669
+OCR required on page 670
+OCR required on page 671
+OCR required on page 672
+OCR required on page 673
+OCR required on page 674
+OCR required on page 675
+OCR required on page 676
+OCR required on page 677
+OCR required on page 678
+OCR required on page 679
+OCR required on page 680
+OCR required on page 681
+OCR required on page 682
+OCR required on page 683
+OCR required on page 684
+OCR required on page 685
+OCR required on page 686
+OCR required on page 687
+OCR required on page 688
+OCR required on page 689
+OCR required on page 690
+OCR required on page 691
+OCR required on page 692
+OCR required on page 693
+OCR required on page 694
+OCR required on page 695
+OCR required on page 696
+OCR required on page 697
+OCR required on page 698
+OCR required on page 699
+OCR required on page 700
+OCR required on page 701
+OCR required on page 702
+OCR required on page 703
+OCR required on page 704
+OCR required on page 705
+OCR required on page 706
+OCR required on page 707
+OCR required on page 708
+OCR required on page 709
+OCR required on page 710
+OCR required on page 711
+OCR required on page 712
+OCR required on page 713
+OCR required on page 714
+OCR required on page 715
+OCR required on page 716
+OCR required on page 717
+OCR required on page 718
+OCR required on page 719
+OCR required on page 720
+OCR required on page 721
+OCR required on page 722
+OCR required on page 723
+OCR required on page 724
+OCR required on page 725
+OCR required on page 726
+OCR required on page 727
+OCR required on page 728
+OCR required on page 729
+OCR required on page 730
+OCR required on page 731
+OCR required on page 732
+OCR required on page 733
+OCR required on page 734
+OCR required on page 735
+OCR required on page 736
+OCR required on page 737
+OCR required on page 738
+OCR required on page 739
+OCR required on page 740
+OCR required on page 741
+OCR required on page 742
+OCR required on page 743
+OCR required on page 744
+OCR required on page 745
+OCR required on page 746
+OCR required on page 747
+OCR required on page 748
+OCR required on page 749
+OCR required on page 750
+OCR required on page 751
+OCR required on page 752
+OCR required on page 753
+OCR required on page 754
+OCR required on page 755
+OCR required on page 756
+OCR required on page 757
+OCR required on page 758
+OCR required on page 759
+OCR required on page 760
+OCR required on page 761
+OCR required on page 762
+OCR required on page 763
+OCR required on page 764
+OCR required on page 765
+OCR required on page 766
+OCR required on page 767
+OCR required on page 768
+OCR required on page 769
+OCR required on page 770
+OCR required on page 771
+OCR required on page 772
+OCR required on page 773
+OCR required on page 774
+OCR required on page 775
+OCR required on page 776
+OCR required on page 777
+OCR required on page 778
+OCR required on page 779
+OCR required on page 780
+OCR required on page 781
+OCR required on page 782
+OCR required on page 783
+OCR required on page 784
+OCR required on page 785
+OCR required on page 786
+OCR required on page 787
+OCR required on page 788
+OCR required on page 789
+OCR required on page 790
+OCR required on page 791
+OCR required on page 792
+OCR required on page 793
+OCR required on page 794
+OCR required on page 795
+OCR required on page 796
+OCR required on page 797
+OCR required on page 798
+OCR required on page 799
+OCR required on page 800
+OCR required on page 801
+OCR required on page 802
+OCR required on page 803
+OCR required on page 804
+OCR required on page 805
+OCR required on page 806
+OCR required on page 807
+OCR required on page 808
+OCR required on page 809
+OCR required on page 810
+OCR required on page 811
+OCR required on page 812
+OCR required on page 813
+OCR required on page 814
+OCR required on page 815
+OCR required on page 816
+OCR required on page 817
+OCR required on page 818
+OCR required on page 819
+OCR required on page 820
+OCR required on page 821
+OCR required on page 822
+OCR required on page 823
+OCR required on page 824
+OCR required on page 825
+OCR required on page 826
+OCR required on page 827
+OCR required on page 828
+OCR required on page 829
+OCR required on page 830
+OCR required on page 831
+OCR required on page 832
+OCR required on page 833
+OCR required on page 834
+OCR required on page 835
+OCR required on page 836
+OCR required on page 837
+OCR required on page 838
+OCR required on page 839
+OCR required on page 840
+OCR required on page 841
+OCR required on page 842
+OCR required on page 843
+OCR required on page 844
+OCR required on page 845
+OCR required on page 846
+OCR required on page 847
+OCR required on page 848
+OCR required on page 849
+OCR required on page 850
+OCR required on page 851
+OCR required on page 852
+OCR required on page 853
+OCR required on page 854
+OCR required on page 855
+OCR required on page 856
+OCR required on page 857
+OCR required on page 858
+OCR required on page 859
+OCR required on page 860
+OCR required on page 861
+OCR required on page 862
+OCR required on page 863
+OCR required on page 864
+OCR required on page 865
+OCR required on page 866
+OCR required on page 867
+OCR required on page 868
+OCR required on page 869
+OCR required on page 870
+OCR required on page 871
+OCR required on page 872
+OCR required on page 873
+OCR required on page 874
+OCR required on page 875
+OCR required on page 876
+OCR required on page 877
+OCR required on page 878
+OCR required on page 879
+OCR required on page 880
+OCR required on page 881
+OCR required on page 882
+OCR required on page 883
+OCR required on page 884
+OCR required on page 885
+OCR required on page 886
+OCR required on page 887
+OCR required on page 888
+OCR required on page 889
+OCR required on page 890
+OCR required on page 891
+OCR required on page 892
+OCR required on page 893
+OCR required on page 894
+OCR required on page 895
+OCR required on page 896
+OCR required on page 897
+OCR required on page 898
+OCR required on page 899
+OCR required on page 900
+OCR required on page 901
+OCR required on page 902
+OCR required on page 903
+OCR required on page 904
+OCR required on page 905
+OCR required on page 906
+OCR required on page 907
+OCR required on page 908
+OCR required on page 909
+OCR required on page 910
+OCR required on page 911
+OCR required on page 912
+OCR required on page 913
+OCR required on page 914
+OCR required on page 915
+OCR required on page 916
+OCR required on page 917
+OCR required on page 918
+OCR required on page 919
+OCR required on page 920
+OCR required on page 921
+OCR required on page 922
+OCR required on page 923
+OCR required on page 924
+OCR required on page 925
+OCR required on page 926
+OCR required on page 927
+OCR required on page 928
+OCR required on page 929
+OCR required on page 930
+OCR required on page 931
+OCR required on page 932
+OCR required on page 933
+OCR required on page 934
+OCR required on page 935
+OCR required on page 936
+OCR required on page 937
+OCR required on page 938
+OCR required on page 939
+OCR required on page 940
+OCR required on page 941
+OCR required on page 942
+OCR required on page 943
+OCR required on page 944
+OCR required on page 945
+OCR required on page 946
+OCR required on page 947
+OCR required on page 948
+OCR required on page 949
+OCR required on page 950
+OCR required on page 951
+OCR required on page 952
+OCR required on page 953
+OCR required on page 954
+OCR required on page 955
+OCR required on page 956
+OCR required on page 957
+OCR required on page 958
+OCR required on page 959
+OCR required on page 960
+OCR required on page 961
+OCR required on page 962
+OCR required on page 963
+OCR required on page 964
+OCR required on page 965
+OCR required on page 966
+OCR required on page 967
+OCR required on page 968
+OCR required on page 969
+OCR required on page 970
+OCR required on page 971
+OCR required on page 972
+OCR required on page 973
+OCR required on page 974
+OCR required on page 975
+OCR required on page 976
+OCR required on page 977
+OCR required on page 978
+OCR required on page 979
+OCR required on page 980
+OCR required on page 981
+OCR required on page 982
+OCR required on page 983
+OCR required on page 984
+OCR required on page 985
+OCR required on page 986
+OCR required on page 987
+OCR required on page 988
+OCR required on page 989
+OCR required on page 990
+OCR required on page 991
+OCR required on page 992
+OCR required on page 993
+OCR required on page 994
+OCR required on page 995
+OCR required on page 996
+OCR required on page 997
+OCR required on page 998
+OCR required on page 999
+OCR required on page 1000
+OCR required on page 1001
+OCR required on page 1002
+OCR required on page 1003
+OCR required on page 1004
+OCR required on page 1005
+OCR required on page 1006
+OCR required on page 1007
+OCR required on page 1008
+OCR required on page 1009
+OCR required on page 1010
+OCR required on page 1011
+OCR required on page 1012
+OCR required on page 1013
+OCR required on page 1014
+OCR required on page 1015
+OCR required on page 1016
+OCR required on page 1017
+OCR required on page 1018
+OCR required on page 1019
+OCR required on page 1020
+OCR required on page 1021
+OCR required on page 1022
+OCR required on page 1023
+OCR required on page 1024
+OCR required on page 1025
+OCR required on page 1026
+OCR required on page 1027
+OCR required on page 1028
+OCR required on page 1029
+OCR required on page 1030
+OCR required on page 1031
+OCR required on page 1032
+OCR required on page 1033
+OCR required on page 1034
+OCR required on page 1035
+OCR required on page 1036
+OCR required on page 1037
+OCR required on page 1038
+OCR required on page 1039
+OCR required on page 1040
+OCR required on page 1041
+OCR required on page 1042
+OCR required on page 1043
+OCR required on page 1044
+OCR required on page 1045
+OCR required on page 1046
+OCR required on page 1047
+OCR required on page 1048
+OCR required on page 1049
+OCR required on page 1050
+OCR required on page 1051
+OCR required on page 1052
+OCR required on page 1053
+OCR required on page 1054
+OCR required on page 1055
+OCR required on page 1056
+OCR required on page 1057
+OCR required on page 1058
+OCR required on page 1059
+OCR required on page 1060
+OCR required on page 1061
+OCR required on page 1062
+OCR required on page 1063
+OCR required on page 1064
+OCR required on page 1065
+OCR required on page 1066
+OCR required on page 1067
+OCR required on page 1068
+OCR required on page 1069
+OCR required on page 1070
+OCR required on page 1071
+OCR required on page 1072
+OCR required on page 1073
+OCR required on page 1074
+OCR required on page 1075
+OCR required on page 1076
+OCR required on page 1077
+OCR required on page 1078
+OCR required on page 1079
+OCR required on page 1080
+OCR required on page 1081
+OCR required on page 1082
+OCR required on page 1083
+OCR required on page 1084
+OCR required on page 1085
+OCR required on page 1086
+OCR required on page 1087
+OCR required on page 1088
+OCR required on page 1089
+OCR required on page 1090
+OCR required on page 1091
+OCR required on page 1092
+OCR required on page 1093
+OCR required on page 1094
+OCR required on page 1095
+OCR required on page 1096
+OCR required on page 1097
+OCR required on page 1098
+OCR required on page 1099
+OCR required on page 1100
+OCR required on page 1101
+OCR required on page 1102
+OCR required on page 1103
+OCR required on page 1104
+OCR required on page 1105
+OCR required on page 1106
+OCR required on page 1107
+OCR required on page 1108
+OCR required on page 1109
+OCR required on page 1110
+OCR required on page 1111
+OCR required on page 1112
+OCR required on page 1113
+OCR required on page 1114
+OCR required on page 1115
+OCR required on page 1116
+OCR required on page 1117
+OCR required on page 1118
+OCR required on page 1119
+OCR required on page 1120
+OCR required on page 1121
+OCR required on page 1122
+OCR required on page 1123
+OCR required on page 1124
+OCR required on page 1125
+OCR required on page 1126
+OCR required on page 1127
+OCR required on page 1128
+OCR required on page 1129
+OCR required on page 1130
+OCR required on page 1131
+OCR required on page 1132
+Pages extracted: 1129
+Chunks created: 3813
+Average tokens: 299.95
+Minimum tokens: 99
+Maximum tokens: 300
+
+Generating embeddings...
+Batches:   0%|          | 0/120 [00:00<?, ?it/s]Batches:   1%|          | 1/120 [00:01<02:15,  1.14s/it]Batches:   2%|▏         | 2/120 [00:02<02:24,  1.22s/it]Batches:   2%|▎         | 3/120 [00:03<02:21,  1.21s/it]Batches:   3%|▎         | 4/120 [00:04<02:13,  1.15s/it]Batches:   4%|▍         | 5/120 [00:05<02:08,  1.12s/it]Batches:   5%|▌         | 6/120 [00:06<02:08,  1.12s/it]Batches:   6%|▌         | 7/120 [00:08<02:07,  1.13s/it]Batches:   7%|▋         | 8/120 [00:09<02:02,  1.09s/it]Batches:   8%|▊         | 9/120 [00:10<02:04,  1.12s/it]Batches:   8%|▊         | 10/120 [00:11<02:01,  1.11s/it]Batches:   9%|▉         | 11/120 [00:12<02:00,  1.11s/it]Batches:  10%|█         | 12/120 [00:13<01:58,  1.09s/it]Batches:  11%|█         | 13/120 [00:14<02:01,  1.13s/it]Batches:  12%|█▏        | 14/120 [00:15<01:58,  1.12s/it]Batches:  12%|█▎        | 15/120 [00:16<01:57,  1.12s/it]Batches:  13%|█▎        | 16/120 [00:17<01:55,  1.11s/it]Batches:  14%|█▍        | 17/120 [00:19<01:55,  1.12s/it]Batches:  15%|█▌        | 18/120 [00:20<01:53,  1.11s/it]Batches:  16%|█▌        | 19/120 [00:21<01:51,  1.10s/it]Batches:  17%|█▋        | 20/120 [00:22<01:49,  1.09s/it]Batches:  18%|█▊        | 21/120 [00:23<01:47,  1.09s/it]Batches:  18%|█▊        | 22/120 [00:24<01:47,  1.10s/it]Batches:  19%|█▉        | 23/120 [00:25<01:45,  1.08s/it]Batches:  20%|██        | 24/120 [00:26<01:41,  1.06s/it]Batches:  21%|██        | 25/120 [00:27<01:41,  1.07s/it]Batches:  22%|██▏       | 26/120 [00:28<01:40,  1.07s/it]Batches:  22%|██▎       | 27/120 [00:29<01:39,  1.07s/it]Batches:  23%|██▎       | 28/120 [00:30<01:37,  1.06s/it]Batches:  24%|██▍       | 29/120 [00:32<01:38,  1.08s/it]Batches:  25%|██▌       | 30/120 [00:33<01:39,  1.10s/it]Batches:  26%|██▌       | 31/120 [00:34<01:38,  1.11s/it]Batches:  27%|██▋       | 32/120 [00:35<01:37,  1.11s/it]Batches:  28%|██▊       | 33/120 [00:36<01:36,  1.11s/it]Batches:  28%|██▊       | 34/120 [00:37<01:36,  1.12s/it]Batches:  29%|██▉       | 35/120 [00:38<01:36,  1.13s/it]Batches:  30%|███       | 36/120 [00:39<01:35,  1.14s/it]Batches:  31%|███       | 37/120 [00:41<01:33,  1.13s/it]Batches:  32%|███▏      | 38/120 [00:42<01:32,  1.13s/it]Batches:  32%|███▎      | 39/120 [00:43<01:30,  1.11s/it]Batches:  33%|███▎      | 40/120 [00:44<01:31,  1.15s/it]Batches:  34%|███▍      | 41/120 [00:45<01:31,  1.16s/it]Batches:  35%|███▌      | 42/120 [00:46<01:29,  1.14s/it]Batches:  36%|███▌      | 43/120 [00:47<01:26,  1.12s/it]Batches:  37%|███▋      | 44/120 [00:48<01:24,  1.11s/it]Batches:  38%|███▊      | 45/120 [00:50<01:26,  1.15s/it]Batches:  38%|███▊      | 46/120 [00:51<01:24,  1.14s/it]Batches:  39%|███▉      | 47/120 [00:52<01:23,  1.14s/it]Batches:  40%|████      | 48/120 [00:53<01:21,  1.13s/it]Batches:  41%|████      | 49/120 [00:54<01:19,  1.12s/it]Batches:  42%|████▏     | 50/120 [00:55<01:19,  1.13s/it]Batches:  42%|████▎     | 51/120 [00:57<01:19,  1.15s/it]Batches:  43%|████▎     | 52/120 [00:58<01:20,  1.18s/it]Batches:  44%|████▍     | 53/120 [00:59<01:20,  1.20s/it]Batches:  45%|████▌     | 54/120 [01:00<01:19,  1.21s/it]Batches:  46%|████▌     | 55/120 [01:02<01:20,  1.24s/it]Batches:  47%|████▋     | 56/120 [01:03<01:17,  1.21s/it]Batches:  48%|████▊     | 57/120 [01:04<01:15,  1.19s/it]Batches:  48%|████▊     | 58/120 [01:05<01:15,  1.22s/it]Batches:  49%|████▉     | 59/120 [01:06<01:14,  1.22s/it]Batches:  50%|█████     | 60/120 [01:08<01:13,  1.22s/it]Batches:  51%|█████     | 61/120 [01:09<01:13,  1.24s/it]Batches:  52%|█████▏    | 62/120 [01:10<01:11,  1.23s/it]Batches:  52%|█████▎    | 63/120 [01:11<01:09,  1.22s/it]Batches:  53%|█████▎    | 64/120 [01:13<01:08,  1.22s/it]Batches:  54%|█████▍    | 65/120 [01:14<01:07,  1.23s/it]Batches:  55%|█████▌    | 66/120 [01:15<01:06,  1.23s/it]Batches:  56%|█████▌    | 67/120 [01:16<01:05,  1.23s/it]Batches:  57%|█████▋    | 68/120 [01:17<01:03,  1.22s/it]Batches:  57%|█████▊    | 69/120 [01:19<01:03,  1.24s/it]Batches:  58%|█████▊    | 70/120 [01:20<01:02,  1.25s/it]Batches:  59%|█████▉    | 71/120 [01:21<01:02,  1.28s/it]Batches:  60%|██████    | 72/120 [01:23<01:00,  1.27s/it]Batches:  61%|██████    | 73/120 [01:24<01:00,  1.29s/it]Batches:  62%|██████▏   | 74/120 [01:25<00:58,  1.27s/it]Batches:  62%|██████▎   | 75/120 [01:26<00:55,  1.24s/it]Batches:  63%|██████▎   | 76/120 [01:28<00:54,  1.25s/it]Batches:  64%|██████▍   | 77/120 [01:29<00:54,  1.27s/it]Batches:  65%|██████▌   | 78/120 [01:30<00:52,  1.25s/it]Batches:  66%|██████▌   | 79/120 [01:31<00:50,  1.24s/it]Batches:  67%|██████▋   | 80/120 [01:32<00:48,  1.21s/it]Batches:  68%|██████▊   | 81/120 [01:34<00:46,  1.19s/it]Batches:  68%|██████▊   | 82/120 [01:35<00:45,  1.20s/it]Batches:  69%|██████▉   | 83/120 [01:36<00:44,  1.21s/it]Batches:  70%|███████   | 84/120 [01:37<00:44,  1.22s/it]Batches:  71%|███████   | 85/120 [01:39<00:43,  1.24s/it]Batches:  72%|███████▏  | 86/120 [01:40<00:41,  1.24s/it]Batches:  72%|███████▎  | 87/120 [01:41<00:40,  1.23s/it]Batches:  73%|███████▎  | 88/120 [01:42<00:38,  1.19s/it]Batches:  74%|███████▍  | 89/120 [01:43<00:37,  1.20s/it]Batches:  75%|███████▌  | 90/120 [01:44<00:35,  1.19s/it]Batches:  76%|███████▌  | 91/120 [01:46<00:34,  1.19s/it]Batches:  77%|███████▋  | 92/120 [01:47<00:33,  1.21s/it]Batches:  78%|███████▊  | 93/120 [01:48<00:32,  1.20s/it]Batches:  78%|███████▊  | 94/120 [01:49<00:31,  1.22s/it]Batches:  79%|███████▉  | 95/120 [01:51<00:30,  1.21s/it]Batches:  80%|████████  | 96/120 [01:52<00:29,  1.22s/it]Batches:  81%|████████  | 97/120 [01:53<00:27,  1.20s/it]Batches:  82%|████████▏ | 98/120 [01:54<00:26,  1.20s/it]Batches:  82%|████████▎ | 99/120 [01:55<00:25,  1.20s/it]Batches:  83%|████████▎ | 100/120 [01:57<00:23,  1.19s/it]Batches:  84%|████████▍ | 101/120 [01:58<00:22,  1.17s/it]Batches:  85%|████████▌ | 102/120 [01:59<00:21,  1.17s/it]Batches:  86%|████████▌ | 103/120 [02:00<00:19,  1.16s/it]Batches:  87%|████████▋ | 104/120 [02:01<00:18,  1.13s/it]Batches:  88%|████████▊ | 105/120 [02:02<00:16,  1.13s/it]Batches:  88%|████████▊ | 106/120 [02:03<00:15,  1.12s/it]Batches:  89%|████████▉ | 107/120 [02:04<00:14,  1.11s/it]Batches:  90%|█████████ | 108/120 [02:06<00:13,  1.15s/it]Batches:  91%|█████████ | 109/120 [02:07<00:12,  1.12s/it]Batches:  92%|█████████▏| 110/120 [02:08<00:11,  1.12s/it]Batches:  92%|█████████▎| 111/120 [02:09<00:09,  1.11s/it]Batches:  93%|█████████▎| 112/120 [02:10<00:08,  1.12s/it]Batches:  94%|█████████▍| 113/120 [02:11<00:07,  1.08s/it]Batches:  95%|█████████▌| 114/120 [02:12<00:06,  1.09s/it]Batches:  96%|█████████▌| 115/120 [02:13<00:05,  1.09s/it]Batches:  97%|█████████▋| 116/120 [02:14<00:04,  1.08s/it]Batches:  98%|█████████▊| 117/120 [02:15<00:03,  1.08s/it]Batches:  98%|█████████▊| 118/120 [02:16<00:02,  1.07s/it]Batches:  99%|█████████▉| 119/120 [02:17<00:01,  1.06s/it]Batches: 100%|██████████| 120/120 [02:18<00:00,  1.26it/s]Batches: 100%|██████████| 120/120 [02:18<00:00,  1.15s/it]
+Successfully stored 3813 chunks!
+Successfully ingested RBI_Bulletin_1975.pdf
+
+============================================================
+Processing: RBI_Bulletin_February_1952.pdf
+============================================================
+Extracting PDF text...
+Pages extracted: 76
+Chunks created: 377
+Average tokens: 299.76
+Minimum tokens: 208
+Maximum tokens: 300
+
+Generating embeddings...
+Batches:   0%|          | 0/12 [00:00<?, ?it/s]Batches:   8%|▊         | 1/12 [00:01<00:11,  1.04s/it]Batches:  17%|█▋        | 2/12 [00:02<00:11,  1.18s/it]Batches:  25%|██▌       | 3/12 [00:03<00:10,  1.13s/it]Batches:  33%|███▎      | 4/12 [00:04<00:08,  1.12s/it]Batches:  42%|████▏     | 5/12 [00:05<00:07,  1.04s/it]Batches:  50%|█████     | 6/12 [00:06<00:06,  1.02s/it]Batches:  58%|█████▊    | 7/12 [00:07<00:05,  1.02s/it]Batches:  67%|██████▋   | 8/12 [00:08<00:04,  1.01s/it]Batches:  75%|███████▌  | 9/12 [00:09<00:03,  1.09s/it]Batches:  83%|████████▎ | 10/12 [00:10<00:02,  1.09s/it]Batches:  92%|█████████▏| 11/12 [00:11<00:01,  1.09s/it]Batches: 100%|██████████| 12/12 [00:12<00:00,  1.04s/it]Batches: 100%|██████████| 12/12 [00:12<00:00,  1.06s/it]
+Successfully stored 377 chunks!
+Successfully ingested RBI_Bulletin_February_1952.pdf
+
+============================================================
+Processing: RBI_Bulletin_January_1952.pdf
+============================================================
+Extracting PDF text...
+Pages extracted: 92
+Chunks created: 457
+Average tokens: 300.0
+Minimum tokens: 300
+Maximum tokens: 300
+
+Generating embeddings...
+Batches:   0%|          | 0/15 [00:00<?, ?it/s]Batches:   7%|▋         | 1/15 [00:01<00:15,  1.14s/it]Batches:  13%|█▎        | 2/15 [00:02<00:15,  1.20s/it]Batches:  20%|██        | 3/15 [00:03<00:13,  1.17s/it]Batches:  27%|██▋       | 4/15 [00:04<00:12,  1.11s/it]Batches:  33%|███▎      | 5/15 [00:05<00:10,  1.10s/it]Batches:  40%|████      | 6/15 [00:06<00:10,  1.15s/it]Batches:  47%|████▋     | 7/15 [00:07<00:08,  1.08s/it]Batches:  53%|█████▎    | 8/15 [00:08<00:07,  1.04s/it]Batches:  60%|██████    | 9/15 [00:09<00:06,  1.04s/it]Batches:  67%|██████▋   | 10/15 [00:10<00:05,  1.05s/it]Batches:  73%|███████▎  | 11/15 [00:11<00:04,  1.07s/it]Batches:  80%|████████  | 12/15 [00:13<00:03,  1.11s/it]Batches:  87%|████████▋ | 13/15 [00:14<00:02,  1.11s/it]Batches:  93%|█████████▎| 14/15 [00:15<00:01,  1.11s/it]Batches: 100%|██████████| 15/15 [00:15<00:00,  1.14it/s]Batches: 100%|██████████| 15/15 [00:15<00:00,  1.05s/it]
+Successfully stored 457 chunks!
+Successfully ingested RBI_Bulletin_January_1952.pdf
+
+============================================================
+Processing: RBI_Bulletin_March_1952.pdf
+============================================================
+Extracting PDF text...
+Pages extracted: 90
+Chunks created: 461
+Average tokens: 299.66
+Minimum tokens: 141
+Maximum tokens: 300
+
+Generating embeddings...
+Batches:   0%|          | 0/15 [00:00<?, ?it/s]Batches:   7%|▋         | 1/15 [00:01<00:15,  1.12s/it]Batches:  13%|█▎        | 2/15 [00:02<00:15,  1.19s/it]Batches:  20%|██        | 3/15 [00:03<00:14,  1.18s/it]Batches:  27%|██▋       | 4/15 [00:04<00:12,  1.15s/it]Batches:  33%|███▎      | 5/15 [00:05<00:11,  1.14s/it]Batches:  40%|████      | 6/15 [00:07<00:10,  1.18s/it]Batches:  47%|████▋     | 7/15 [00:07<00:08,  1.12s/it]Batches:  53%|█████▎    | 8/15 [00:09<00:07,  1.10s/it]Batches:  60%|██████    | 9/15 [00:10<00:06,  1.08s/it]Batches:  67%|██████▋   | 10/15 [00:11<00:05,  1.07s/it]Batches:  73%|███████▎  | 11/15 [00:12<00:04,  1.08s/it]Batches:  80%|████████  | 12/15 [00:13<00:03,  1.08s/it]Batches:  87%|████████▋ | 13/15 [00:14<00:02,  1.09s/it]Batches:  93%|█████████▎| 14/15 [00:15<00:01,  1.09s/it]Batches: 100%|██████████| 15/15 [00:15<00:00,  1.14it/s]Batches: 100%|██████████| 15/15 [00:15<00:00,  1.06s/it]
+Successfully stored 461 chunks!
+Successfully ingested RBI_Bulletin_March_1952.pdf
+
+============================================================
+Processing: RBI_Bulletin_November_1951.pdf
+============================================================
+Extracting PDF text...
+OCR required on page 1
+OCR required on page 2
+OCR required on page 3
+OCR required on page 4
+OCR required on page 5
+OCR required on page 6
+OCR required on page 7
+OCR required on page 8
+OCR required on page 9
+OCR required on page 10
+OCR required on page 11
+OCR required on page 12
+OCR required on page 13
+OCR required on page 14
+OCR required on page 15
+OCR required on page 16
+OCR required on page 17
+OCR required on page 18
+OCR required on page 19
+OCR required on page 20
+OCR required on page 21
+OCR required on page 22
+OCR required on page 23
+OCR required on page 24
+OCR required on page 25
+OCR required on page 26
+OCR required on page 27
+OCR required on page 28
+OCR required on page 29
+OCR required on page 30
+OCR required on page 31
+OCR required on page 32
+OCR required on page 33
+OCR required on page 34
+OCR required on page 35
+OCR required on page 36
+OCR required on page 37
+OCR required on page 38
+OCR required on page 39
+OCR required on page 40
+OCR required on page 41
+OCR required on page 42
+OCR required on page 43
+OCR required on page 44
+OCR required on page 45
+OCR required on page 46
+OCR required on page 47
+OCR required on page 48
+OCR required on page 49
+OCR required on page 50
+OCR required on page 51
+OCR required on page 52
+OCR required on page 53
+OCR required on page 54
+OCR required on page 55
+OCR required on page 56
+OCR required on page 57
+OCR required on page 58
+OCR required on page 59
+OCR required on page 60
+OCR required on page 61
+OCR required on page 62
+OCR required on page 63
+OCR required on page 64
+OCR required on page 65
+OCR required on page 66
+OCR required on page 67
+OCR required on page 68
+OCR required on page 69
+OCR required on page 70
+OCR required on page 71
+OCR required on page 72
+OCR required on page 73
+OCR required on page 74
+OCR required on page 75
+OCR required on page 76
+Pages extracted: 76
+Chunks created: 423
+Average tokens: 299.7
+Minimum tokens: 172
+Maximum tokens: 300
+
+Generating embeddings...
+Batches:   0%|          | 0/14 [00:00<?, ?it/s]Batches:   7%|▋         | 1/14 [00:01<00:13,  1.03s/it]Batches:  14%|█▍        | 2/14 [00:02<00:12,  1.04s/it]Batches:  21%|██▏       | 3/14 [00:03<00:11,  1.07s/it]Batches:  29%|██▊       | 4/14 [00:04<00:10,  1.05s/it]Batches:  36%|███▌      | 5/14 [00:05<00:09,  1.01s/it]Batches:  43%|████▎     | 6/14 [00:06<00:08,  1.01s/it]Batches:  50%|█████     | 7/14 [00:07<00:07,  1.02s/it]Batches:  57%|█████▋    | 8/14 [00:08<00:06,  1.04s/it]Batches:  64%|██████▍   | 9/14 [00:09<00:05,  1.05s/it]Batches:  71%|███████▏  | 10/14 [00:10<00:04,  1.08s/it]Batches:  79%|███████▊  | 11/14 [00:11<00:03,  1.07s/it]Batches:  86%|████████▌ | 12/14 [00:12<00:02,  1.02s/it]Batches:  93%|█████████▎| 13/14 [00:13<00:01,  1.00s/it]Batches: 100%|██████████| 14/14 [00:13<00:00,  1.33it/s]Batches: 100%|██████████| 14/14 [00:13<00:00,  1.03it/s]
+Successfully stored 423 chunks!
+Successfully ingested RBI_Bulletin_November_1951.pdf
+
+============================================================
+Processing: RBI_Report_Currency_Finance_1959_60.pdf
+============================================================
+Extracting PDF text...
+OCR required on page 1
+OCR required on page 2
+OCR required on page 3
+OCR required on page 4
+OCR required on page 5
+OCR required on page 6
+OCR required on page 7
+OCR required on page 8
+OCR required on page 9
+OCR required on page 10
+OCR required on page 11
+OCR required on page 12
+OCR required on page 13
+OCR required on page 14
+OCR required on page 15
+OCR required on page 16
+OCR required on page 17
+OCR required on page 18
+OCR required on page 19
+OCR required on page 20
+OCR required on page 21
+OCR required on page 22
+OCR required on page 23
+OCR required on page 24
+OCR required on page 25
+OCR required on page 26
+OCR required on page 27
+OCR required on page 28
+OCR required on page 29
+OCR required on page 30
+OCR required on page 31
+OCR required on page 32
+OCR required on page 33
+OCR required on page 34
+OCR required on page 35
+OCR required on page 36
+OCR required on page 37
+OCR required on page 38
+OCR required on page 39
+OCR required on page 40
+OCR required on page 41
+OCR required on page 42
+OCR required on page 43
+OCR required on page 44
+OCR required on page 45
+OCR required on page 46
+OCR required on page 47
+OCR required on page 48
+OCR required on page 49
+OCR required on page 50
+OCR required on page 51
+OCR required on page 52
+OCR required on page 53
+OCR required on page 54
+OCR required on page 55
+OCR required on page 56
+OCR required on page 57
+OCR required on page 58
+OCR required on page 59
+OCR required on page 60
+OCR required on page 61
+OCR required on page 62
+OCR required on page 63
+OCR required on page 64
+OCR required on page 65
+OCR required on page 66
+OCR required on page 67
+OCR required on page 68
+OCR required on page 69
+OCR required on page 70
+OCR required on page 71
+OCR required on page 72
+OCR required on page 73
+OCR required on page 74
+OCR required on page 75
+OCR required on page 76
+OCR required on page 77
+OCR required on page 78
+OCR required on page 79
+OCR required on page 80
+OCR required on page 81
+OCR required on page 82
+OCR required on page 83
+OCR required on page 84
+OCR required on page 85
+OCR required on page 86
+OCR required on page 87
+OCR required on page 88
+OCR required on page 89
+OCR required on page 90
+OCR required on page 91
+OCR required on page 92
+OCR required on page 93
+OCR required on page 94
+OCR required on page 95
+OCR required on page 96
+OCR required on page 97
+OCR required on page 98
+OCR required on page 99
+OCR required on page 100
+OCR required on page 101
+OCR required on page 102
+OCR required on page 103
+OCR required on page 104
+OCR required on page 105
+OCR required on page 106
+OCR required on page 107
+OCR required on page 108
+OCR required on page 109
+OCR required on page 110
+OCR required on page 111
+OCR required on page 112
+OCR required on page 113
+OCR required on page 114
+OCR required on page 115
+OCR required on page 116
+OCR required on page 117
+OCR required on page 118
+OCR required on page 119
+OCR required on page 120
+OCR required on page 121
+OCR required on page 122
+OCR required on page 123
+OCR required on page 124
+OCR required on page 125
+OCR required on page 126
+OCR required on page 127
+OCR required on page 128
+OCR required on page 129
+OCR required on page 130
+OCR required on page 131
+OCR required on page 132
+OCR required on page 133
+OCR required on page 134
+OCR required on page 135
+OCR required on page 136
+OCR required on page 137
+OCR required on page 138
+OCR required on page 139
+OCR required on page 140
+OCR required on page 141
+OCR required on page 142
+OCR required on page 143
+OCR required on page 144
+OCR required on page 145
+OCR required on page 146
+OCR required on page 147
+OCR required on page 148
+OCR required on page 149
+OCR required on page 150
+OCR required on page 151
+OCR required on page 152
+OCR required on page 153
+OCR required on page 154
+OCR required on page 155
+OCR required on page 156
+OCR required on page 157
+OCR required on page 158
+OCR required on page 159
+OCR required on page 160
+OCR required on page 161
+OCR required on page 162
+OCR required on page 163
+OCR required on page 164
+OCR required on page 165
+OCR required on page 166
+OCR required on page 167
+OCR required on page 168
+OCR required on page 169
+OCR required on page 170
+OCR required on page 171
+OCR required on page 172
+OCR required on page 173
+OCR required on page 174
+OCR required on page 175
+OCR required on page 176
+OCR required on page 177
+OCR required on page 178
+OCR required on page 179
+OCR required on page 180
+OCR required on page 181
+OCR required on page 182
+OCR required on page 183
+OCR required on page 184
+OCR required on page 185
+OCR required on page 186
+OCR required on page 187
+OCR required on page 188
+OCR required on page 189
+OCR required on page 190
+OCR required on page 191
+OCR required on page 192
+OCR required on page 193
+OCR required on page 194
+OCR required on page 195
+OCR required on page 196
+OCR required on page 197
+OCR required on page 198
+OCR required on page 199
+OCR required on page 200
+OCR required on page 201
+OCR required on page 202
+OCR required on page 203
+OCR required on page 204
+OCR required on page 205
+OCR required on page 206
+OCR required on page 207
+OCR required on page 208
+OCR required on page 209
+OCR required on page 210
+OCR required on page 211
+OCR required on page 212
+OCR required on page 213
+OCR required on page 214
+OCR required on page 215
+OCR required on page 216
+OCR required on page 217
+OCR required on page 218
+OCR required on page 219
+OCR required on page 220
+OCR required on page 221
+OCR required on page 222
+OCR required on page 223
+OCR required on page 224
+OCR required on page 225
+OCR required on page 226
+OCR required on page 227
+OCR required on page 228
+OCR required on page 229
+OCR required on page 230
+OCR required on page 231
+OCR required on page 232
+OCR required on page 233
+OCR required on page 234
+OCR required on page 235
+OCR required on page 236
+OCR required on page 237
+OCR required on page 238
+OCR required on page 239
+OCR required on page 240
+OCR required on page 241
+OCR required on page 242
+OCR required on page 243
+OCR required on page 244
+OCR required on page 245
+OCR required on page 246
+OCR required on page 247
+OCR required on page 248
+OCR required on page 249
+OCR required on page 250
+OCR required on page 251
+OCR required on page 252
+OCR required on page 253
+OCR required on page 254
+OCR required on page 255
+OCR required on page 256
+OCR required on page 257
+OCR required on page 258
+OCR required on page 259
+OCR required on page 260
+OCR required on page 261
+OCR required on page 262
+OCR required on page 263
+OCR required on page 264
+OCR required on page 265
+OCR required on page 266
+OCR required on page 267
+OCR required on page 268
+OCR required on page 269
+OCR required on page 270
+OCR required on page 271
+OCR required on page 272
+OCR required on page 273
+OCR required on page 274
+OCR required on page 275
+OCR required on page 276
+OCR required on page 277
+OCR required on page 278
+OCR required on page 279
+OCR required on page 280
+OCR required on page 281
+OCR required on page 282
+OCR required on page 283
+OCR required on page 284
+OCR required on page 285
+OCR required on page 286
+OCR required on page 287
+OCR required on page 288
+OCR required on page 289
+OCR required on page 290
+OCR required on page 291
+OCR required on page 292
+OCR required on page 293
+OCR required on page 294
+OCR required on page 295
+OCR required on page 296
+OCR required on page 297
+OCR required on page 298
+OCR required on page 299
+OCR required on page 300
+OCR required on page 301
+OCR required on page 302
+OCR required on page 303
+OCR required on page 304
+OCR required on page 305
+OCR required on page 306
+OCR required on page 307
+Pages extracted: 307
+Chunks created: 1107
+Average tokens: 299.83
+Minimum tokens: 117
+Maximum tokens: 300
+
+Generating embeddings...
+Batches:   0%|          | 0/35 [00:00<?, ?it/s]Batches:   3%|▎         | 1/35 [00:01<00:42,  1.25s/it]Batches:   6%|▌         | 2/35 [00:02<00:33,  1.01s/it]Batches:   9%|▊         | 3/35 [00:02<00:29,  1.10it/s]Batches:  11%|█▏        | 4/35 [00:04<00:38,  1.25s/it]Batches:  14%|█▍        | 5/35 [17:02<3:03:52, 367.74s/it]Batches:  17%|█▋        | 6/35 [17:03<1:57:27, 243.01s/it]Batches:  20%|██        | 7/35 [17:03<1:16:26, 163.81s/it]Batches:  23%|██▎       | 8/35 [17:05<50:26, 112.10s/it]  Batches:  26%|██▌       | 9/35 [32:29<2:38:38, 366.11s/it]Batches:  29%|██▊       | 10/35 [32:30<1:45:34, 253.40s/it]Batches:  31%|███▏      | 11/35 [32:31<1:10:24, 176.04s/it]Batches:  34%|███▍      | 12/35 [32:32<47:03, 122.77s/it]  Batches:  37%|███▋      | 13/35 [43:05<1:41:40, 277.29s/it]Batches:  40%|████      | 14/35 [43:06<1:07:49, 193.80s/it]Batches:  43%|████▎     | 15/35 [43:06<45:12, 135.61s/it]  Batches:  46%|████▌     | 16/35 [43:09<30:17, 95.67s/it] Batches:  49%|████▊     | 17/35 [43:11<20:13, 67.42s/it]Batches:  51%|█████▏    | 18/35 [43:13<13:31, 47.74s/it]Batches:  54%|█████▍    | 19/35 [43:15<09:03, 33.99s/it]Batches:  57%|█████▋    | 20/35 [43:17<06:05, 24.37s/it]Batches:  60%|██████    | 21/35 [43:19<04:07, 17.66s/it]Batches:  63%|██████▎   | 22/35 [43:21<02:48, 12.97s/it]Batches:  66%|██████▌   | 23/35 [43:23<01:56,  9.67s/it]Batches:  69%|██████▊   | 24/35 [43:25<01:20,  7.33s/it]Batches:  71%|███████▏  | 25/35 [43:27<00:56,  5.69s/it]Batches:  74%|███████▍  | 26/35 [43:29<00:40,  4.55s/it]Batches:  77%|███████▋  | 27/35 [43:30<00:29,  3.74s/it]Batches:  80%|████████  | 28/35 [43:32<00:22,  3.19s/it]Batches:  83%|████████▎ | 29/35 [43:34<00:16,  2.79s/it]Batches:  86%|████████▌ | 30/35 [43:36<00:12,  2.55s/it]Batches:  89%|████████▊ | 31/35 [43:38<00:09,  2.33s/it]Batches:  91%|█████████▏| 32/35 [43:40<00:06,  2.24s/it]Batches:  94%|█████████▍| 33/35 [43:42<00:04,  2.06s/it]Batches:  97%|█████████▋| 34/35 [43:43<00:01,  1.91s/it]Batches: 100%|██████████| 35/35 [43:44<00:00,  1.61s/it]Batches: 100%|██████████| 35/35 [43:44<00:00, 74.99s/it]
+Successfully stored 1107 chunks!
+Successfully ingested RBI_Report_Currency_Finance_1959_60.pdf
+
+============================================================
+Processing: RBI_Statistical_Tables_Bank_CRAR_2024_25.pdf
+============================================================
+Extracting PDF text...
+Pages extracted: 174
+Chunks created: 270
+Average tokens: 299.83
+Minimum tokens: 253
+Maximum tokens: 300
+
+Generating embeddings...
+Batches:   0%|          | 0/9 [00:00<?, ?it/s]Batches:  11%|█         | 1/9 [00:02<00:21,  2.69s/it]Batches:  22%|██▏       | 2/9 [00:04<00:15,  2.18s/it]Batches:  33%|███▎      | 3/9 [00:05<00:10,  1.75s/it]Batches:  44%|████▍     | 4/9 [17:13<33:54, 406.97s/it]Batches:  56%|█████▌    | 5/9 [17:14<17:21, 260.46s/it]Batches:  67%|██████▋   | 6/9 [17:15<08:36, 172.15s/it]Batches:  78%|███████▊  | 7/9 [17:16<03:52, 116.36s/it]Batches:  89%|████████▉ | 8/9 [33:08<06:22, 382.18s/it]Batches: 100%|██████████| 9/9 [33:08<00:00, 262.86s/it]Batches: 100%|██████████| 9/9 [33:08<00:00, 220.96s/it]
+Successfully stored 270 chunks!
+Successfully ingested RBI_Statistical_Tables_Bank_CRAR_2024_25.pdf
+
+============================================================
+Processing: RBI_Statistical_Tables_Bank_Earnings_Expenses_2024_25.pdf
+============================================================
+Extracting PDF text...
+Pages extracted: 1038
+Chunks created: 2005
+Average tokens: 299.95
+Minimum tokens: 201
+Maximum tokens: 300
+
+Generating embeddings...
+Batches:   0%|          | 0/63 [00:00<?, ?it/s]Batches:   2%|▏         | 1/63 [00:00<00:45,  1.35it/s]Batches:   3%|▎         | 2/63 [00:02<01:08,  1.12s/it]Batches:   5%|▍         | 3/63 [16:52<7:41:48, 461.82s/it]Batches:   6%|▋         | 4/63 [16:53<4:35:14, 279.90s/it]Batches:   8%|▊         | 5/63 [16:53<2:53:11, 179.16s/it]Batches:  10%|▉         | 6/63 [16:54<1:52:33, 118.48s/it]Batches:  11%|█         | 7/63 [16:55<1:14:48, 80.15s/it] Batches:  13%|█▎        | 8/63 [27:09<3:49:04, 249.90s/it]Batches:  14%|█▍        | 9/63 [27:10<2:34:53, 172.10s/it]Batches:  16%|█▌        | 10/63 [27:10<1:45:14, 119.15s/it]Batches:  17%|█▋        | 11/63 [27:11<1:11:48, 82.87s/it] Batches:  19%|█▉        | 12/63 [27:12<49:16, 57.97s/it]  Batches:  21%|██        | 13/63 [27:15<34:26, 41.33s/it]Batches:  22%|██▏       | 14/63 [27:16<23:53, 29.25s/it]Batches:  24%|██▍       | 15/63 [27:18<16:44, 20.93s/it]Batches:  25%|██▌       | 16/63 [27:19<11:48, 15.07s/it]Batches:  27%|██▋       | 17/63 [27:21<08:25, 11.00s/it]Batches:  29%|██▊       | 18/63 [27:22<06:06,  8.15s/it]Batches:  30%|███       | 19/63 [27:24<04:32,  6.18s/it]Batches:  32%|███▏      | 20/63 [27:25<03:25,  4.78s/it]Batches:  33%|███▎      | 21/63 [27:27<02:39,  3.81s/it]Batches:  35%|███▍      | 22/63 [27:29<02:09,  3.16s/it]Batches:  37%|███▋      | 23/63 [27:30<01:46,  2.67s/it]Batches:  38%|███▊      | 24/63 [27:32<01:30,  2.32s/it]Batches:  40%|███▉      | 25/63 [27:33<01:19,  2.08s/it]Batches:  41%|████▏     | 26/63 [27:35<01:10,  1.92s/it]Batches:  43%|████▎     | 27/63 [27:36<01:04,  1.79s/it]Batches:  44%|████▍     | 28/63 [27:38<01:01,  1.75s/it]Batches:  46%|████▌     | 29/63 [27:39<00:57,  1.68s/it]Batches:  48%|████▊     | 30/63 [27:41<00:53,  1.63s/it]Batches:  49%|████▉     | 31/63 [27:42<00:51,  1.61s/it]Batches:  51%|█████     | 32/63 [27:44<00:49,  1.59s/it]Batches:  52%|█████▏    | 33/63 [27:45<00:46,  1.57s/it]Batches:  54%|█████▍    | 34/63 [27:47<00:42,  1.46s/it]Batches:  56%|█████▌    | 35/63 [33:11<45:48, 98.17s/it]Batches:  57%|█████▋    | 36/63 [33:12<31:04, 69.07s/it]Batches:  59%|█████▊    | 37/63 [33:12<21:01, 48.52s/it]Batches:  60%|██████    | 38/63 [33:13<14:13, 34.15s/it]Batches:  62%|██████▏   | 39/63 [33:15<09:49, 24.55s/it]Batches:  63%|██████▎   | 40/63 [33:17<06:50, 17.83s/it]Batches:  65%|██████▌   | 41/63 [33:19<04:44, 12.93s/it]Batches:  67%|██████▋   | 42/63 [33:20<03:21,  9.58s/it]Batches:  68%|██████▊   | 43/63 [33:22<02:24,  7.22s/it]Batches:  70%|██████▉   | 44/63 [33:24<01:45,  5.56s/it]Batches:  71%|███████▏  | 45/63 [33:25<01:18,  4.37s/it]Batches:  73%|███████▎  | 46/63 [33:27<01:00,  3.59s/it]Batches:  75%|███████▍  | 47/63 [33:29<00:48,  3.01s/it]Batches:  76%|███████▌  | 48/63 [33:31<00:39,  2.61s/it]Batches:  78%|███████▊  | 49/63 [33:32<00:32,  2.34s/it]Batches:  79%|███████▉  | 50/63 [33:34<00:27,  2.14s/it]Batches:  81%|████████  | 51/63 [33:35<00:23,  1.96s/it]Batches:  83%|████████▎ | 52/63 [33:37<00:20,  1.84s/it]Batches:  84%|████████▍ | 53/63 [33:39<00:17,  1.77s/it]Batches:  86%|████████▌ | 54/63 [33:40<00:15,  1.73s/it]Batches:  87%|████████▋ | 55/63 [33:42<00:13,  1.71s/it]Batches:  89%|████████▉ | 56/63 [33:44<00:11,  1.68s/it]Batches:  90%|█████████ | 57/63 [33:45<00:10,  1.68s/it]Batches:  92%|█████████▏| 58/63 [33:47<00:08,  1.66s/it]Batches:  94%|█████████▎| 59/63 [33:48<00:06,  1.65s/it]Batches:  95%|█████████▌| 60/63 [33:50<00:04,  1.55s/it]Batches:  97%|█████████▋| 61/63 [49:27<09:24, 282.38s/it]Batches:  98%|█████████▊| 62/63 [49:29<03:18, 198.01s/it]Batches: 100%|██████████| 63/63 [49:29<00:00, 138.74s/it]Batches: 100%|██████████| 63/63 [49:29<00:00, 47.14s/it] 
+Successfully stored 2005 chunks!
+Successfully ingested RBI_Statistical_Tables_Bank_Earnings_Expenses_2024_25.pdf
+
+============================================================
+Processing: RBI_Statistical_Tables_Bank_Liabilities_Assets_2024_25.pdf
+============================================================
+Extracting PDF text...
+Pages extracted: 2022
+Chunks created: 4137
+Average tokens: 299.98
+Minimum tokens: 224
+Maximum tokens: 300
+
+Generating embeddings...
+Batches:   0%|          | 0/130 [00:00<?, ?it/s]Batches:   1%|          | 1/130 [00:00<02:00,  1.07it/s]Batches:   2%|▏         | 2/130 [00:01<01:40,  1.27it/s]Batches:   2%|▏         | 3/130 [00:02<01:28,  1.44it/s]Batches:   3%|▎         | 4/130 [00:03<01:42,  1.22it/s]Batches:   4%|▍         | 5/130 [15:12<11:24:28, 328.55s/it]Batches:   5%|▍         | 6/130 [15:13<7:28:56, 217.23s/it] Batches:   5%|▌         | 7/130 [15:14<5:00:10, 146.42s/it]Batches:   6%|▌         | 8/130 [15:15<3:23:20, 100.01s/it]Batches:   7%|▋         | 9/130 [15:16<2:19:15, 69.06s/it] Batches:   8%|▊         | 10/130 [22:09<5:50:49, 175.41s/it]Batches:   8%|▊         | 11/130 [22:10<4:02:07, 122.08s/it]Batches:   9%|▉         | 12/130 [22:11<2:47:28, 85.15s/it] Batches:  10%|█         | 13/130 [22:12<1:56:05, 59.54s/it]Batches:  11%|█         | 14/130 [22:13<1:20:59, 41.89s/it]Batches:  12%|█▏        | 15/130 [22:16<57:47, 30.16s/it]  Batches:  12%|█▏        | 16/130 [22:17<40:45, 21.45s/it]Batches:  13%|█▎        | 17/130 [22:19<29:09, 15.49s/it]Batches:  14%|█▍        | 18/130 [22:20<21:08, 11.33s/it]Batches:  15%|█▍        | 19/130 [22:22<15:32,  8.40s/it]Batches:  15%|█▌        | 20/130 [22:23<11:37,  6.34s/it]Batches:  16%|█▌        | 21/130 [22:25<08:56,  4.92s/it]Batches:  17%|█▋        | 22/130 [22:27<07:04,  3.93s/it]Batches:  18%|█▊        | 23/130 [22:28<05:45,  3.23s/it]Batches:  18%|█▊        | 24/130 [22:30<04:49,  2.73s/it]Batches:  19%|█▉        | 25/130 [22:32<04:12,  2.40s/it]Batches:  20%|██        | 26/130 [22:33<03:44,  2.16s/it]Batches:  21%|██        | 27/130 [22:35<03:25,  1.99s/it]Batches:  22%|██▏       | 28/130 [22:36<03:10,  1.86s/it]Batches:  22%|██▏       | 29/130 [22:37<02:48,  1.67s/it]Batches:  23%|██▎       | 30/130 [37:50<7:38:26, 275.07s/it]Batches:  24%|██▍       | 31/130 [37:52<5:18:19, 192.92s/it]Batches:  25%|██▍       | 32/130 [37:52<3:40:51, 135.22s/it]Batches:  25%|██▌       | 33/130 [37:53<2:33:20, 94.85s/it] Batches:  26%|██▌       | 34/130 [37:54<1:46:43, 66.70s/it]Batches:  27%|██▋       | 35/130 [53:44<8:45:24, 331.84s/it]Batches:  28%|██▊       | 36/130 [53:46<6:04:30, 232.66s/it]Batches:  28%|██▊       | 37/130 [53:46<4:12:43, 163.05s/it]Batches:  29%|██▉       | 38/130 [53:47<2:55:16, 114.31s/it]Batches:  30%|███       | 39/130 [53:48<2:01:50, 80.33s/it] Batches:  31%|███       | 40/130 [1:10:30<8:55:06, 356.74s/it]Batches:  32%|███▏      | 41/130 [1:10:31<6:10:56, 250.07s/it]Batches:  32%|███▏      | 42/130 [1:10:31<4:17:00, 175.23s/it]Batches:  33%|███▎      | 43/130 [1:10:32<2:58:09, 122.87s/it]Batches:  34%|███▍      | 44/130 [1:10:33<2:03:44, 86.33s/it] Batches:  35%|███▍      | 45/130 [1:23:10<6:47:10, 287.42s/it]Batches:  35%|███▌      | 46/130 [1:23:11<4:42:08, 201.53s/it]Batches:  36%|███▌      | 47/130 [1:23:12<3:15:23, 141.25s/it]Batches:  37%|███▋      | 48/130 [1:23:12<2:15:24, 99.08s/it] Batches:  38%|███▊      | 49/130 [1:23:15<1:34:47, 70.22s/it]Batches:  38%|███▊      | 50/130 [1:23:17<1:06:06, 49.58s/it]Batches:  39%|███▉      | 51/130 [1:23:18<46:17, 35.16s/it]  Batches:  40%|████      | 52/130 [1:23:20<32:36, 25.08s/it]Batches:  41%|████      | 53/130 [1:23:21<23:07, 18.02s/it]Batches:  42%|████▏     | 54/130 [1:23:23<16:34, 13.09s/it]Batches:  42%|████▏     | 55/130 [1:23:24<12:02,  9.63s/it]Batches:  43%|████▎     | 56/130 [1:23:26<08:53,  7.21s/it]Batches:  44%|████▍     | 57/130 [1:23:27<06:42,  5.51s/it]Batches:  45%|████▍     | 58/130 [1:23:29<05:09,  4.30s/it]Batches:  45%|████▌     | 59/130 [1:23:30<03:56,  3.32s/it]Batches:  46%|████▌     | 60/130 [1:41:05<6:11:59, 318.85s/it]Batches:  47%|████▋     | 61/130 [1:41:06<4:17:03, 223.53s/it]Batches:  48%|████▊     | 62/130 [1:41:07<2:57:32, 156.65s/it]Batches:  48%|████▊     | 63/130 [1:41:07<2:02:41, 109.88s/it]Batches:  49%|████▉     | 64/130 [1:41:09<1:25:07, 77.38s/it] Batches:  50%|█████     | 65/130 [1:57:02<6:08:27, 340.11s/it]Batches:  51%|█████     | 66/130 [1:57:03<4:14:15, 238.37s/it]Batches:  52%|█████▏    | 67/130 [1:57:04<2:55:23, 167.04s/it]Batches:  52%|█████▏    | 68/130 [1:57:04<2:01:02, 117.14s/it]Batches:  53%|█████▎    | 69/130 [1:57:06<1:23:50, 82.46s/it] Batches:  54%|█████▍    | 70/130 [2:14:12<6:05:38, 365.64s/it]Batches:  55%|█████▍    | 71/130 [2:14:13<4:11:58, 256.25s/it]Batches:  55%|█████▌    | 72/130 [2:14:14<2:53:33, 179.55s/it]Batches:  56%|█████▌    | 73/130 [2:14:15<1:59:37, 125.93s/it]Batches:  57%|█████▋    | 74/130 [2:24:09<4:08:47, 266.56s/it]Batches:  58%|█████▊    | 75/130 [2:24:11<2:51:22, 186.96s/it]Batches:  58%|█████▊    | 76/130 [2:24:11<1:57:59, 131.11s/it]Batches:  59%|█████▉    | 77/130 [2:24:12<1:21:13, 91.96s/it] Batches:  60%|██████    | 78/130 [2:24:14<56:14, 64.90s/it]  Batches:  61%|██████    | 79/130 [2:24:17<39:18, 46.25s/it]Batches:  62%|██████▏   | 80/130 [2:24:18<27:20, 32.82s/it]Batches:  62%|██████▏   | 81/130 [2:24:20<19:10, 23.48s/it]Batches:  63%|██████▎   | 82/130 [2:24:21<13:32, 16.92s/it]Batches:  64%|██████▍   | 83/130 [2:24:23<09:39, 12.32s/it]Batches:  65%|██████▍   | 84/130 [2:24:25<06:59,  9.12s/it]Batches:  65%|██████▌   | 85/130 [2:24:26<05:09,  6.88s/it]Batches:  66%|██████▌   | 86/130 [2:24:28<03:54,  5.33s/it]Batches:  67%|██████▋   | 87/130 [2:24:30<03:01,  4.23s/it]Batches:  68%|██████▊   | 88/130 [2:24:31<02:25,  3.46s/it]Batches:  68%|██████▊   | 89/130 [2:24:33<02:01,  2.95s/it]Batches:  69%|██████▉   | 90/130 [2:24:35<01:42,  2.56s/it]Batches:  70%|███████   | 91/130 [2:24:36<01:28,  2.27s/it]Batches:  71%|███████   | 92/130 [2:24:38<01:19,  2.08s/it]Batches:  72%|███████▏  | 93/130 [2:24:40<01:11,  1.94s/it]Batches:  72%|███████▏  | 94/130 [2:24:41<01:07,  1.87s/it]Batches:  73%|███████▎  | 95/130 [2:24:43<01:03,  1.81s/it]Batches:  74%|███████▍  | 96/130 [2:24:45<00:59,  1.76s/it]Batches:  75%|███████▍  | 97/130 [2:24:46<00:57,  1.74s/it]Batches:  75%|███████▌  | 98/130 [2:24:48<00:54,  1.70s/it]Batches:  76%|███████▌  | 99/130 [2:24:49<00:51,  1.66s/it]Batches:  77%|███████▋  | 100/130 [2:24:51<00:49,  1.65s/it]Batches:  78%|███████▊  | 101/130 [2:24:52<00:45,  1.57s/it]Batches:  78%|███████▊  | 102/130 [2:40:03<2:07:55, 274.12s/it]Batches:  79%|███████▉  | 103/130 [2:40:04<1:26:30, 192.24s/it]Batches:  80%|████████  | 104/130 [2:40:05<58:25, 134.82s/it]  Batches:  81%|████████  | 105/130 [2:40:05<39:24, 94.56s/it] Batches:  82%|████████▏ | 106/130 [2:40:06<26:35, 66.48s/it]Batches:  82%|████████▏ | 107/130 [2:57:48<2:19:56, 365.07s/it]Batches:  83%|████████▎ | 108/130 [2:57:49<1:33:51, 255.95s/it]Batches:  84%|████████▍ | 109/130 [2:57:50<1:02:46, 179.36s/it]Batches:  85%|████████▍ | 110/130 [2:57:51<41:55, 125.77s/it]  Batches:  85%|████████▌ | 111/130 [3:14:42<2:03:59, 391.57s/it]Batches:  86%|████████▌ | 112/130 [3:14:44<1:22:20, 274.48s/it]Batches:  87%|████████▋ | 113/130 [3:14:45<54:30, 192.39s/it]  Batches:  88%|████████▊ | 114/130 [3:14:45<35:57, 134.86s/it]Batches:  88%|████████▊ | 115/130 [3:14:46<23:40, 94.67s/it] Batches:  89%|████████▉ | 116/130 [3:25:10<59:06, 253.35s/it]Batches:  90%|█████████ | 117/130 [3:25:11<38:30, 177.74s/it]Batches:  91%|█████████ | 118/130 [3:25:12<24:55, 124.65s/it]Batches:  92%|█████████▏| 119/130 [3:25:12<16:01, 87.45s/it] Batches:  92%|█████████▏| 120/130 [3:25:15<10:21, 62.12s/it]Batches:  93%|█████████▎| 121/130 [3:25:17<06:35, 43.92s/it]Batches:  94%|█████████▍| 122/130 [3:25:18<04:09, 31.23s/it]Batches:  95%|█████████▍| 123/130 [3:25:20<02:36, 22.38s/it]Batches:  95%|█████████▌| 124/130 [3:25:22<01:37, 16.17s/it]Batches:  96%|█████████▌| 125/130 [3:25:24<00:59, 11.84s/it]Batches:  97%|█████████▋| 126/130 [3:25:25<00:35,  8.79s/it]Batches:  98%|█████████▊| 127/130 [3:25:27<00:20,  6.70s/it]Batches:  98%|█████████▊| 128/130 [3:25:29<00:10,  5.18s/it]Batches:  99%|█████████▉| 129/130 [3:25:30<00:04,  4.14s/it]Batches: 100%|██████████| 130/130 [3:25:31<00:00,  3.03s/it]Batches: 100%|██████████| 130/130 [3:25:31<00:00, 94.86s/it]
+Successfully stored 4137 chunks!
+Successfully ingested RBI_Statistical_Tables_Bank_Liabilities_Assets_2024_25.pdf
+
+============================================================
+Processing: RBI_Statistical_Tables_Bank_NPA_Movement_2024_25.pdf
+============================================================
+Extracting PDF text...
+Pages extracted: 234
+Chunks created: 385
+Average tokens: 299.9
+Minimum tokens: 262
+Maximum tokens: 300
+
+Generating embeddings...
+Batches:   0%|          | 0/13 [00:00<?, ?it/s]Batches:   8%|▊         | 1/13 [00:01<00:12,  1.03s/it]Batches:  15%|█▌        | 2/13 [00:02<00:15,  1.45s/it]Batches:  23%|██▎       | 3/13 [00:04<00:14,  1.47s/it]Batches:  31%|███       | 4/13 [00:05<00:13,  1.48s/it]Batches:  38%|███▊      | 5/13 [00:07<00:12,  1.52s/it]Batches:  46%|████▌     | 6/13 [00:08<00:10,  1.55s/it]Batches:  54%|█████▍    | 7/13 [00:10<00:09,  1.57s/it]Batches:  62%|██████▏   | 8/13 [00:12<00:07,  1.58s/it]Batches:  69%|██████▉   | 9/13 [00:13<00:06,  1.60s/it]Batches:  77%|███████▋  | 10/13 [00:17<00:06,  2.09s/it]Batches:  85%|████████▍ | 11/13 [00:18<00:03,  1.87s/it]Batches:  92%|█████████▏| 12/13 [00:20<00:01,  1.80s/it]Batches: 100%|██████████| 13/13 [00:20<00:00,  1.54s/it]
+Successfully stored 385 chunks!
+Successfully ingested RBI_Statistical_Tables_Bank_NPA_Movement_2024_25.pdf
+
+============================================================
+Processing: RBI_Statistical_Tables_Bank_Provisions_Contingencies_2024_25.pdf
+============================================================
+Extracting PDF text...
+Pages extracted: 210
+Chunks created: 323
+Average tokens: 299.51
+Minimum tokens: 143
+Maximum tokens: 300
+
+Generating embeddings...
+Batches:   0%|          | 0/11 [00:00<?, ?it/s]Batches:   9%|▉         | 1/11 [01:12<12:07, 72.76s/it]Batches:  18%|█▊        | 2/11 [01:13<04:35, 30.60s/it]Batches:  27%|██▋       | 3/11 [01:14<02:15, 16.89s/it]Batches:  36%|███▋      | 4/11 [01:15<01:13, 10.49s/it]Batches:  45%|████▌     | 5/11 [01:17<00:45,  7.60s/it]Batches:  55%|█████▍    | 6/11 [01:19<00:27,  5.53s/it]Batches:  64%|██████▎   | 7/11 [01:20<00:16,  4.14s/it]Batches:  73%|███████▎  | 8/11 [01:22<00:10,  3.53s/it]Batches:  82%|████████▏ | 9/11 [01:23<00:05,  2.85s/it]Batches:  91%|█████████ | 10/11 [01:25<00:02,  2.45s/it]Batches: 100%|██████████| 11/11 [01:25<00:00,  1.75s/it]Batches: 100%|██████████| 11/11 [01:25<00:00,  7.79s/it]
+Successfully stored 323 chunks!
+Successfully ingested RBI_Statistical_Tables_Bank_Provisions_Contingencies_2024_25.pdf
+
+============================================================
+Processing: RBI_Annual_Report_2025_26_Chapter_01.pdf
+============================================================
+Extracting PDF text...
+Pages extracted: 12
+Chunks created: 40
+Average tokens: 298.15
+Minimum tokens: 226
+Maximum tokens: 300
+
+Generating embeddings...
+Batches:   0%|          | 0/2 [00:00<?, ?it/s]Batches:  50%|█████     | 1/2 [00:02<00:02,  2.35s/it]Batches: 100%|██████████| 2/2 [00:02<00:00,  1.22s/it]Batches: 100%|██████████| 2/2 [00:02<00:00,  1.39s/it]
+Successfully stored 40 chunks!
+Successfully ingested RBI_Annual_Report_2025_26_Chapter_01.pdf
+
+============================================================
+Processing: RBI_Annual_Report_2025_26_Chapter_02.pdf
+============================================================
+Extracting PDF text...
+Pages extracted: 46
+Chunks created: 181
+Average tokens: 299.47
+Minimum tokens: 204
+Maximum tokens: 300
+
+Generating embeddings...
+Batches:   0%|          | 0/6 [00:00<?, ?it/s]Batches:  17%|█▋        | 1/6 [00:01<00:09,  1.98s/it]Batches:  33%|███▎      | 2/6 [00:03<00:07,  1.83s/it]Batches:  50%|█████     | 3/6 [00:05<00:05,  1.78s/it]Batches:  67%|██████▋   | 4/6 [00:07<00:03,  1.78s/it]Batches:  83%|████████▎ | 5/6 [00:09<00:01,  1.84s/it]Batches: 100%|██████████| 6/6 [00:10<00:00,  1.59s/it]Batches: 100%|██████████| 6/6 [00:10<00:00,  1.71s/it]
+Successfully stored 181 chunks!
+Successfully ingested RBI_Annual_Report_2025_26_Chapter_02.pdf
+
+============================================================
+Processing: RBI_Annual_Report_2025_26_Chapter_03.pdf
+============================================================
+Extracting PDF text...
+Pages extracted: 13
+Chunks created: 48
+Average tokens: 298.65
+Minimum tokens: 235
+Maximum tokens: 300
+
+Generating embeddings...
+Batches:   0%|          | 0/2 [00:00<?, ?it/s]Batches:  50%|█████     | 1/2 [00:02<00:02,  2.21s/it]Batches: 100%|██████████| 2/2 [00:03<00:00,  1.44s/it]Batches: 100%|██████████| 2/2 [00:03<00:00,  1.55s/it]
+Successfully stored 48 chunks!
+Successfully ingested RBI_Annual_Report_2025_26_Chapter_03.pdf
+
+============================================================
+Processing: RBI_Annual_Report_2025_26_Chapter_04.pdf
+============================================================
+Extracting PDF text...
+Pages extracted: 7
+Chunks created: 21
+Average tokens: 299.86
+Minimum tokens: 297
+Maximum tokens: 300
+
+Generating embeddings...
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:01<00:00,  1.23s/it]Batches: 100%|██████████| 1/1 [00:01<00:00,  1.23s/it]
+Successfully stored 21 chunks!
+Successfully ingested RBI_Annual_Report_2025_26_Chapter_04.pdf
+
+============================================================
+Processing: RBI_Annual_Report_2025_26_Chapter_05.pdf
+============================================================
+Extracting PDF text...
+Pages extracted: 9
+Chunks created: 28
+Average tokens: 299.57
+Minimum tokens: 288
+Maximum tokens: 300
+
+Generating embeddings...
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:01<00:00,  1.71s/it]Batches: 100%|██████████| 1/1 [00:01<00:00,  1.72s/it]
+Successfully stored 28 chunks!
+Successfully ingested RBI_Annual_Report_2025_26_Chapter_05.pdf
+
+============================================================
+Processing: RBI_Annual_Report_2025_26_Chapter_06.pdf
+============================================================
+Extracting PDF text...
+Pages extracted: 27
+Chunks created: 84
+Average tokens: 297.42
+Minimum tokens: 83
+Maximum tokens: 300
+
+Generating embeddings...
+Batches:   0%|          | 0/3 [00:00<?, ?it/s]Batches:  33%|███▎      | 1/3 [00:01<00:03,  1.95s/it]Batches:  67%|██████▋   | 2/3 [00:03<00:01,  1.80s/it]Batches: 100%|██████████| 3/3 [00:04<00:00,  1.45s/it]Batches: 100%|██████████| 3/3 [00:04<00:00,  1.56s/it]
+Successfully stored 84 chunks!
+Successfully ingested RBI_Annual_Report_2025_26_Chapter_06.pdf
+
+============================================================
+Processing: RBI_Annual_Report_2025_26_Chapter_07.pdf
+============================================================
+Extracting PDF text...
+Pages extracted: 6
+Chunks created: 23
+Average tokens: 294.0
+Minimum tokens: 162
+Maximum tokens: 300
+
+Generating embeddings...
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:01<00:00,  1.33s/it]Batches: 100%|██████████| 1/1 [00:01<00:00,  1.33s/it]
+Successfully stored 23 chunks!
+Successfully ingested RBI_Annual_Report_2025_26_Chapter_07.pdf
+
+============================================================
+Processing: RBI_Annual_Report_2025_26_Chapter_08.pdf
+============================================================
+Extracting PDF text...
+Pages extracted: 6
+Chunks created: 21
+Average tokens: 290.29
+Minimum tokens: 96
+Maximum tokens: 300
+
+Generating embeddings...
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:01<00:00,  1.34s/it]Batches: 100%|██████████| 1/1 [00:01<00:00,  1.34s/it]
+Successfully stored 21 chunks!
+Successfully ingested RBI_Annual_Report_2025_26_Chapter_08.pdf
+
+============================================================
+Processing: RBI_Annual_Report_2025_26_Chapter_09.pdf
+============================================================
+Extracting PDF text...
+Pages extracted: 12
+Chunks created: 36
+Average tokens: 298.22
+Minimum tokens: 236
+Maximum tokens: 300
+
+Generating embeddings...
+Batches:   0%|          | 0/2 [00:00<?, ?it/s]Batches:  50%|█████     | 1/2 [00:01<00:01,  1.85s/it]Batches: 100%|██████████| 2/2 [00:02<00:00,  1.11it/s]Batches: 100%|██████████| 2/2 [00:02<00:00,  1.04s/it]
+Successfully stored 36 chunks!
+Successfully ingested RBI_Annual_Report_2025_26_Chapter_09.pdf
+
+============================================================
+Processing: RBI_Annual_Report_2025_26_Chapter_10.pdf
+============================================================
+Extracting PDF text...
+Pages extracted: 15
+Chunks created: 44
+Average tokens: 295.66
+Minimum tokens: 109
+Maximum tokens: 300
+
+Generating embeddings...
+Batches:   0%|          | 0/2 [00:00<?, ?it/s]Batches:  50%|█████     | 1/2 [00:01<00:01,  1.79s/it]Batches: 100%|██████████| 2/2 [00:02<00:00,  1.08s/it]Batches: 100%|██████████| 2/2 [00:02<00:00,  1.18s/it]
+Successfully stored 44 chunks!
+Successfully ingested RBI_Annual_Report_2025_26_Chapter_10.pdf
+
+============================================================
+Processing: RBI_Annual_Report_2025_26_Chapter_11.pdf
+============================================================
+Extracting PDF text...
+Pages extracted: 16
+Chunks created: 45
+Average tokens: 298.87
+Minimum tokens: 249
+Maximum tokens: 300
+
+Generating embeddings...
+Batches:   0%|          | 0/2 [00:00<?, ?it/s]Batches:  50%|█████     | 1/2 [00:01<00:01,  1.05s/it]Batches: 100%|██████████| 2/2 [00:51<00:00, 29.86s/it]Batches: 100%|██████████| 2/2 [00:51<00:00, 25.54s/it]
+Successfully stored 45 chunks!
+Successfully ingested RBI_Annual_Report_2025_26_Chapter_11.pdf
+
+============================================================
+Processing: RBI_Annual_Report_2025_26_Chapter_12.pdf
+============================================================
+Extracting PDF text...
+Pages extracted: 28
+Chunks created: 98
+Average tokens: 297.78
+Minimum tokens: 82
+Maximum tokens: 300
+
+Generating embeddings...
+Batches:   0%|          | 0/4 [00:00<?, ?it/s]Batches:  25%|██▌       | 1/4 [00:00<00:02,  1.23it/s]Batches:  50%|█████     | 2/4 [00:01<00:01,  1.35it/s]Batches:  75%|███████▌  | 3/4 [00:02<00:00,  1.38it/s]Batches: 100%|██████████| 4/4 [00:02<00:00,  1.77it/s]
+Successfully stored 98 chunks!
+Successfully ingested RBI_Annual_Report_2025_26_Chapter_12.pdf
+
+============================================================
+Processing: RBI_Banking_Regulation_Act_1949.pdf
+============================================================
+Extracting PDF text...
+Pages extracted: 112
+Chunks created: 383
+Average tokens: 299.51
+Minimum tokens: 113
+Maximum tokens: 300
+
+Generating embeddings...
+Batches:   0%|          | 0/12 [00:00<?, ?it/s]Batches:   8%|▊         | 1/12 [00:00<00:08,  1.36it/s]Batches:  17%|█▋        | 2/12 [00:01<00:07,  1.30it/s]Batches:  25%|██▌       | 3/12 [00:02<00:06,  1.34it/s]Batches:  33%|███▎      | 4/12 [00:02<00:05,  1.35it/s]Batches:  42%|████▏     | 5/12 [00:03<00:05,  1.37it/s]Batches:  50%|█████     | 6/12 [00:04<00:05,  1.11it/s]Batches:  58%|█████▊    | 7/12 [00:05<00:04,  1.09it/s]Batches:  67%|██████▋   | 8/12 [00:07<00:04,  1.00s/it]Batches:  75%|███████▌  | 9/12 [00:07<00:02,  1.02it/s]Batches:  83%|████████▎ | 10/12 [00:08<00:01,  1.06it/s]Batches:  92%|█████████▏| 11/12 [00:09<00:00,  1.01it/s]Batches: 100%|██████████| 12/12 [00:10<00:00,  1.13it/s]Batches: 100%|██████████| 12/12 [00:10<00:00,  1.13it/s]
+Successfully stored 383 chunks!
+Successfully ingested RBI_Banking_Regulation_Act_1949.pdf
+
+============================================================
+Processing: RBI_Financial_Stability_Report_June_2026.pdf
+============================================================
+Extracting PDF text...
+OCR required on page 2
+OCR required on page 6
+Pages extracted: 191
+Chunks created: 561
+Average tokens: 299.67
+Minimum tokens: 116
+Maximum tokens: 300
+
+Generating embeddings...
+Batches:   0%|          | 0/18 [00:00<?, ?it/s]Batches:   6%|▌         | 1/18 [00:00<00:12,  1.33it/s]Batches:  11%|█         | 2/18 [00:01<00:11,  1.38it/s]Batches:  17%|█▋        | 3/18 [00:02<00:10,  1.38it/s]Batches:  22%|██▏       | 4/18 [00:02<00:10,  1.39it/s]Batches:  28%|██▊       | 5/18 [00:03<00:09,  1.41it/s]Batches:  33%|███▎      | 6/18 [00:04<00:08,  1.40it/s]Batches:  39%|███▉      | 7/18 [00:04<00:07,  1.42it/s]Batches:  44%|████▍     | 8/18 [00:05<00:07,  1.42it/s]Batches:  50%|█████     | 9/18 [00:06<00:06,  1.43it/s]Batches:  56%|█████▌    | 10/18 [00:07<00:05,  1.44it/s]Batches:  61%|██████    | 11/18 [00:07<00:04,  1.47it/s]Batches:  67%|██████▋   | 12/18 [00:08<00:04,  1.50it/s]Batches:  72%|███████▏  | 13/18 [00:09<00:03,  1.49it/s]Batches:  78%|███████▊  | 14/18 [00:09<00:02,  1.51it/s]Batches:  83%|████████▎ | 15/18 [00:10<00:01,  1.50it/s]Batches:  89%|████████▉ | 16/18 [00:10<00:01,  1.54it/s]Batches:  94%|█████████▍| 17/18 [00:11<00:00,  1.57it/s]Batches: 100%|██████████| 18/18 [00:11<00:00,  1.87it/s]Batches: 100%|██████████| 18/18 [00:11<00:00,  1.52it/s]
+Successfully stored 561 chunks!
+Successfully ingested RBI_Financial_Stability_Report_June_2026.pdf
+
+============================================================
+Processing: RBI_Handbook_Statistics_Indian_Economy_2025_26.pdf
+============================================================
+Extracting PDF text...
+OCR required on page 2
+OCR required on page 6
+OCR required on page 18
+OCR required on page 19
+OCR required on page 20
+OCR required on page 22
+OCR required on page 59
+OCR required on page 60
+OCR required on page 85
+OCR required on page 86
+OCR required on page 117
+OCR required on page 118
+OCR required on page 153
+OCR required on page 154
+OCR required on page 180
+OCR required on page 182
+OCR required on page 272
+OCR required on page 273
+OCR required on page 274
+OCR required on page 278
+OCR required on page 279
+OCR required on page 280
+OCR required on page 282
+OCR required on page 284
+OCR required on page 285
+OCR required on page 286
+OCR required on page 299
+OCR required on page 300
+OCR required on page 318
+OCR required on page 319
+OCR required on page 320
+OCR required on page 336
+OCR required on page 337
+OCR required on page 338
+OCR required on page 392
+OCR required on page 414
+OCR required on page 434
+OCR required on page 435
+OCR required on page 436
+OCR required on page 460
+OCR required on page 461
+OCR required on page 462
+Pages extracted: 462
+Chunks created: 2481
+Average tokens: 299.93
+Minimum tokens: 135
+Maximum tokens: 300
+
+Generating embeddings...
+Batches:   0%|          | 0/78 [00:00<?, ?it/s]Batches:   1%|▏         | 1/78 [00:00<01:00,  1.27it/s]Batches:   3%|▎         | 2/78 [00:01<00:55,  1.37it/s]Batches:   4%|▍         | 3/78 [00:02<00:54,  1.38it/s]Batches:   5%|▌         | 4/78 [00:02<00:53,  1.38it/s]Batches:   6%|▋         | 5/78 [00:03<00:52,  1.39it/s]Batches:   8%|▊         | 6/78 [00:04<00:51,  1.39it/s]Batches:   9%|▉         | 7/78 [00:05<00:50,  1.39it/s]Batches:  10%|█         | 8/78 [00:05<00:49,  1.43it/s]Batches:  12%|█▏        | 9/78 [00:06<00:48,  1.42it/s]Batches:  13%|█▎        | 10/78 [00:07<00:48,  1.40it/s]Batches:  14%|█▍        | 11/78 [00:07<00:48,  1.40it/s]Batches:  15%|█▌        | 12/78 [00:08<00:47,  1.39it/s]Batches:  17%|█▋        | 13/78 [00:09<00:47,  1.36it/s]Batches:  18%|█▊        | 14/78 [00:10<00:47,  1.36it/s]Batches:  19%|█▉        | 15/78 [00:10<00:46,  1.35it/s]Batches:  21%|██        | 16/78 [00:11<00:46,  1.34it/s]Batches:  22%|██▏       | 17/78 [00:12<00:44,  1.36it/s]Batches:  23%|██▎       | 18/78 [00:13<00:44,  1.35it/s]Batches:  24%|██▍       | 19/78 [00:13<00:43,  1.35it/s]Batches:  26%|██▌       | 20/78 [00:14<00:43,  1.32it/s]Batches:  27%|██▋       | 21/78 [00:15<00:42,  1.33it/s]Batches:  28%|██▊       | 22/78 [00:16<00:42,  1.31it/s]Batches:  29%|██▉       | 23/78 [00:16<00:42,  1.30it/s]Batches:  31%|███       | 24/78 [00:17<00:40,  1.33it/s]Batches:  32%|███▏      | 25/78 [00:18<00:40,  1.32it/s]Batches:  33%|███▎      | 26/78 [00:19<00:39,  1.33it/s]Batches:  35%|███▍      | 27/78 [00:19<00:38,  1.33it/s]Batches:  36%|███▌      | 28/78 [00:20<00:37,  1.32it/s]Batches:  37%|███▋      | 29/78 [00:21<00:37,  1.31it/s]Batches:  38%|███▊      | 30/78 [00:22<00:36,  1.32it/s]Batches:  40%|███▉      | 31/78 [00:22<00:35,  1.34it/s]Batches:  41%|████      | 32/78 [00:23<00:33,  1.36it/s]Batches:  42%|████▏     | 33/78 [00:24<00:33,  1.36it/s]Batches:  44%|████▎     | 34/78 [00:25<00:32,  1.37it/s]Batches:  45%|████▍     | 35/78 [00:25<00:30,  1.39it/s]Batches:  46%|████▌     | 36/78 [00:26<00:30,  1.39it/s]Batches:  47%|████▋     | 37/78 [00:27<00:29,  1.39it/s]Batches:  49%|████▊     | 38/78 [00:27<00:28,  1.39it/s]Batches:  50%|█████     | 39/78 [00:28<00:28,  1.36it/s]Batches:  51%|█████▏    | 40/78 [00:29<00:28,  1.34it/s]Batches:  53%|█████▎    | 41/78 [00:30<00:27,  1.33it/s]Batches:  54%|█████▍    | 42/78 [00:30<00:26,  1.35it/s]Batches:  55%|█████▌    | 43/78 [00:31<00:25,  1.36it/s]Batches:  56%|█████▋    | 44/78 [00:32<00:24,  1.37it/s]Batches:  58%|█████▊    | 45/78 [00:33<00:24,  1.37it/s]Batches:  59%|█████▉    | 46/78 [00:33<00:22,  1.40it/s]Batches:  60%|██████    | 47/78 [00:34<00:22,  1.41it/s]Batches:  62%|██████▏   | 48/78 [00:35<00:20,  1.44it/s]Batches:  63%|██████▎   | 49/78 [00:35<00:19,  1.45it/s]Batches:  64%|██████▍   | 50/78 [00:36<00:19,  1.46it/s]Batches:  65%|██████▌   | 51/78 [00:37<00:18,  1.49it/s]Batches:  67%|██████▋   | 52/78 [00:37<00:17,  1.47it/s]Batches:  68%|██████▊   | 53/78 [00:38<00:17,  1.47it/s]Batches:  69%|██████▉   | 54/78 [00:39<00:16,  1.47it/s]Batches:  71%|███████   | 55/78 [00:39<00:15,  1.52it/s]Batches:  72%|███████▏  | 56/78 [00:40<00:14,  1.49it/s]Batches:  73%|███████▎  | 57/78 [00:41<00:14,  1.49it/s]Batches:  74%|███████▍  | 58/78 [00:41<00:12,  1.56it/s]Batches:  76%|███████▌  | 59/78 [00:42<00:12,  1.56it/s]Batches:  77%|███████▋  | 60/78 [00:43<00:11,  1.59it/s]Batches:  78%|███████▊  | 61/78 [00:43<00:11,  1.54it/s]Batches:  79%|███████▉  | 62/78 [00:44<00:10,  1.54it/s]Batches:  81%|████████  | 63/78 [00:44<00:09,  1.57it/s]Batches:  82%|████████▏ | 64/78 [00:45<00:08,  1.57it/s]Batches:  83%|████████▎ | 65/78 [00:46<00:08,  1.53it/s]Batches:  85%|████████▍ | 66/78 [00:46<00:07,  1.53it/s]Batches:  86%|████████▌ | 67/78 [00:47<00:07,  1.51it/s]Batches:  87%|████████▋ | 68/78 [00:48<00:06,  1.50it/s]Batches:  88%|████████▊ | 69/78 [00:48<00:05,  1.54it/s]Batches:  90%|████████▉ | 70/78 [00:49<00:05,  1.49it/s]Batches:  91%|█████████ | 71/78 [00:50<00:04,  1.53it/s]Batches:  92%|█████████▏| 72/78 [00:50<00:03,  1.53it/s]Batches:  94%|█████████▎| 73/78 [00:51<00:03,  1.58it/s]Batches:  95%|█████████▍| 74/78 [00:52<00:02,  1.59it/s]Batches:  96%|█████████▌| 75/78 [00:52<00:01,  1.60it/s]Batches:  97%|█████████▋| 76/78 [00:53<00:01,  1.64it/s]Batches:  99%|█████████▊| 77/78 [00:53<00:00,  1.67it/s]Batches: 100%|██████████| 78/78 [00:54<00:00,  1.96it/s]Batches: 100%|██████████| 78/78 [00:54<00:00,  1.44it/s]
+Successfully stored 2481 chunks!
+Successfully ingested RBI_Handbook_Statistics_Indian_Economy_2025_26.pdf
+
+============================================================
+Processing: RBI_National_Strategy_Financial_Inclusion_2025_30.pdf
+============================================================
+Extracting PDF text...
+OCR required on page 1
+OCR required on page 5
+OCR required on page 73
+Pages extracted: 74
+Chunks created: 173
+Average tokens: 298.82
+Minimum tokens: 96
+Maximum tokens: 300
+
+Generating embeddings...
+Batches:   0%|          | 0/6 [00:00<?, ?it/s]Batches:  17%|█▋        | 1/6 [00:00<00:03,  1.41it/s]Batches:  33%|███▎      | 2/6 [00:01<00:02,  1.45it/s]Batches:  50%|█████     | 3/6 [00:02<00:02,  1.46it/s]Batches:  67%|██████▋   | 4/6 [00:02<00:01,  1.49it/s]Batches:  83%|████████▎ | 5/6 [00:03<00:00,  1.15it/s]Batches: 100%|██████████| 6/6 [00:04<00:00,  1.44it/s]Batches: 100%|██████████| 6/6 [00:04<00:00,  1.40it/s]
+Successfully stored 173 chunks!
+Successfully ingested RBI_National_Strategy_Financial_Inclusion_2025_30.pdf
+
+============================================================
+Processing: RBI_Trend_Progress_Banking_2024_25.pdf
+============================================================
+Extracting PDF text...
+OCR required on page 1
+OCR required on page 2
+OCR required on page 5
+OCR required on page 6
+OCR required on page 219
+OCR required on page 220
+Pages extracted: 216
+Chunks created: 808
+Average tokens: 299.8
+Minimum tokens: 138
+Maximum tokens: 300
+
+Generating embeddings...
+Batches:   0%|          | 0/26 [00:00<?, ?it/s]Batches:   4%|▍         | 1/26 [00:01<00:32,  1.29s/it]Batches:   8%|▊         | 2/26 [00:01<00:22,  1.05it/s]Batches:  12%|█▏        | 3/26 [00:02<00:20,  1.15it/s]Batches:  15%|█▌        | 4/26 [00:03<00:17,  1.25it/s]Batches:  19%|█▉        | 5/26 [00:04<00:15,  1.34it/s]Batches:  23%|██▎       | 6/26 [00:04<00:14,  1.39it/s]Batches:  27%|██▋       | 7/26 [00:05<00:14,  1.34it/s]Batches:  31%|███       | 8/26 [00:06<00:13,  1.36it/s]Batches:  35%|███▍      | 9/26 [00:06<00:12,  1.40it/s]Batches:  38%|███▊      | 10/26 [00:07<00:11,  1.43it/s]Batches:  42%|████▏     | 11/26 [00:08<00:11,  1.34it/s]Batches:  46%|████▌     | 12/26 [00:09<00:10,  1.37it/s]Batches:  50%|█████     | 13/26 [00:09<00:09,  1.42it/s]Batches:  54%|█████▍    | 14/26 [00:10<00:08,  1.43it/s]Batches:  58%|█████▊    | 15/26 [00:11<00:07,  1.44it/s]Batches:  62%|██████▏   | 16/26 [00:11<00:07,  1.40it/s]Batches:  65%|██████▌   | 17/26 [00:12<00:06,  1.41it/s]Batches:  69%|██████▉   | 18/26 [00:13<00:05,  1.38it/s]Batches:  73%|███████▎  | 19/26 [00:14<00:05,  1.37it/s]Batches:  77%|███████▋  | 20/26 [00:14<00:04,  1.42it/s]Batches:  81%|████████  | 21/26 [00:15<00:03,  1.43it/s]Batches:  85%|████████▍ | 22/26 [00:16<00:02,  1.46it/s]Batches:  88%|████████▊ | 23/26 [00:16<00:02,  1.45it/s]Batches:  92%|█████████▏| 24/26 [00:17<00:01,  1.43it/s]Batches:  96%|█████████▌| 25/26 [00:18<00:00,  1.41it/s]Batches: 100%|██████████| 26/26 [00:18<00:00,  1.86it/s]Batches: 100%|██████████| 26/26 [00:18<00:00,  1.41it/s]
+Successfully stored 808 chunks!
+Successfully ingested RBI_Trend_Progress_Banking_2024_25.pdf
+
+============================================================
+INGESTION PROCESS COMPLETED
+============================================================
+Documents discovered: 30
+Documents successful: 30
+Documents failed: 0
+New chunks processed: 19341
+Documents skipped: 0
+Total chunks in collection: 19341

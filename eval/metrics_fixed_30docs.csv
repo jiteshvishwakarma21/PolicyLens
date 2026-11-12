@@ -1,0 +1,6 @@
+metric,value
+Total Questions,25
+Recall@3,0.72
+Recall@5,0.84
+Recall@10,0.92
+MRR,0.7613

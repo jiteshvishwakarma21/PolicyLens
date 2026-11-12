@@ -1,0 +1,55 @@
+W1112 10:49:33.892000 54950 .venv/lib/python3.12/site-packages/torch/distributed/elastic/multiprocessing/redirects.py:35] NOTE: Redirects are currently not supported in MacOs.
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+
+========================================
+       POLICYLENS RETRIEVAL EVALUATION
+========================================
+Collection: policylens_fixed_30docs
+Total questions: 25
+Top K: 10
+----------------------------------------
+Loading embedding model: intfloat/e5-base-v2
+Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]Loading weights: 100%|██████████| 199/199 [00:00<00:00, 11853.70it/s]
+Embedding model loaded successfully!
+Maximum sequence length: 512
+Connected to collection: policylens_fixed_30docs
+Q01: Rank 1
+Q02: Rank 6
+Q03: Rank 1
+Q04: Rank 6
+Q05: Rank 1
+Q06: Rank 1
+Q07: Rank 1
+Q08: Rank 1
+Q09: Rank 1
+Q10: Rank 1
+Q11: Not found
+Q12: Rank 5
+Q13: Rank 1
+Q14: Rank 1
+Q15: Rank 1
+Q16: Not found
+Q17: Rank 4
+Q18: Rank 1
+Q19: Rank 4
+Q20: Rank 1
+Q21: Rank 1
+Q22: Rank 1
+Q23: Rank 1
+Q24: Rank 1
+Q25: Rank 1
+
+========================================
+             FINAL RESULTS
+========================================
+Total questions: 25
+Recall@3:        0.7200
+Recall@5:        0.8400
+Recall@10:       0.9200
+MRR:             0.7613
+
+Evaluation files saved:
+/Users/jiteshvishwakarma/PolicyLens/policylens final project/eval/metrics_fixed_30docs.csv
+/Users/jiteshvishwakarma/PolicyLens/policylens final project/eval/retrieval_log_fixed_30docs.csv
+
+Evaluation completed successfully.

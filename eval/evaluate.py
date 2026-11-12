@@ -119,12 +119,12 @@ def evaluate():
 
     metrics_path = os.path.join(
         eval_directory,
-        "metrics_30docs.csv"
+        "metrics_fixed_30docs.csv"
     )
 
     retrieval_log_path = os.path.join(
         eval_directory,
-        "retrieval_log_30docs.csv"
+        "retrieval_log_fixed_30docs.csv"
     )
 
     # Load questions.
